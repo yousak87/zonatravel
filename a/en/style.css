@@ -1,0 +1,663 @@
+
+/*start team*/
+.member{
+	text-align:center;
+	float:left;
+	width:100%;
+	background-color:#fff;
+	
+	-webkit-box-shadow: inset 0px 0px 0px 1px rgba(244, 244, 246, 1.0);
+	box-shadow: inset 0px 0px 0px 1px rgba(244, 244, 246, 1.0);
+}
+.membername{
+	float:left;
+	width:100%;
+	background-color:#434A54;
+	color:#96A0AF;
+	padding:20px 0px;	
+}
+.memberposition{
+	float:left;
+	width:100%;
+	margin:0px;
+	padding:10px 0px;
+	font-size:15px;
+	background-color:#1BBC9B;
+	color:#fff;
+}
+.memberdescription{
+	display:inline-block;
+	padding:20px;
+	font-size:15px;	
+        color: #434A54;
+}
+.imgmember{
+	float:left;
+	width:100%;	
+}
+.imgmember img{
+	float:left;
+	width:100%;	
+}
+.socialmember{
+	float:left;
+	width:100%;
+	text-align:center;
+}
+.socialmember ul{
+	float:left;
+	width:100%;
+	text-align:center;
+	list-style:none;
+	background-color:#F9FAFC;
+	-webkit-box-shadow: inset 0px 0px 0px 1px rgba(244, 244, 246, 1.0);
+	box-shadow: inset 0px 0px 0px 1px rgba(244, 244, 246, 1.0);
+	margin:0px;
+	padding:0px;
+}
+.socialmember ul li{
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+	border-right:1px solid #F4F4F6;
+}
+.socialmember ul li:last-child{
+	border-right-width:0px;
+}
+.socialmember img{
+	display: inherit;
+    padding: 20px;
+}
+.socialmember a{
+	display:inline-block;
+}
+/*end team*/
+/*start header*/
+header{
+	float:left;
+	width:100%;
+	position:fixed;
+	z-index:999;
+	top:0px;
+	left:0px;
+}
+header select{
+	float:right;
+	width:100px;
+	display:none;
+	border:1px solid #EBEEF2;
+	padding:10px;
+	margin:10px 0px;
+	background-color: #f9fafc;
+	-webkit-appearance: none;
+}
+
+
+.navigationmenulight{
+	background-color: rgba(255, 255, 255, 1);	
+	
+	-moz-box-shadow: 0 1px 10px #EBEEF2;
+	-webkit-box-shadow: 0 1px 10px #EBEEF2;
+	box-shadow: 0 1px 10px #EBEEF2;
+}
+.navigationmenulight select{
+	border:1px solid #EBEEF2;
+	background-color: #f9fafc;
+	color: #5E6D81;
+}
+
+
+
+.navigationmenudark{
+	background-color:#434A54;	
+	-moz-box-shadow: 0 1px 10px #434A54;
+	-webkit-box-shadow: 0 1px 10px #434A54;
+	box-shadow: 0 1px 10px #434A54;
+        opacity: 0.5;
+}
+.navigationmenudark select{
+	border:1px solid #55738F;
+	background-color: #434A54;
+	color: #B3BBC6;
+}
+
+
+
+
+.logo{
+	margin: 8px 0px;
+	float:left;	
+}
+.leftmenuclose{
+	float:left;
+	cursor:pointer;	
+	position:absolute;
+	z-index:1;
+}
+.leftmenuclose img{
+	float:left;	
+}
+.leftmenuopen{
+	width:300px;
+	height:100%;
+	position:fixed;
+	left:-305px;
+	z-index:9999;
+	
+	-webkit-transition: all 0.8s ease;
+     -moz-transition: all 0.8s ease;
+       -o-transition: all 0.8s ease;
+      -ms-transition: all 0.8s ease;
+          transition: all 0.8s ease;		
+}
+
+/*start dark version*/
+.leftmenuopendark{
+	background-color:#434A54;
+	-moz-box-shadow: 0 0px 5px #434A54;
+	-webkit-box-shadow: 0 0px 5px #434A54;
+	box-shadow: 0 0px 5px #434A54;	
+}
+.leftmenuopendark ul li p{
+	color:#fff;
+}
+.leftmenuopendark ul li p a{
+	color:#B3BBC6;
+}
+.leftmenuopendark .evidenceleftmenu{
+	background-color:#4a515b;
+	
+	-webkit-transition: all 0.8s ease;
+     -moz-transition: all 0.8s ease;
+       -o-transition: all 0.8s ease;
+      -ms-transition: all 0.8s ease;
+          transition: all 0.8s ease;
+}
+.leftmenuopendark .evidenceleftmenu:hover{
+	background-color:#434A54;
+}
+.leftmenuopendark .evidenceleftmenu p{
+	color:#FFF;
+}
+.leftmenuopendark ul li:hover{
+	background-color:#4a515b;		
+}
+.leftmenuopendark ul li{
+	-webkit-transition: all 0.8s ease;
+     -moz-transition: all 0.8s ease;
+       -o-transition: all 0.8s ease;
+      -ms-transition: all 0.8s ease;
+          transition: all 0.8s ease;			
+}
+/*end dark version*/
+
+/*start light version*/
+.leftmenuopenlight{
+	background-color:#F9FAFC;
+	-moz-box-shadow: 0 0px 5px #F9FAFC;
+	-webkit-box-shadow: 0 0px 5px #F9FAFC;
+	box-shadow: 0 0px 5px #F9FAFC;	
+}
+.leftmenuopenlight ul li p{
+	color:#A9A9A9;
+}
+.leftmenuopenlight ul li p a{
+	color:#A9A9A9;
+}
+.leftmenuopenlight .evidenceleftmenu{
+	background-color:#fff;
+	
+	-webkit-transition: all 0.8s ease;
+     -moz-transition: all 0.8s ease;
+       -o-transition: all 0.8s ease;
+      -ms-transition: all 0.8s ease;
+          transition: all 0.8s ease;
+}
+.leftmenuopenlight .evidenceleftmenu:hover{
+	background-color:#F9FAFC;
+}
+.leftmenuopenlight .evidenceleftmenu p{
+	color:#5E6D81;
+}
+.leftmenuopenlight ul li:hover{
+	background-color:#fff;		
+}
+.leftmenuopenlight ul li{
+	-webkit-transition: all 0.8s ease;
+     -moz-transition: all 0.8s ease;
+       -o-transition: all 0.8s ease;
+      -ms-transition: all 0.8s ease;
+          transition: all 0.8s ease;			
+}
+/*end light version*/
+
+
+
+.leftmenuopen ul{
+	margin:0px;
+	padding:0px;
+	float:left;
+	width:100%;
+}
+.leftmenuopen ul li{
+	margin:0px;
+	padding:0px;
+	float:left;
+	width:100%;
+}
+.leftmenuopen ul li p{
+	font-size:15px;
+	padding:20px;
+}
+.leftmenuopen ul li p a{
+	background-image:url(../img/header/leftmenuarrow.png);
+	background-repeat:no-repeat;
+	background-position:right;
+	display:block;
+	width:100%;
+}
+.leftmenumore{
+	background-image:url(../img/header/leftmenumore.png) !important;		
+}
+.evidenceleftmenu{
+	font-size:17px;
+	text-transform:uppercase;
+}
+.bulletevidenceleftmenu{
+	float:right;
+	width:6px;
+	height:6px;
+	border-radius:5px;
+	margin:5px 0px 5px 20px;		
+}
+.titlecloseleftmenu{
+	background-color:#f5696c;
+	color:#FFF;
+	padding:20px;
+	background-image:url(../img/header/leftmenuopen.png);
+	background-position:right;
+	background-repeat:no-repeat;
+	cursor:pointer;	
+}
+
+
+
+/*start class*/
+.titlesection{
+	text-align:center;
+	padding:0px 0px 40px 0px;	
+}
+.titlesection h4{
+	margin-top:10px;	
+}
+.container{
+	width:1200px;
+	margin:auto;
+	padding: 0px;
+}
+
+.clearfix:after {
+content: ".";
+display: block;
+height: 0;
+clear: both;
+visibility: hidden;
+}
+
+.lastlistitem{
+	border:0px !important;	
+}
+
+
+.expand
+{
+	-webkit-transition:all 100ms;
+	-o-transition:all 100ms;
+	transition:all 100ms;
+}
+
+.expand:hover	
+{
+	-webkit-transform:scale(1.05, 1.05);
+	-o-transform:scale(1.05, 1.05);
+	transform:scale(1.05, 1.05);
+}
+
+.centersinglegrid{
+	float:none !important;
+	margin:auto !important;
+	display:block !important;	
+}
+
+.sectionhome{
+	float:left;
+	width:100%;	
+}
+.sectionparallax{
+	float:left;
+	width:100%;
+	padding:50px 0px;
+	margin:10px 0px;
+	
+	background: url(../img/header-page/dafault.jpg) 50% 0 fixed;
+}
+
+.textevidence{
+	background-color:#F9FAFC;
+	-webkit-box-shadow: inset 0px 0px 0px 1px rgba(244, 244, 246, 1.0);
+	box-shadow: inset 0px 0px 0px 1px rgba(244, 244, 246, 1.0);	
+	
+	color:#A9A9A9;
+	padding:20px;
+	overflow:hidden;
+}
+.titlewithborder{
+	
+	padding-bottom:0px;
+	color:#fff;
+        font-family: arial;
+        font-style: italic;
+         text-shadow: rgb(255, 255, 255) 0px 0px 10px;
+
+        margin-left: 550px;
+}
+.titlewithborder span{
+    display: inline-block;
+    margin-bottom: 0;
+    padding-bottom: 20px;
+}
+.codetutorial{
+	background-color:#F9FAFC;
+	-webkit-box-shadow: inset 0px 0px 0px 1px rgba(244, 244, 246, 1.0);
+	box-shadow: inset 0px 0px 0px 1px rgba(244, 244, 246, 1.0);	
+	padding:20px;
+	float:left;	
+}
+.soundcloudiframe, .vimeoiframe{
+	border:0;
+}
+/*end class*/
+
+
+/*start opacity background*/
+.opacitybg{
+	background:rgba(255,255,255,0.2) !important;
+	box-shadow: 0 0 0 1px #FFFFFF inset !important;
+}
+.opacitybg .descriptiondestination, .opacitybg .memberdescription, .opacitybg ul li p{
+	color:#fff !important; 
+}
+.opacitybg .infodestination, .opacitybg .socialmember ul, .opacitybg .footerhomeprices{
+	background:rgba(255,255,255,0.3) !important;
+	box-shadow: 0 0 0 1px #FFFFFF inset !important;
+}
+.opacitybg .likedestination, .opacitybg .commentsdestination{
+	box-shadow: 1px 0 0 0px #FFFFFF inset !important;
+}
+/*end opacity background*/
+
+
+/*start color*/
+.white .titlewithborder span{
+	border-bottom: 1px solid #fff;
+}
+.white  h2{
+	color: #fff;
+}
+
+
+.blue .datedayhometour, .blue .ui-tabs-active a, .btnpromotion .blue, .blue .valueprice, .blue .priceleftarchivetour, .blue .areadmoresinglepostmasonry, .blue .btngalleryarchivedestination, .blue .btngallerypage, .blue .filterinputicon, .blue .titleinfocontact, .blue .markercontactmap .circlemarker, .blue .datearchivesinglepost, .blue .btn, .blue .readmoredestinationsingleproject, .blue .pricesingleproject, .blue .arrowcarouselprev, .blue .arrowcarouselnext, .blue .memberposition, .blue .progressbartitle, .blue .datesinglepost{
+	background-color:#14b9d5;	
+}
+.blue .bulletlisthometour, .blue .bulletevidenceleftmenu, .blue .bulletarchivedestination, .blue .bulletgallery{
+	border:2px solid #14b9d5;	
+}
+.evidenceleftmenu .blue{
+	-webkit-box-shadow: inset 3px 0px 0px 0px rgba(20, 185, 213, 1.0);
+	box-shadow: inset 3px 0px 0px 0px rgba(20, 185, 213, 1.0);
+}
+.sf-menu .blue{
+	-webkit-box-shadow: inset 0px 3px 0px 0px rgba(20, 185, 213, 1.0);
+	box-shadow: inset 0px 3px 0px 0px rgba(20, 185, 213, 1.0);	
+}
+.sf-menu .blue ul li:hover{
+	-webkit-box-shadow: inset 3px 0px 0px 0px rgba(20, 185, 213, 1.0);
+	box-shadow: inset 3px 0px 0px 0px rgba(20, 185, 213, 1.0);	
+}
+.blue .triangle{
+	border-top: 10px solid #14B9D5;
+}
+.blue .markercontactmap .trianglemarker{
+	border-top: 30px solid #14B9D5;
+}
+.blue blockquote, .blue .textevidence, .blue-borderleft{
+	border-left:2px solid #14B9D5 !important;	
+}
+.blue .titlewithborder span{ 
+	border-bottom: 1px solid #14B9D5;
+}
+
+
+
+
+
+
+.green .datedayhometour, .green .ui-tabs-active a, .btnpromotion .green, .green .valueprice, .green .priceleftarchivetour, .green .areadmoresinglepostmasonry, .green .btngalleryarchivedestination, .green .btngallerypage, .green .filterinputicon, .green .titleinfocontact, .green .markercontactmap .circlemarker, .green .datearchivesinglepost, .green .btn, .green .readmoredestinationsingleproject, .green .pricesingleproject, .green .arrowcarouselprev, .green .arrowcarouselnext, .green .memberposition, .green .progressbartitle, .green .datesinglepost{
+	background-color:#1bbc9b;	
+}
+.green .bulletlisthometour, .green .bulletevidenceleftmenu, .green .bulletarchivedestination, .green .bulletgallery{	
+	border:2px solid #1bbc9b;
+}
+.evidenceleftmenu .green{
+	-webkit-box-shadow: inset 3px 0px 0px 0px rgba(27, 188, 155, 1.0);
+	box-shadow: inset 3px 0px 0px 0px rgba(27, 188, 155, 1.0);
+}
+.sf-menu .green{
+	-webkit-box-shadow: inset 0px 3px 0px 0px rgba(27, 188, 155, 1.0);
+	box-shadow: inset 0px 3px 0px 0px rgba(27, 188, 155, 1.0);
+}
+.sf-menu .green ul li:hover{
+	-webkit-box-shadow: inset 3px 0px 0px 0px rgba(27, 188, 155, 1.0);
+	box-shadow: inset 3px 0px 0px 0px rgba(27, 188, 155, 1.0);	
+}
+.green .triangle{
+	border-top: 10px solid #1bbc9b;
+}
+.green .markercontactmap .trianglemarker{
+	border-top: 30px solid #1bbc9b;
+}
+.green blockquote, .green .textevidence, .green-borderleft{
+	border-left:2px solid #1bbc9b !important;	
+}
+.green .titlewithborder span{ 
+	border-bottom: 1px solid #1bbc9b;
+}
+
+
+
+
+.yellow .datedayhometour, .yellow .ui-tabs-active a, .btnpromotion .yellow, .yellow .valueprice, .yellow .priceleftarchivetour, .yellow .areadmoresinglepostmasonry, .yellow .btngalleryarchivedestination, .yellow .btngallerypage, .yellow .filterinputicon, .yellow .titleinfocontact, .yellow .markercontactmap .circlemarker, .yellow .datearchivesinglepost, .yellow .btn, .yellow .readmoredestinationsingleproject, .yellow .pricesingleproject, .yellow .arrowcarouselprev, .yellow .arrowcarouselnext, .yellow .memberposition, .yellow .progressbartitle, .yellow .datesinglepost{
+	background-color:#FFD205;	
+}
+.yellow .bulletlisthometour, .yellow .bulletevidenceleftmenu, .yellow .bulletarchivedestination, .yellow .bulletgallery{
+	border:2px solid #FFD205;	
+}
+.evidenceleftmenu .yellow{
+	-webkit-box-shadow: inset 3px 0px 0px 0px rgba(255, 210, 5, 1.0);
+	box-shadow: inset 3px 0px 0px 0px rgba(255, 210, 5, 1.0);
+}
+.sf-menu .yellow{
+	-webkit-box-shadow: inset 0px 3px 0px 0px rgba(255, 210, 5, 1.0);
+	box-shadow: inset 0px 3px 0px 0px rgba(255, 210, 5, 1.0);
+}
+.sf-menu .yellow ul li:hover{
+	-webkit-box-shadow: inset 3px 0px 0px 0px rgba(255, 210, 5, 1.0);
+	box-shadow: inset 3px 0px 0px 0px rgba(255, 210, 5, 1.0);	
+}
+.yellow .triangle{
+	border-top: 10px solid #FFD205;
+}
+.yellow .markercontactmap .trianglemarker{
+	border-top: 30px solid #FFD205;
+}
+.yellow blockquote, .yellow .textevidence, .yellow-borderleft{
+	border-left:2px solid #FFD205 !important;	
+}
+.yellow .titlewithborder span{ 
+	border-bottom: 1px solid #FFD205;
+}
+
+
+
+
+.orange .datedayhometour, .orange .ui-tabs-active a, .btnpromotion .orange, .orange .valueprice, .orange .priceleftarchivetour, .orange .areadmoresinglepostmasonry, .orange .btngalleryarchivedestination, .orange .btngallerypage, .orange .filterinputicon, .orange .titleinfocontact, .orange .markercontactmap .circlemarker, .orange .datearchivesinglepost, .orange .btn, .orange .readmoredestinationsingleproject, .orange .pricesingleproject, .orange .arrowcarouselprev, .orange .arrowcarouselnext, .orange .memberposition, .orange .progressbartitle, .orange .datesinglepost{
+	background-color:#F3A46B;	
+}
+.orange .bulletlisthometour, .orange .bulletevidenceleftmenu, .orange .bulletarchivedestination, .orange .bulletgallery{
+	border:2px solid #F3A46B;	
+}
+.evidenceleftmenu .orange{
+	-webkit-box-shadow: inset 3px 0px 0px 0px rgba(243, 164, 107, 1.0);
+	box-shadow: inset 3px 0px 0px 0px rgba(243, 164, 107, 1.0);
+}
+.sf-menu .orange{
+	-webkit-box-shadow: inset 0px 3px 0px 0px rgba(243, 164, 107, 1.0);
+	box-shadow: inset 0px 3px 0px 0px rgba(243, 164, 107, 1.0);
+}
+.sf-menu .orange ul li:hover{
+	-webkit-box-shadow: inset 3px 0px 0px 0px rgba(243, 164, 107, 1.0);
+	box-shadow: inset 3px 0px 0px 0px rgba(243, 164, 107, 1.0);	
+}
+.orange .triangle{
+	border-top: 10px solid #F3A46B;
+}
+.orange .markercontactmap .trianglemarker{
+	border-top: 30px solid #F3A46B;
+}
+.orange blockquote, .orange .textevidence, .orange-borderleft{
+	border-left:2px solid #F3A46B !important;	
+}
+.orange .titlewithborder span{ 
+	border-bottom: 1px solid #F3A46B;
+}
+
+
+
+
+.red .datedayhometour, .red .ui-tabs-active a, .btnpromotion .red, .red .valueprice, .red .priceleftarchivetour, .red .areadmoresinglepostmasonry, .red .btngalleryarchivedestination, .red .btngallerypage, .red .filterinputicon, .red .titleinfocontact, .red .markercontactmap .circlemarker, .red .datearchivesinglepost, .red .btn, .red .readmoredestinationsingleproject, .red .pricesingleproject, .red .arrowcarouselprev, .red .arrowcarouselnext, .red .memberposition, .red .progressbartitle, .red .datesinglepost{
+	background-color:#F76570;	
+}
+.red .bulletlisthometour, .red .bulletevidenceleftmenu, .red .bulletarchivedestination, .red .bulletgallery{
+	border:2px solid #F76570;	
+}
+.evidenceleftmenu .red{
+	-webkit-box-shadow: inset 3px 0px 0px 0px rgba(247, 101, 112, 1.0);
+	box-shadow: inset 3px 0px 0px 0px rgba(247, 101, 112, 1.0);
+}
+.sf-menu .red{
+	-webkit-box-shadow: inset 0px 3px 0px 0px rgba(247, 101, 112, 1.0);
+	box-shadow: inset 0px 3px 0px 0px rgba(247, 101, 112, 1.0);
+}
+.sf-menu .red ul li:hover{
+	-webkit-box-shadow: inset 3px 0px 0px 0px rgba(247, 101, 112, 1.0);
+	box-shadow: inset 3px 0px 0px 0px rgba(247, 101, 112, 1.0);	
+}
+.red .triangle{
+	border-top: 10px solid #F76570;
+}
+.red .markercontactmap .trianglemarker{
+	border-top: 30px solid #F76570;
+}
+.red blockquote, .red .textevidence, .red-borderleft{
+	border-left:2px solid #F76570 !important;	
+}
+.red .titlewithborder span{ 
+	border-bottom: 1px solid #F76570;
+}
+
+
+
+
+
+.violet .datedayhometour, .violet .ui-tabs-active a, .btnpromotion .violet, .violet .valueprice, .violet .priceleftarchivetour, .violet .areadmoresinglepostmasonry, .violet .btngalleryarchivedestination, .violet .btngallerypage, .violet .filterinputicon, .violet .titleinfocontact, .violet .markercontactmap .circlemarker, .violet .datearchivesinglepost, .violet .btn, .violet .readmoredestinationsingleproject, .violet .pricesingleproject, .violet .arrowcarouselprev, .violet .arrowcarouselnext, .violet .memberposition, .violet .progressbartitle, .violet .datesinglepost{
+	background-color:#C377E4;	
+}
+.violet .bulletlisthometour, .violet .bulletevidenceleftmenu, .violet .bulletarchivedestination, .violet .bulletgallery{
+	border:2px solid #C377E4;	
+}
+.evidenceleftmenu .violet{
+	-webkit-box-shadow: inset 3px 0px 0px 0px rgba(195, 119, 228, 1.0);
+	box-shadow: inset 3px 0px 0px 0px rgba(195, 119, 228, 1.0);
+}
+.sf-menu .violet{
+	-webkit-box-shadow: inset 0px 3px 0px 0px rgba(195, 119, 228, 1.0);
+	box-shadow: inset 0px 3px 0px 0px rgba(195, 119, 228, 1.0);
+}
+.sf-menu .violet ul li:hover{
+	-webkit-box-shadow: inset 3px 0px 0px 0px rgba(195, 119, 228, 1.0);
+	box-shadow: inset 3px 0px 0px 0px rgba(195, 119, 228, 1.0);	
+}
+.violet .triangle{
+	border-top: 10px solid #C377E4;
+}
+.violet .markercontactmap .trianglemarker{
+	border-top: 30px solid #C377E4;
+}
+.violet blockquote, .violet .textevidence, .violet-borderleft{
+	border-left:2px solid #C377E4 !important;	
+}
+.violet .titlewithborder span{ 
+	border-bottom: 1px solid #C377E4;
+}
+/*end color*/
+
+
+/*start hover effect*/
+/*rotate*/
+.rotate{
+  -webkit-transition: all 0.5s ease;
+     -moz-transition: all 0.5s ease;
+       -o-transition: all 0.5s ease;
+      -ms-transition: all 0.5s ease;
+          transition: all 0.5s ease;
+}
+ 
+.rotate:hover {
+  -webkit-transform: rotate(360deg);
+     -moz-transform: rotate(360deg);
+       -o-transform: rotate(360deg);
+      -ms-transform: rotate(360deg);
+          transform: rotate(360deg);
+}
+/*rotate*/
+
+/*expand*/
+.expand
+{
+	-webkit-transition:all 100ms;
+	-o-transition:all 100ms;
+	transition:all 100ms;
+}
+
+.expand:hover	
+{
+	-webkit-transform:scale(1.05, 1.05);
+	-o-transform:scale(1.05, 1.05);
+	transform:scale(1.05, 1.05);
+}
+/*expand*/
+body, h1, h2, h3, h4, p, .rightsearchopen input[type='text'], .newsletterfooter input[type="text"], input[type="text"], textarea, input[type="submit"], .contactform input[type="text"], .contactform input[type="submit"], .contactform textarea{
+	font-family: 'Signika', sans-serif;
+}
+h4{
+	color:#96a0af;
+	font-size:17px;
+	margin:0px;
+	padding:0px;
+	font-weight:lighter;	
+}
+
+/*opacity*/
+
+
+/*end hover effect*/
