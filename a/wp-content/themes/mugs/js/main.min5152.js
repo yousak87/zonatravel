@@ -1,4 +1,5 @@
 jQuery(document).ready(function (e) {
+    var lineku;
     function a(e) {
         var a = e[0].getTotalLength();
         e.css("stroke-dasharray", a), e.css("stroke-dashoffset", a), o(e)
@@ -175,6 +176,13 @@ jQuery(document).ready(function (e) {
             }
             TweenMax.to(window, 1, {scrollTo: {y: j[a - 1]}, ease: Power1.easeInOut})
         }
+    }),e(".section3 .arrow").click(function () {
+        
+                var a = 2;
+                Math.abs(e(window).scrollTop() - j[a - 1])
+           
+            TweenMax.to(window, 2, {scrollTo: {y: j[a - 1]}, ease: Power1.easeInOut})
+        
     });
     var A = (new TimelineMax).add([TweenMax.fromTo(".bg1", 1, {y: "0%"}, {y: "100%", ease: Linear.easeNone}), TweenMax.fromTo(".bg2", 1, {y: "-100%"}, {y: "0%", ease: Linear.easeNone})]).add([TweenMax.fromTo(".bg2", 1, {x: "0%"}, {x: "-100%", ease: Linear.easeNone}), TweenMax.fromTo(".bg3", 1, {x: "100%"}, {x: "0%", ease: Linear.easeNone})]), U = (new ScrollMagic.Scene({triggerElement: ".section2", triggerHook: "onLeave", duration: "200%"}).setPin(".section2").setTween(A).addTo(S), (new TimelineMax).add([TweenMax.from("section.panel:nth-child(1) .inside .title .titleObj", 1, {opacity: 0, x: -100, ease: Power3.easeOut, delay: .4, onStart: n, onStartParams: [e(".arrow")]}), TweenMax.staggerFrom("section.panel:nth-child(1) .inside .imgList .obj .objimg", .5, {x: -100, opacity: 0, ease: Back.easeInOut, delay: .5}, .1), TweenMax.from("section.panel:nth-child(1) .inside .p .pObj", .4, {opacity: 0, x: 100, ease: Power3.easeOut, delay: 1})]).add([TweenMax.to("section.panel:nth-child(1) .inside .title .titleObj", 1, {opacity: 0, x: -100, ease: Power3.easeIn}), TweenMax.staggerTo("section.panel:nth-child(1) .inside .imgList .obj .objimg", .5, {y: 300, opacity: 0, ease: Back.easeIn}, -.1), TweenMax.to("section.panel:nth-child(1) .inside .p .pObj", 1, {opacity: 0, x: 100, ease: Power3.easeIn}), TweenMax.from("section.panel:nth-child(2) .inside .title .titleObj", 1, {opacity: 0, x: 100, ease: Power3.easeOut, delay: .4}), TweenMax.staggerFrom("section.panel:nth-child(2) .inside .imgList .obj .objimg", .5, {y: -300, opacity: 0, ease: Back.easeOut, delay: .4}, -.1), TweenMax.from("section.panel:nth-child(2) .inside .p .pObj", 1, {opacity: 0, x: -100, ease: Power3.easeOut, delay: .4})]).add([TweenMax.to("section.panel:nth-child(2) .inside .title .titleObj", 1, {opacity: 0, x: -100, ease: Power3.easeIn}), TweenMax.staggerTo("section.panel:nth-child(2) .inside .imgList .obj .objimg", .5, {x: 300, opacity: 0, ease: Back.easeIn}, -.1), TweenMax.to("section.panel:nth-child(2) .inside .p .pObj", 1, {opacity: 0, x: 100, ease: Power3.easeIn}), TweenMax.from("section.panel:nth-child(3) .inside .title .titleObj", 1, {opacity: 0, x: 100, ease: Power3.easeOut, delay: .4}), TweenMax.staggerFrom("section.panel:nth-child(3) .inside .imgList .obj .objimg", .5, {x: -300, opacity: 0, ease: Back.easeOut, delay: .4}, -.1), TweenMax.from("section.panel:nth-child(3) .inside .p .pObj", 1, {opacity: 0, x: -100, ease: Power3.easeOut, delay: .4})]).add([TweenMax.to("section.panel:nth-child(3) .inside .title .titleObj", 1, {opacity: 0, x: -100, ease: Power3.easeIn}), TweenMax.staggerTo("section.panel:nth-child(3) .inside .imgList .obj .objimg", .5, {x: 100, opacity: 0, ease: Back.easeInOut}, -.1), TweenMax.to("section.panel:nth-child(3) .inside .p .pObj", 1, {opacity: 0, x: 100, ease: Power3.easeIn, delay: .4})]));
     I = new ScrollMagic.Scene({triggerElement: ".section2", triggerHook: "onEnter", duration: "400%"}).setTween(U).addTo(S);
