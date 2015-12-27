@@ -38,7 +38,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
     margin: 0;
     padding: 0;
     border: 0;
-    vertical-align: baseline;
+    vertical-align: top;
     background: transparent;
 }
 h1, h2, h3, h4, h5, h6 {	
@@ -1383,7 +1383,7 @@ h1{
 //////////////////////////////////////////////////////////////////////*/
 
 .section6{
-    height: 4000px;
+    height: 4050px;
     width:100%;
     background-color: #194853;
     background-image: url('images/pattern-section6.jpg');
@@ -1813,15 +1813,56 @@ svg#tracesvg{
 //  03 - SECTION 8
 //////////////////////////////////////////////////////////////////////*/
 
+.textOverparallax{
+    max-width: 450px;
+    position: absolute;
+}
+
+
 .section8{
+    background-color: #ffe09c;
     height: 100vh;
     width:100%;
-    background-color: #000;
     position: relative;
-    /*background-image: url('./images/diapo.jpg');
-    background-position: center;
-    background-size: cover;*/
+    overflow: hidden;
+}
 
+
+.section8 .textOverparallax{
+    z-index: 16;
+    bottom: 10%;
+    left: calc(50% - 200px);
+}
+
+
+.section8 .textOverparallax p, .section8 .textOverparallax h1{
+
+    text-align: left;
+
+}
+
+
+.parallax-window{
+    background-size: cover;
+    background-position: center center;
+    width:100%;
+    height:100vh;
+}
+
+.lampe{
+    text-align: center;
+    z-index: 20;
+    position: absolute;
+    bottom: 30%;
+    left: calc(50% - 275px);
+    left: calc(50% - 15%);
+    width: 30%;
+    min-width: 350px;
+
+}
+.lampe img{
+    margin-top: -200px;
+    width:100%;
 }
 
 
@@ -2123,7 +2164,7 @@ a.rslides_nav.rslides1_nav.prev {
     position: absolute;
     top: 0;
     height: 65vh;
-    left: 50%;
+    left: 5%;
     display: table-row-group;
     vertical-align: middle;
     z-index: 3;
@@ -2131,11 +2172,11 @@ a.rslides_nav.rslides1_nav.prev {
 
 .info{
     position: relative;
-    text-align: center;
+    text-align: left;
     display: table-cell;
     vertical-align: middle;
     height: 65vh;
-    left: -50%;
+    
 }
 
 

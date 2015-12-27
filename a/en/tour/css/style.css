@@ -4,6 +4,8 @@ body{
 	color:#888888;
 	font-weight:lighter;
 	overflow-x:hidden;
+        background: url(../img/dark.png);
+        background-repeat: repeat;
 }
 
 /*font*/
@@ -142,6 +144,7 @@ header select{
 	-moz-box-shadow: 0 1px 10px #434A54;
 	-webkit-box-shadow: 0 1px 10px #434A54;
 	box-shadow: 0 1px 10px #434A54;
+        opacity: 0.5;
 }
 .navigationmenudark select{
 	border:1px solid #55738F;
@@ -153,7 +156,7 @@ header select{
 
 
 .logo{
-	margin: 8px 0px;
+	margin: -7px -82px;
 	float:left;	
 }
 .leftmenuclose{
@@ -1737,11 +1740,11 @@ blockquote{
 .widget{
 	float:left;
 	width:100%;
-	background-color:#f9fafc;
+	background-color:none;
 	margin-bottom:20px;
 	
 	-webkit-box-shadow: inset 0px 0px 0px 1px #F4F4F6;
-	box-shadow: inset 0px 0px 0px 1px #F4F4F6;	
+		
 }
 .widget ul{
 	float:left;
@@ -1774,7 +1777,7 @@ blockquote{
 	background-position:right;
 }
 .widget h2{
-	background-color:#EFF1F5;
+	background-color: #434A54;
 	color:#5E6D81;
 	font-weight:lighter;
 	padding:20px;
@@ -1794,7 +1797,7 @@ blockquote{
 	font-size:17px;
 }
 #wp-calendar thead{
-	background-color:#EFF1F5;
+	
 }
 #wp-calendar tfoot{
 	display:none;
@@ -2070,7 +2073,7 @@ blockquote{
 	background-color:#434A54;	
 }
 .titlesingleproject h4{
-	padding:20px 20px 20px 140px;	
+	padding:20px 20px 20px 10px;	
 }
 .pricesingleproject{
 	border: 2px solid #FFFFFF;
