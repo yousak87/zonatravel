@@ -18,8 +18,7 @@ jQuery(document).ready(function (e) {
     }
     function r() {
         var e = {zoom: 17, center: Y, styles: [{featureType: "all", elementType: "all", stylers: [{hue: "#00c6ff"}]}, {featureType: "all", elementType: "geometry.fill", stylers: [{hue: "#ff0000"}, {saturation: "-100"}]}, {featureType: "poi", elementType: "all", stylers: [{visibility: "off"}]}, {featureType: "road", elementType: "all", stylers: [{saturation: -100}, {hue: "#ffffff"}]}, {featureType: "road", elementType: "geometry.fill", stylers: [{visibility: "on"}]}, {featureType: "road", elementType: "labels.text.fill", stylers: [{hue: "#ff0000"}]}, {featureType: "road", elementType: "labels.icon", stylers: [{lightness: "20"}]}, {featureType: "road.highway", elementType: "geometry.fill", stylers: [{visibility: "on"}, {color: "#ffffff"}]}, {featureType: "road.highway", elementType: "geometry.stroke", stylers: [{color: "#d0d0d0"}]}, {featureType: "road.highway", elementType: "labels.text.fill", stylers: [{lightness: "-0"}, {hue: "#ff0000"}]}, {featureType: "road.highway", elementType: "labels.icon", stylers: [{hue: "#ff0000"}, {lightness: "10"}]}, {featureType: "transit", elementType: "all", stylers: [{visibility: "off"}]}, {featureType: "water", elementType: "all", stylers: [{visibility: "simplified"}, {saturation: -60}, {color: "#bde3ee"}]}], mapTypeId: google.maps.MapTypeId.ROADMAP, scrollwheel: !1, disableDefaultUI: !0};
-        B = new google.maps.Map(document.getElementById("map_canvas"), e);
-        new google.maps.Marker({position: H, zIndex: google.maps.Marker.MAX_ZINDEX, map: B})
+        
     }
     function l() {
         F = 100

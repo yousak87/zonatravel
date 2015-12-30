@@ -475,12 +475,7 @@ h4{
 
 }
 
-ul li p{
-    line-height: 12px;
-    margin-top: 4px;
-    font-size: 12px;
 
-}
 
 
 .listing li{
@@ -1155,7 +1150,11 @@ h1{
     bottom: 10%;
     left: calc(50% - 200px);
 }
-
+.section3 .mytable{
+   margin-top: 150px;
+   margin-left: 150px;
+   margin-right: 100px;
+}
 
 .section3 .textOverparallax p, .section3 .textOverparallax h1{
 
@@ -1383,7 +1382,7 @@ h1{
 //////////////////////////////////////////////////////////////////////*/
 
 .section6{
-    height: 4050px;
+    height: 4027px;
     width:100%;
     background-color: #194853;
     background-image: url('images/pattern-section6.jpg');
@@ -1962,7 +1961,7 @@ a.rslides_nav.rslides1_nav.prev {
     height: 100px;
     line-height: 20px;
     color:#FFFFFF;
-    text-shadow: rgb(255, 255, 255) 0px 0px 10px;
+    text-shadow: 2px 1px 1px #090101;
     overflow: visible;
     transition: all 0.3s;
 }
@@ -1970,7 +1969,7 @@ a.rslides_nav.rslides1_nav.prev {
     color: #FFFFFF;
     font-size: 50px;
 
-    text-shadow: rgb(255, 255, 255) 0px 0px 10px;
+    text-shadow: 2px 1px 1px #090101;
 }
 /* //////////////////////////////////////////////////////////////////////
 //  03 - SECTION 9
