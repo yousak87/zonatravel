@@ -1,7 +1,18 @@
+@font-face {
+    font-family: 'BernardoModaSemibold';
+    src: url('../../../wp-content/themes/mugs/font/bernardomodasemibold-webfont.eot');
+    src: url('../../../wp-content/themes/mugs/font/bernardomodasemibold-webfontd41d.eot?#iefix') format('embedded-opentype'),
+        url('../../../wp-content/themes/mugs/font/bernardomodasemibold-webfont.html') format('woff2'),
+        url('../../../wp-content/themes/mugs/font/bernardomodasemibold-webfont.woff') format('woff'),
+        url('../../../wp-content/themes/mugs/font/bernardomodasemibold-webfont-2.html') format('truetype'),
+        url('../../../wp-content/themes/mugs/font/bernardomodasemibold-webfont.svg#bernardo_moda_semiboldregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
 body{
 	margin:0px;
 	padding:0px;
-	color:#888888;
+        color:#ffffff;
 	font-weight:lighter;
 	overflow-x:hidden;
         background: url(../img/dark.png);
@@ -37,14 +48,15 @@ h3{
 	font-weight:normal;	
 }
 h4{
-	color:#96a0af;
+    color:#ffff00;
 	font-size:17px;
 	margin:0px;
 	padding:0px;
-	font-weight:lighter;	
+	font-weight:lighter;
+        font-family: BernardoModaSemibold;
 }
 p{
-	color:#a9a9a9;
+    color:#ffffff;
 	font-size:17px;
 	margin:0px;
 	padding:0px;
@@ -156,7 +168,7 @@ header select{
 
 
 .logo{
-	margin: -7px -82px;
+	margin: -9px 0%;
 	float:left;	
 }
 .leftmenuclose{
@@ -1226,7 +1238,7 @@ canvas{
 	width:100%;
 	margin-bottom:10px;
 	
-	background: url(../img/header-page/dafault.jpg) 50% 0 fixed;	
+	background: url(../img/header-page/tours.jpg) 50% 0 fixed;	
 }
 .header-page div{
 	color:#FFF;
@@ -1464,11 +1476,11 @@ canvas{
 .archivesinglepost{
 	float:left;
 	width:100%;
-	background-color:#f9fafc;
+	background-color:none;
 	margin-bottom:20px;
 	
 	-webkit-box-shadow: inset 0px 0px 0px 1px #F4F4F6;
-	box-shadow: inset 0px 0px 0px 1px #F4F4F6;	
+	
 }
 .archivesinglepost iframe{
 	margin:0px;
@@ -1767,7 +1779,7 @@ blockquote{
 }
 .widget ul li a{
 	padding:20px;
-	color:#A9A9A9;
+        color:#ffffff;
 	font-size:15px;
 	display:block;
 	margin-right:20px;
@@ -1778,10 +1790,11 @@ blockquote{
 }
 .widget h2{
 	background-color: #434A54;
-	color:#5E6D81;
+        color:#ffff00;
 	font-weight:lighter;
 	padding:20px;
 	font-size:17px;	
+        font-family: BernardoModaSemibold;
 }
 #calendar_wrap, #wp-calendar{
 	float:left;
@@ -1803,13 +1816,14 @@ blockquote{
 	display:none;
 }
 #wp-calendar thead th{
-	color:#5E6D81;
+    color:#ffff00;
 	padding:20px 0px;
 	font-weight:lighter;
 	font-size:15px;
+        font-family: BernardoModaSemibold;
 }
 #wp-calendar tbody tr td{
-	color:#A9A9A9;
+    color:#ffffff;
 	padding:10px 0px;
 	font-size:15px;
 }
@@ -2129,6 +2143,8 @@ blockquote{
 .contentinfo p{
 	font-size:15px;
 	margin-bottom:10px;
+        color:#ffff00 ;
+        font-family: BernardoModaSemibold;
 }
 
 .destinationsingleproject{
@@ -2617,7 +2633,8 @@ visibility: hidden;
 .titlewithborder{
 	border-bottom:1px solid #F4F4F6;
 	padding-bottom:0px;
-	color:#5E6D81;
+        color:#ffff00;
+        font-family: BernardoModaSemibold;
 	margin:0px;	
 }
 .titlewithborder span{
