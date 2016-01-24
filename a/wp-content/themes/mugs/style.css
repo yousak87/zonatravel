@@ -129,6 +129,10 @@ a{
     font-style: normal;
 }
 
+@font-face {
+    font-family: "CaviarDreams";
+    src: url(font/CaviarDreams.woff2);
+}
 img{
     user-select:none;
 }
