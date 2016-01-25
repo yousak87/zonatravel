@@ -1386,7 +1386,7 @@ h1{
 //////////////////////////////////////////////////////////////////////*/
 
 .section6{
-    height: 4027px;
+    height: 3810px;
     width:100%;
     background-color: #194853;
     background-image: url('images/pattern-section6.jpg');
@@ -1653,7 +1653,7 @@ svg#tracesvg{
 
 .muffin{
     position: absolute;
-    top: 3539px;
+    top: 3350px;
     left: calc(50% - 560px);
     z-index: 629;
 }
