@@ -19,6 +19,7 @@ body{
 	overflow-x:hidden;
         background: url(../img/office.jpg);
         background-repeat: repeat;
+        
 }
 
 /*font*/
@@ -172,7 +173,7 @@ header select{
 
 
 .logo{
-	margin: -9px 0%;
+	margin: -19px 0%;
 	float:left;	
 }
 .leftmenuclose{
@@ -1104,6 +1105,7 @@ canvas{
 	width:100%;
 	background-color:#434a54;
 	margin-top:10px;
+        padding: 17px;
 }
 .gridfooter{
 	padding:50px 10px;
@@ -1473,7 +1475,7 @@ canvas{
 	background-color:none;
 	margin-bottom:20px;
 	
-	-webkit-box-shadow: inset 0px 0px 0px 1px #F4F4F6;
+	
 	
 }
 .archivesinglepost iframe{
@@ -2103,6 +2105,7 @@ blockquote{
 .contentflexslider{
 	float:left;
 	width:100%;
+        padding-bottom: 20px;
 }
 .datedaysingleproject {
     background-color: #F9FAFC;
@@ -2461,9 +2464,9 @@ blockquote{
 	border:1px solid #fff;	
 }
 .accordionlight h4{
-	background-color:#F9FAFC;
-	color:#A9A9A9;
-	border:1px solid #F4F4F6;	
+	background-color:#FFE09C;
+	color:black;
+	border:1px solid #FFE09C;	
 }
 /*start accordion*/
 
@@ -2566,7 +2569,7 @@ blockquote{
 .container{
 	width:1200px;
 	margin:auto;
-	padding: 0px;
+	padding: 10px;
 }
 
 .clearfix:after {
@@ -2966,3 +2969,49 @@ opacity: 0.8;
     padding: 20px;
     width: 340px;
     margin-top: 20px;
+}
+
+.buttonBlink {
+  background-color: #004A7F;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  border: none;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Arial;
+  font-size: 20px;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+}
+@-webkit-keyframes glowing {
+  0% { background-color: #B20000; -webkit-box-shadow: 0 0 3px #B20000; }
+  50% { background-color: #FF0000; -webkit-box-shadow: 0 0 40px #FF0000; }
+  100% { background-color: #B20000; -webkit-box-shadow: 0 0 3px #B20000; }
+}
+
+@-moz-keyframes glowing {
+  0% { background-color: #B20000; -moz-box-shadow: 0 0 3px #B20000; }
+  50% { background-color: #FF0000; -moz-box-shadow: 0 0 40px #FF0000; }
+  100% { background-color: #B20000; -moz-box-shadow: 0 0 3px #B20000; }
+}
+
+@-o-keyframes glowing {
+  0% { background-color: #B20000; box-shadow: 0 0 3px #B20000; }
+  50% { background-color: #FF0000; box-shadow: 0 0 40px #FF0000; }
+  100% { background-color: #B20000; box-shadow: 0 0 3px #B20000; }
+}
+
+@keyframes glowing {
+  0% { background-color: #B20000; box-shadow: 0 0 3px #B20000; }
+  50% { background-color: #FF0000; box-shadow: 0 0 40px #FF0000; }
+  100% { background-color: #B20000; box-shadow: 0 0 3px #B20000; }
+}
+
+.buttonBlink {
+  -webkit-animation: glowing 1500ms infinite;
+  -moz-animation: glowing 1500ms infinite;
+  -o-animation: glowing 1500ms infinite;
+  animation: glowing 1500ms infinite;
+}
