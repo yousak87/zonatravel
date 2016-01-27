@@ -1,11 +1,13 @@
 @font-face {
     font-family: 'BernardoModaSemibold';
-    src: url('../../../wp-content/themes/mugs/font/bernardomodasemibold-webfont.eot');
-    src: url('../../../wp-content/themes/mugs/font/bernardomodasemibold-webfontd41d.eot?#iefix') format('embedded-opentype'),
-        url('../../../wp-content/themes/mugs/font/bernardomodasemibold-webfont.html') format('woff2'),
-        url('../../../wp-content/themes/mugs/font/bernardomodasemibold-webfont.woff') format('woff'),
-        url('../../../wp-content/themes/mugs/font/bernardomodasemibold-webfont-2.html') format('truetype'),
-        url('../../../wp-content/themes/mugs/font/bernardomodasemibold-webfont.svg#bernardo_moda_semiboldregular') format('svg');
+    src: url('../rs-plugin/font/bernardo-moda.modabold.woff');
+    
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'dream';
+    src: url('../rs-plugin/font/CaviarDreams.woff2');
     font-weight: normal;
     font-style: normal;
 }
@@ -15,7 +17,7 @@ body{
         color:#ffffff;
 	font-weight:lighter;
 	overflow-x:hidden;
-        background: url(../img/dark.png);
+        background: url(../img/office.jpg);
         background-repeat: repeat;
 }
 
@@ -48,7 +50,7 @@ h3{
 	font-weight:normal;	
 }
 h4{
-    color:#ffff00;
+    color:black;
 	font-size:17px;
 	margin:0px;
 	padding:0px;
@@ -64,6 +66,8 @@ p{
 }
 a{
 	text-decoration:none;	
+        color: black;
+        
 }
 a img{
 	border:0px;	
@@ -956,7 +960,7 @@ canvas{
 	background-position:right;
 }
 .valueprice p{
-	color:#FFF;
+	color:black;
 	font-size:50px;
 }
 .valueprice p .currency, .valueprice p .littledescription{
@@ -1108,17 +1112,7 @@ canvas{
 .footerfilter{
 	background-color:#4a515b;	
 }
-#copyright{
-	float:left;
-	width:100%;
-	background-color:#4a515b;
-	text-align:center;
-}
-#copyright p{
-	font-size:15px;
-	color:#fff;
-	margin:10px 0px;
-}	
+	
 #footer p, #footer h3{
 	margin:10px 0px;
 	float:left;
@@ -1755,7 +1749,7 @@ blockquote{
 	background-color:none;
 	margin-bottom:20px;
 	
-	-webkit-box-shadow: inset 0px 0px 0px 1px #F4F4F6;
+	
 		
 }
 .widget ul{
@@ -1784,13 +1778,13 @@ blockquote{
 	display:block;
 	margin-right:20px;
 	
-	background-image:url(../img/blog/bglisidebar.png);	
+	
 	background-repeat:no-repeat;
 	background-position:right;
 }
 .widget h2{
-	background-color: #434A54;
-        color:#ffff00;
+	background-color: #FFE09C;
+        color:black;
 	font-weight:lighter;
 	padding:20px;
 	font-size:17px;	
@@ -2084,7 +2078,7 @@ blockquote{
 
 /*start single project*/
 .titlesingleproject{
-	background-color:#434A54;	
+	background-color:#FFE09C;	
 }
 .titlesingleproject h4{
 	padding:20px 20px 20px 10px;	
@@ -2683,7 +2677,7 @@ visibility: hidden;
 
 
 .blue .datedayhometour, .blue .ui-tabs-active a, .btnpromotion .blue, .blue .valueprice, .blue .priceleftarchivetour, .blue .areadmoresinglepostmasonry, .blue .btngalleryarchivedestination, .blue .btngallerypage, .blue .filterinputicon, .blue .titleinfocontact, .blue .markercontactmap .circlemarker, .blue .datearchivesinglepost, .blue .btn, .blue .readmoredestinationsingleproject, .blue .pricesingleproject, .blue .arrowcarouselprev, .blue .arrowcarouselnext, .blue .memberposition, .blue .progressbartitle, .blue .datesinglepost{
-	background-color:#14b9d5;	
+	background-color:#FFE09C;	
 }
 .blue .bulletlisthometour, .blue .bulletevidenceleftmenu, .blue .bulletarchivedestination, .blue .bulletgallery{
 	border:2px solid #14b9d5;	
@@ -2701,7 +2695,7 @@ visibility: hidden;
 	box-shadow: inset 3px 0px 0px 0px rgba(20, 185, 213, 1.0);	
 }
 .blue .triangle{
-	border-top: 10px solid #14B9D5;
+	border-top: 10px solid #FFE09C;
 }
 .blue .markercontactmap .trianglemarker{
 	border-top: 30px solid #14B9D5;
@@ -2718,8 +2712,11 @@ visibility: hidden;
 
 
 
-.green .datedayhometour, .green .ui-tabs-active a, .btnpromotion .green, .green .valueprice, .green .priceleftarchivetour, .green .areadmoresinglepostmasonry, .green .btngalleryarchivedestination, .green .btngallerypage, .green .filterinputicon, .green .titleinfocontact, .green .markercontactmap .circlemarker, .green .datearchivesinglepost, .green .btn, .green .readmoredestinationsingleproject, .green .pricesingleproject, .green .arrowcarouselprev, .green .arrowcarouselnext, .green .memberposition, .green .progressbartitle, .green .datesinglepost{
-	background-color:#1bbc9b;	
+.green .datedayhometour, .green .ui-tabs-active a, .btnpromotion .green, .green .valueprice, .green .priceleftarchivetour, .green .areadmoresinglepostmasonry, .green .btngalleryarchivedestination, .green .btngallerypage, .green .filterinputicon, .green .titleinfocontact, .green .markercontactmap .circlemarker, .green .datearchivesinglepost, .green .btn, .green .readmoredestinationsingleproject, .green .pricesingleproject, .green .memberposition, .green .progressbartitle, .green .datesinglepost{
+	background-color:#FFE09C;	
+}
+.green .arrowcarouselprev, .green .arrowcarouselnext{
+    background-color:none;
 }
 .green .bulletlisthometour, .green .bulletevidenceleftmenu, .green .bulletarchivedestination, .green .bulletgallery{	
 	border:2px solid #1bbc9b;
@@ -2737,7 +2734,7 @@ visibility: hidden;
 	box-shadow: inset 3px 0px 0px 0px rgba(27, 188, 155, 1.0);	
 }
 .green .triangle{
-	border-top: 10px solid #1bbc9b;
+	border-top: 10px solid #FFE09C;
 }
 .green .markercontactmap .trianglemarker{
 	border-top: 30px solid #1bbc9b;
@@ -2946,3 +2943,26 @@ opacity: 0.8;
 
 
 /*end hover effect*/
+.column-left {
+    width: 33%;
+   
+
+}
+.column-center {
+    width: 34%;
+
+    margin-left: 33%;
+    position: absolute;
+}
+.column-right {
+    
+    right: 0px;
+    position: absolute;
+
+}
+#thankyou{
+    display: block;
+    margin: 0px -30px;
+    padding: 20px;
+    width: 340px;
+    margin-top: 20px;
