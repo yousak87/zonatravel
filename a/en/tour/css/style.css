@@ -2948,18 +2948,20 @@ opacity: 0.8;
 /*end hover effect*/
 .column-left {
     width: 33%;
-   
+       padding-left: 50px;
+
 
 }
 .column-center {
     width: 34%;
+        padding-left: 450px;
 
-    margin-left: 33%;
+    
     position: absolute;
 }
 .column-right {
     
-    right: 0px;
+    padding-left: 980px;
     position: absolute;
 
 }
