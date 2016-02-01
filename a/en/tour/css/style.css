@@ -173,7 +173,8 @@ header select{
 
 
 .logo{
-	margin: -19px 0%;
+	margin: -11px 0%;
+        margin-left: 12px;
 	float:left;	
 }
 .leftmenuclose{
