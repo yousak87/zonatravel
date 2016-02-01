@@ -11,6 +11,13 @@
     font-weight: normal;
     font-style: normal;
 }
+@font-face {
+    font-family: 'cen';
+    src: url('../rs-plugin/font/ufonts.com_tw-cen-mt.woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body{
 	margin:0px;
 	padding:0px;
@@ -2467,7 +2474,7 @@ blockquote{
 .accordionlight h4{
 	background-color:#FFE09C;
 	color:black;
-	border:1px solid #FFE09C;	
+	//border:1px solid #FFE09C;	
 }
 /*start accordion*/
 
@@ -3018,3 +3025,5 @@ opacity: 0.8;
   -o-animation: glowing 1500ms infinite;
   animation: glowing 1500ms infinite;
 }
+
+
