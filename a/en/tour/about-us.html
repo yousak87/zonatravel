@@ -78,7 +78,7 @@
                 <!--start navigation-->
                 <div class="grid_12 gridnavigation">
 
-                    <img style="position:fixed; left:40%; margin:-11px 0 0 -400px;" class="logo fade-up animate4" src="../logo.png">
+                    <img style=" left:40%; margin:-11px ;" class="logo fade-up animate4" src="../logo.png">
                     <!--start navigation-->
                     <ul class="sf-menu" id="nav">
 
@@ -90,11 +90,11 @@
                         <li>
 
                             <a href="#"><strong>DESTINATION</strong></a>
-                            <ul style="font-size:10px;">
+                            <ul style="font-family: dream;font-size: 14px;">
                                 <li>
-                                    <a href="detail.html"><b>THOUSAND ISLAND</b></a>
+                                    <a href="#"><b>THOUSAND ISLAND</b></a>
                                     <ul>
-                                        <li><a href="ayer.html"><b>PULAU RESORT</b></a>
+                                        <li><a href="#"><b>PULAU RESORT</b></a>
                                             <ul>
                                                 <li><b><a href="ayer.html">PULAU AYER</a></b></li>
                                                 <li><b><a href="bidadari.html">PULAU BIDADARI</a></b></li>
@@ -107,7 +107,7 @@
                                                 <li><b><a href="sepa.html">Pulau SEPA</a></b></li>
                                             </ul></li>
                                         <li>
-                                            <a href="detail.html"><b>PULAU PENDUDUK</b></a>
+                                            <a href="#"><b>PULAU PENDUDUK</b></a>
                                             <ul>
                                                 <li><b><a href="detail.html">PULAU PARI</a></b></li>
                                                 <li><b><a href="tidung.html">PULAU TIDUNG</a></b></li>
@@ -120,28 +120,16 @@
 
                                 </li>
                                 <li>
-                                    <a href="detail.html"><b>LOCAL DESTINATION INDONESIA</b></a>
+                                    <a class="fancybox"  rel="gallery1" href="coming.jpg"><b>LOCAL DESTINATION INDONESIA</b></a>
 
-                                    <ul>
-                                        <li><b><a href="detail.html">GREENCANYON</a></b></li>
-                                        <li><b><a href="detail.html">LOMBOK</a></b></li>
-                                        <li><b><a href="detail.html">YOGYAKARTA</a></b></li>
-                                        <li><b><a href="detail.html">BALI</a></b></li>
-                                        <li><b><a href="detail.html">BANGKA BELITUNG</a></b></li>
-                                    </ul>
+
 
                                 </li>
 
                                 <li>
-                                    <a href="detail.html"><b>INTERNATIONAL DESTINATION</b></a>
+                                    <a class="fancybox"  rel="gallery1" href="coming.jpg"><b>INTERNATIONAL DESTINATION</b></a>
 
-                                    <ul>
-                                        <li><b><a href="detail.html">SINGAPORE</a></b></li>
-                                        <li><b><a href="detail.html">CHINA</a></b></li>
-                                        <li><b><a href="detail.html">THAILAD</a></b></li>
-                                        <li><b><a href="detail.html">VIETNAM</a></b></li>
-                                        <li><b><a href="detail.html">SOUTH KOREA</a></b></li>
-                                    </ul>
+
 
                                 </li>
 
@@ -151,7 +139,7 @@
                         <li>
 
                             <a href="#"><strong>CHARTERBOOT</strong></a>
-                            <ul>
+                            <ul style=" overflow-y:scroll;height:400px;font-family: dream;font-size: 14px;">
                                 <li><b><a href="boat.html">BLACK PEARL</a></b></li>
                                 <li><b><a href="boat.html">TIDUNG EXPRESS</a></b></li>
                                 <li><b><a href="boat.html">PREDATOR 1 - 4</a></b></li>
@@ -181,8 +169,8 @@
                         </li>
                         <li>
 
-                            <a href="faq.html"><strong>FAQ</strong></a>
-                            <ul style="font-size:10px;">
+                            <a href="#"><strong>FAQ</strong></a>
+                            <ul style="font-family: dream;font-size: 14px;">
                                 <li>
                                     <a href="faq.html"><b>THOUSAND ISLAND</b></a>
 
@@ -190,14 +178,14 @@
 
                                 </li>
                                 <li>
-                                    <a href="faq.html"><b>LOCAL DESTINATION INDONESIA</b></a>
+                                    <a class="fancybox"  rel="gallery1" href="coming.jpg"><b>LOCAL DESTINATION INDONESIA</b></a>
 
 
 
                                 </li>
 
                                 <li>
-                                    <a href="faq.html"><b>INTERNATIONAL DESTINATION</b></a>
+                                    <a class="fancybox"  rel="gallery1" href="coming.jpg"><b>INTERNATIONAL DESTINATION</b></a>
 
 
 
@@ -212,7 +200,7 @@
                         <li>
 
                             <a href="#"><strong>BAHASA</strong></a>
-                            <ul style="font-size:10px;">
+                            <ul style="font-family: dream;font-size: 14px;">
                                 <li>
                                     <a href="detail.html"><b>INDONESIA</b></a>
 
@@ -465,7 +453,8 @@
         <script src="js/twitter/jquery.twitterfeed.min.js"></script> <!--twitter-->
         <script src="js/settings.js"></script> <!--settings-->
         <!--End js-->
-
+        <script src="js/fancybox/jquery.fancybox.js"></script> <!--main fancybox-->
+        <script src="js/fancybox/jquery.fancybox-thumbs.js"></script> <!--fancybox thumbs-->
 
         <script type='text/javascript'>
             /* <![CDATA[ */
@@ -490,7 +479,20 @@
                 $(".tooltip").tooltip({position: {my: "top+0 top-75", at: "center center"}});
             });
             //end tooltip
-
+            $(document).ready(function () {
+                $(".fancybox").fancybox({
+                    openEffect: 'fade',
+                    closeEffect: 'fade'
+                });
+                $(".fancybox").fancybox({
+                    helpers: {
+                        title: {
+                            type: 'inside',
+                            position: 'right'
+                        }
+                    }
+                });
+            });
 
             /* ]]> */
         </script>
