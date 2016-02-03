@@ -1,4 +1,23 @@
 /*start header*/
+@font-face {
+    font-family: 'dream';
+    src: url('tour/rs-plugin/font/CaviarDreams.woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'cen';
+    src: url('tour/rs-plugin/font/ufonts.com_tw-cen-mt.woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'BernardoModaSemibold';
+    src: url('tour/rs-plugin/font/bernardo-moda.modabold.woff');
+    
+    font-weight: normal;
+    font-style: normal;
+}
 header{
     float:left;
     width:100%;
