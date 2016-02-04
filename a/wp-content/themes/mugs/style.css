@@ -1156,7 +1156,7 @@ h1{
 }
 .section3 .mytable{
    margin-top: 150px;
-   margin-left: 150px;
+   margin-left: 100px;
    margin-right: 100px;
 }
 
@@ -1946,6 +1946,7 @@ a.rslides_nav.rslides1_nav.prev {
     text-shadow: rgb(255, 255, 255) 0px 0px 10px;
     overflow: visible;
     transition: all 0.3s;
+    top: 450px;
 }
 .judul{
     font-size: xx-large;
