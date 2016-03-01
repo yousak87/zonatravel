@@ -222,16 +222,15 @@ jQuery(document).ready(function (e) {
         }), e(this).mouseleave(function () {
             TweenMax.killTweensOf(e(this).find(".roundbtn")), TweenMax.to(e(this).find(".roundbtn #decouvrir"), .2, {opacity: 0}), TweenMax.to(e(this).find(".roundbtn"), .3, {scaleX: 0, scaleY: 0, ease: Back.easeIn, delay: .3})
         }), e(this).click(function () {
-            b = e(this).data("id"), T(b)
+           
         })
     }), e(".carte .black-bg").click(function () {
-        p()
     }), e(".closeBtn").mouseenter(function () {
         e(this).css("cursor", "pointer"), TweenMax.to(e(this).find("img"), .3, {opacity: 1, rotation: 90, scale: .8, ease: Back.easeOut})
     }), e(".closeBtn").mouseleave(function () {
         TweenMax.to(e(this).find("img"), .3, {opacity: 1, rotation: 0, scale: 1, ease: Back.easeOut})
     }), e(".closeBtn").click(function () {
-        p()
+       
     }), e(".mainmenu li").mouseover(function () {
         TweenMax.to(e(this).children("span"), .2, {opacity: 1, x: -100}), TweenMax.to(e(this).children("div"), .5, {scaleX: .5, scaleY: .5, opacity: 1, ease: Back.easeOut}), e(this).css("cursor", "pointer")
     }), e(".mainmenu li").mouseout(function () {
