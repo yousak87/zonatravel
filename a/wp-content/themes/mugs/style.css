@@ -1936,7 +1936,7 @@ a.rslides_nav.rslides1_nav.prev {
 }
 .text{
     position: absolute;
-    bottom: 49px;
+    bottom: 150px;
     z-index: 100;
     width: 500px;
     left:95px;
@@ -1946,7 +1946,7 @@ a.rslides_nav.rslides1_nav.prev {
     text-shadow: rgb(255, 255, 255) 0px 0px 10px;
     overflow: visible;
     transition: all 0.3s;
-    top: 400px;
+    
 }
 .judul{
     font-size: xx-large;
