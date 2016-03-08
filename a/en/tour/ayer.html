@@ -26,6 +26,7 @@
         <link rel="stylesheet" href="css/fancybox/jquery.fancybox-thumbs.css"> <!--fancybox thumbs-->
         <link rel="stylesheet" href="css/isotope.css"> <!--isotope-->
         <link rel="stylesheet" href="css/flexslider.css"> <!--flexslider-->
+
         <!--END CSS-->
 
         <!--google fonts-->
@@ -60,7 +61,7 @@
                 <!--start navigation-->
                 <div class="grid_12 gridnavigation">
 
-                    <img style="margin-left:-70px ;" class="logo fade-up animate4" src="../logo.png">
+                    <img style="margin-left:-50px ;" class="logo fade-up animate4" src="../logo.png">
                     <!--start navigation-->
                     <ul class="sf-menu" id="nav">
 
@@ -216,21 +217,7 @@
         <!--end header-->
 
         <!--start right search-->
-        <div class="rightsearchopen">
 
-            <!--search form-->
-            <form role="search" method="get" id="searchform" class="searchform" action="#">
-                <div>
-                    <label class="screen-reader-text" for="s">SEARCH</label>
-                    <input type="text" value="" name="s" id="s" />
-                    <input type="submit" id="searchsubmit" value="Search" />
-                </div>
-            </form>
-            <!--end search form-->
-
-            <span class="rightsearchopenclose"></span>
-
-        </div>
         <!--end right search-->
         <section class="header-page fade-up header-page-single-project">
             <div class="bounce-in animate4"><h2 class="header-pagetitle" style="font-family: BernardoModaSemibold;">PAKET WISATA PULAU SERIBU</h2></div>
@@ -279,8 +266,20 @@
                         <!--start flexslider-->
                         <div class="flexslider flex-slider " id="myslide">
                             <ul class="slides">
-                                <li><img alt="" src="img/single-project/slider/big/img1.jpg" /></li>
-                                <li><img alt="" src="img/single-project/slider/big/img2.jpg" /></li>
+                                <li><img width="500" height="390" src="img/ayer/Cottages-Pulau-Ayer.jpg" /></li>
+                                <li><img width="500" height="390" src="img/ayer/Pulau-Ayer-di-Kepulauan-Seribu.jpg" /></li>
+                                <li><img width="500" height="390" src="img/ayer/standard-room-in-floating.jpg" /></li>
+                                <li><img width="500" height="390" src="img/ayer/best-table-at-the-restaurant.jpg" /></li>
+                                <li><img width="500" height="390" src="img/ayer/paket-wisata-pulau-ayer-11.jpg" /></li>
+                                <li><img width="500" height="390" src="img/ayer/paket-wisata-pulau-ayer-21-700x400.jpg" /></li>
+                                <li><img width="500" height="390" src="img/ayer/paket-wisata-pulau-ayer-4.jpg" /></li>
+                                <li><img width="500" height="390" src="img/ayer/paket-wisata-pulau-ayer-5.jpg" /></li>
+                                <li><img width="500" height="390" src="img/ayer/pulau-ayer-bungalo.jpg" /></li>
+                                <li><img width="500" height="390" src="img/ayer/rhttr.jpg" /></li>
+                                <li><img width="500" height="390" src="img/ayer/rtr.jpg" /></li>
+                                <li><img width="500" height="390" src="img/ayer/rty.jpg" /></li>
+                                <li><img width="500" height="390" src="img/ayer/sd.jpg" /></li>
+
 
                             </ul>
                         </div>
@@ -427,7 +426,7 @@
                             <td>:&nbsp;</td>
                             <td>14.00 pm & 02.00 pm</td>
                         </tr>
-                        
+
                     </table><br>
 
                     <span style="font-weight: bold;font-family: dream;color: white;font-size: 16px;">Note :<br>
@@ -505,6 +504,8 @@
         <script src="js/jquery.flexslider-min.js"></script> <!--flexslider-->
         <script src="js/twitter/jquery.twitterfeed.min.js"></script> <!--twitter-->
         <script src="js/settings.js"></script> <!--settings-->
+        <script src="js/fancybox/jquery.fancybox.js"></script> <!--main fancybox-->
+        <script src="js/fancybox/jquery.fancybox-thumbs.js"></script> <!--fancybox thumbs-->
         <!--End js-->
 
 
@@ -557,7 +558,20 @@
 
             });
             //end carousel
-
+            $(document).ready(function () {
+                $(".fancybox").fancybox({
+                    openEffect: 'fade',
+                    closeEffect: 'fade'
+                });
+                $(".fancybox").fancybox({
+                    helpers: {
+                        title: {
+                            type: 'inside',
+                            position: 'right'
+                        }
+                    }
+                });
+            });
 
             /* ]]> */
         </script>
