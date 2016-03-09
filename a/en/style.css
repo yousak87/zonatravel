@@ -383,7 +383,7 @@ header select{
 
 .column-left {
     width: 33%;
-    margin-left: 170px;
+    margin-left: 100px;
 
 
 }
@@ -397,7 +397,7 @@ header select{
     width: 33%;
     right: 0;
     position: absolute;
-    margin-right: -175px;
+    margin-right: -200px;
 }
 
 .blink_me {

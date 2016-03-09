@@ -2957,7 +2957,7 @@ opacity: 0.8;
 /*end hover effect*/
 .column-left {
     width: 33%;
-       padding-left: 50px;
+       padding-left: 15px;
 
 
 }
@@ -2970,7 +2970,7 @@ opacity: 0.8;
 }
 .column-right {
     
-    padding-left: 980px;
+    padding-left: 1009px;
     position: absolute;
 
 }
