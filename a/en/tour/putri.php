@@ -191,21 +191,21 @@
                         </tr>
                         <tr>
                             <td>Child (2 - 9 Yo)</td>		
-                            <td> Rp 980.000</td>		
+                            <td> Rp.&nbsp;980.000</td>		
                             <td> Rp 1.065.000	</td>	
 
                         </tr>
                         <tr>
                             <td>Add Night (Child)</td>	
-                            <td>   Rp 750.000</td>	
-                            <td>     Rp 750.000</td>	
+                            <td>   Rp.&nbsp;750.000</td>	
+                            <td>   Rp.&nbsp;750.000</td>	
 
 
                         </tr>
                         <tr>
                             <td>Infant (< 2 Years Old)</td>	
-                            <td>   Rp 160.000</td>	
-                            <td>     Rp 170.000</td>	
+                            <td>   Rp.&nbsp;160.000</td>	
+                            <td>   Rp.&nbsp;170.000</td>	
 
 
                         </tr>

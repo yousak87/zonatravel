@@ -180,7 +180,7 @@
                             <td>Penyu A & B</td>
                             <td>Rp 1.888.000</td>	
                             <td>Rp 1.488.000</td>	
-                            <td>Rp 988.000</td>
+                            <td>Rp.&nbsp;988.000</td>
 
 
                         </tr>
@@ -188,7 +188,7 @@
                             <td>Penyu 1 - 10</td>	
                             <td>Rp 1.788.000</td>		
                             <td>Rp 1.388.000</td>		
-                            <td>Rp 988.000</td>
+                            <td>Rp.&nbsp;988.000</td>
 
 
                         </tr>
@@ -196,7 +196,7 @@
                             <td>Kakap</td>		
                             <td> Rp 1.688.000</td>		
                             <td> Rp 1.288.000	</td>	
-                            <td>Rp 988.000</td>
+                            <td>Rp.&nbsp;988.000</td>
 
                         </tr>
                         <tr>
@@ -204,7 +204,7 @@
                             <td>   Rp 1.588.000</td>	
                             <td>     Rp 1.188.000</td>	
 
-                            <td>Rp 988.000</td>
+                            <td>Rp.&nbsp;988.000</td>
 
                         </tr>
                         <tr>
@@ -212,7 +212,7 @@
                             <td>   Rp 1.488.000</td>	
                             <td>     Rp 1.088.000</td>	
 
-                            <td>Rp 988.000</td>
+                            <td>Rp.&nbsp;988.000</td>
 
                         </tr>
 

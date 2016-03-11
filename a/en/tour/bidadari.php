@@ -200,8 +200,8 @@
                         </tr>
                         <tr>
                             <td>  Extra Person/Child</td>
-                            <td>  Rp.&nbsp650,000</td>
-                            <td>  Rp650,000</td>
+                            <td>  Rp.&nbsp;650,000</td>
+                            <td>  Rp.&nbsp;650,000</td>
 
 
                         </tr>

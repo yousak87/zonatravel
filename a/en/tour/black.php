@@ -111,7 +111,7 @@
                     <!--start post-->
                     <div class="singlepost orange">
 
-                        <img alt="" class="imgsinglepost" src="img/blog/black.jpg">
+                        <img alt="" class="imgsinglepost" src="img/kapal/black.jpg">
 
                         <!--infosinglepost-->
 
@@ -141,43 +141,39 @@
                         <tr > 
                             <td><h1 style="font-size: 24px;color: white;font-family: dream;">Ayer / Bidadari &nbsp;</h1></td>
                             <td><h1 style="font-size: 24px;color: white;font-family: dream;">:</h1></td>
-                            <td><h1 style="font-size: 24px;color: white;font-family: dream;">Rp.2.100.000</h1></td>
+                            <td><h1 style="font-size: 24px;color: white;font-family: dream;">Rp.15.000.000</h1></td>
                         </tr>
                         <tr>
                             <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">Untung Jawa &nbsp;</h1></td>
                             <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">:</h1></td>
-                            <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">Rp.3765.000</h1></td>
+                            <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">Rp.30.000.000</h1></td>
                         </tr>
                         <tr>
                             <td><h1 style="font-size: 24px;color: white;font-family: dream;">Pari &nbsp;</h1></td>
                             <td><h1 style="font-size: 24px;color: white;font-family: dream;">:</h1></td>
-                            <td><h1 style="font-size: 24px;color: white;font-family: dream;">Rp.5.250.000</h1></td>
+                            <td><h1 style="font-size: 24px;color: white;font-family: dream;">Rp.43.000.000</h1></td>
                         </tr>
                         <tr>
                             <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">Tidung / Pramuka &nbsp;</h1></td>
                             <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">:</h1></td>
-                            <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">Rp.5.775.000</h1></td>
+                            <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">Rp.45.000.000</h1></td>
                         </tr>
                         <tr>
                             <td><h1 style="font-size: 24px;color: white;font-family: dream;">Harapan / Kelapa &nbsp;</h1></td>
                             <td><h1 style="font-size: 24px;color: white;font-family: dream;">:</h1></td>
-                            <td><h1 style="font-size: 24px;color: white;font-family: dream;">Rp.6.000.000</h1></td>
+                            <td><h1 style="font-size: 24px;color: white;font-family: dream;">Rp.50.000.000</h1></td>
                         </tr>
                         <tr>
                             <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">Putri / Sepa</h1></td>
                             <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">:</h1></td>
-                            <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">Rp.6.300.000</h1></td>
+                            <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">Rp.53.300.000</h1></td>
                         </tr>
                         <tr>
                             <td><h1 style="font-size: 24px;color: white;font-family: dream;">Pantara</h1></td>
                             <td><h1 style="font-size: 24px;color: white;font-family: dream;">:</h1></td>
-                            <td><h1 style="font-size: 24px;color: white;font-family: dream;">Rp.8.400.000</h1></td>
+                            <td><h1 style="font-size: 24px;color: white;font-family: dream;">Rp.62.000.000</h1></td>
                         </tr>
-                        <tr>
-                            <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">Paket Mancing</h1></td>
-                            <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">:</h1></td>
-                            <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">Rp.10.000.000</h1></td>
-                        </tr>
+                        
                     </table>
 
 
@@ -187,7 +183,7 @@
 
 
 
-                    <h1 class="titlesinglepost" style="font-size: 24px;font-family: dream;color:white;margin: 0px">Spesifikasi : &nbsp;</b> 85 Penumpang,5x200HP Suzuki - AC, Toilet, Home Theater
+                    <h1 class="titlesinglepost" style="font-size: 24px;font-family: dream;color:white;margin: 0px">Spesifikasi : &nbsp;</b> 190 Penumpang,6x250HP Suzuki - AC, Toilet, Home Theater
                     </h1>
 
                 </div>
@@ -197,7 +193,7 @@
                     <br>
                     <li><h4><b style="color: #ffee00;font-family: dream;font-weight: bold;">KHUSUS KAPAL CHARTER </b><b style="color: white;font-family: dream"> apabila menginap dikenakan tambahan biaya 50% per hari dari nilai sewa.</b></h4></li>
 
-                    <li><h4><b style="color: #ffee00;font-family: dream;font-weight: bold;">PAKET MANCING </b></b><b style="color: white;font-family: dream">dilengkapi dengan GPS, fishfinder, alat pancing umpan, pawang ikan, cool box + es batu</b></h4></li>
+                    
                 </div>
                 <!--end content-->
 
@@ -213,101 +209,7 @@
 
                 <div class="showbiz" data-left="#showbiz_left_2" data-right="#showbiz_right_2" data-play="#showbiz_play_2">
                     <div class="overflowholder">
-                        <ul>
-                            <li>
-
-                                <!--start first destination-->
-                                <div class="destinationsingleproject single-carousel blue">
-
-                                    <img alt="" class="imgdestinationsingleproject" src="img/single-project/slider/big/img1.jpg">
-
-                                    <div class="titledaydestinationsingleproject">
-                                        <p class="titledestinationsingleproject"><a href="detail.html" style="font-family: dream;font-weight: bold;">TIDUNG EXPRESS</a></p>
-
-                                    </div> 
-
-
-
-                                </div>
-                                <!--end first destination-->
-
-                            </li>
-                            <li>
-
-                                <!--start first destination-->
-                                <div class="destinationsingleproject single-carousel blue">
-
-                                    <img alt="" class="imgdestinationsingleproject" src="img/single-project/slider/big/img1.jpg">
-
-                                    <div class="titledaydestinationsingleproject">
-                                        <p class="titledestinationsingleproject"><a href="detail.html" style="font-family: dream;font-weight: bold;">PREDATOR 1 - 4</a></p>
-
-                                    </div> 
-
-
-
-                                </div>
-                                <!--end first destination-->
-
-                            </li>
-                            <li>
-
-                                <!--start first destination-->
-                                <div class="destinationsingleproject single-carousel blue">
-
-                                    <img alt="" class="imgdestinationsingleproject" src="img/single-project/slider/big/img1.jpg">
-
-                                    <div class="titledaydestinationsingleproject">
-                                        <p class="titledestinationsingleproject"><a href="detail.html" style="font-family: dream;font-weight: bold;">PRAMUKA EXPRESS 2</a></p>
-
-                                    </div> 
-
-
-
-                                </div>
-                                <!--end first destination-->
-
-                            </li>
-                            <li>
-
-                                <!--start first destination-->
-                                <div class="destinationsingleproject single-carousel blue">
-
-                                    <img alt="" class="imgdestinationsingleproject" src="img/single-project/slider/big/img1.jpg">
-
-                                    <div class="titledaydestinationsingleproject">
-                                        <p class="titledestinationsingleproject"><a href="detail.html" style="font-family: dream;font-weight: bold;">LUMBA LUMBA 1 - 2</a></p>
-
-                                    </div> 
-
-
-
-                                </div>
-                                <!--end first destination-->
-
-                            </li>
-                            <li>
-
-                                <!--start first destination-->
-                                <div class="destinationsingleproject single-carousel blue">
-
-                                    <img alt="" class="imgdestinationsingleproject" src="img/single-project/slider/big/img1.jpg">
-
-                                    <div class="titledaydestinationsingleproject">
-                                        <p class="titledestinationsingleproject"><a href="detail.html" style="font-family: dream;font-weight: bold;">VINCENT 1 - 3</a></p>
-
-                                    </div> 
-
-
-
-                                </div>
-                                <!--end first destination-->
-
-                            </li>
-
-
-
-                        </ul>
+                        <?=KAPAL?>
                     </div>
                 </div>
                 <div class="container arrowscarousel green clearfix">

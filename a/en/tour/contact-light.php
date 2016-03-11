@@ -77,7 +77,7 @@
         <!--start right search-->
 
         <!--end right search-->
-        <section class="header-page fade-u">
+        <section class="header-page fade-u header-page-prices">
             <div class="bounce-in animate4"><h2 class="header-pagetitle" style="font-family: BernardoModaSemibold;">CONTACT US</h2></div>
         </section>
 
