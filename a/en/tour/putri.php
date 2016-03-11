@@ -122,8 +122,23 @@
                         <!--start flexslider-->
                         <div class="flexslider flex-slider " id="myslide">
                             <ul class="slides">
-                                <li><img alt="" src="img/single-project/slider/big/img1.jpg" /></li>
-                                <li><img alt="" src="img/single-project/slider/big/img2.jpg" /></li>
+                                <li><img width="500" height="390" src="img/putri/IMG-20160121-WA0055.jpg" /></li>
+                                <li><img width="500" height="390" src="img/putri/IMG-20160121-WA0057.jpg" /></li>
+                                <li><img width="500" height="390" src="img/putri/IMG-20160121-WA0058.jpg" /></li>
+                                <li><img width="500" height="390" src="img/putri/IMG-20160121-WA0059.jpg" /></li>
+                                <li><img width="500" height="390" src="img/putri/IMG-20160121-WA0060.jpg" /></li>
+                                <li><img width="500" height="390" src="img/putri/IMG-20160121-WA0061.jpg" /></li>
+                                <li><img width="500" height="390" src="img/putri/IMG-20160121-WA0062.jpg" /></li>
+                                <li><img width="500" height="390" src="img/putri/IMG-20160121-WA0063.jpg" /></li>
+                                <li><img width="500" height="390" src="img/putri/IMG-20160121-WA0063.jpg" /></li>
+                                <li><img width="500" height="390" src="img/putri/IMG-20160121-WA0064.jpg" /></li>
+                                <li><img width="500" height="390" src="img/putri/IMG-20160121-WA0065.jpg" /></li>
+                                <li><img width="500" height="390" src="img/putri/IMG-20160121-WA0066.jpg" /></li>
+                                <li><img width="500" height="390" src="img/putri/IMG-20160121-WA0067.jpg" /></li>
+                                <li><img width="500" height="390" src="img/putri/IMG-20160121-WA0068.jpg" /></li>
+                                <li><img width="500" height="390" src="img/putri/IMG-20160121-WA0069.jpg" /></li>
+
+
 
                             </ul>
                         </div>

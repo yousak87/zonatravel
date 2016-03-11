@@ -111,8 +111,24 @@
                         <!--start flexslider-->
                         <div class="flexslider flex-slider " id="myslide">
                             <ul class="slides">
-                                <li><img alt="" src="img/single-project/slider/big/img1.jpg" /></li>
-                                <li><img alt="" src="img/single-project/slider/big/img2.jpg" /></li>
+                                <li><img width="500" height="390" src="img/bidadari/Front_og_bidadari-9a5bf-2407_64-t598_19.jpg" /></li>
+                                <li><img width="500" height="390" src="img/bidadari/Pulau-Bidadari-Kepulauan-Seribu.jpg" /></li>
+                                <li><img width="500" height="390" src="img/bidadari/Pulau-Bidadari-cottage.jpg" /></li>
+                                <li><img width="500" height="390" src="img/bidadari/ew.jpg" /></li>
+                                <li><img width="500" height="390" src="img/bidadari/fg.jpg" /></li>
+                                <li><img width="500" height="390" src="img/bidadari/paket-wisata-pulau-bidadari-2.jpg" /></li>
+                                <li><img width="500" height="390" src="img/bidadari/paket-wisata-pulau-bidadari-3.jpg" /></li>
+                                <li><img width="500" height="390" src="img/bidadari/paket-wisata-pulau-bidadari-5.jpg" /></li>
+                                <li><img width="500" height="390" src="img/bidadari/paket-wisata-pulau-bidadari-9.jpg" /></li>
+                                <li><img width="500" height="390" src="img/bidadari/paket-wisata-pulau-pelangi-4-700x4001.jpg" /></li>
+                                <li><img width="500" height="390" src="img/bidadari/photo3jpg.jpg" /></li>
+                                <li><img width="500" height="390" src="img/bidadari/pulau-bidadari-resort.jpg" /></li>
+                                <li><img width="500" height="390" src="img/bidadari/wd.jpg" /></li>
+
+
+
+
+
 
                             </ul>
                         </div>

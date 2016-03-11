@@ -121,8 +121,20 @@
                         <!--start flexslider-->
                         <div class="flexslider flex-slider " id="myslide">
                             <ul class="slides">
-                                <li><img alt="" src="img/single-project/slider/big/img1.jpg" /></li>
-                                <li><img alt="" src="img/single-project/slider/big/img2.jpg" /></li>
+                                <li><img width="500" height="390" src="img/pantara/15.JPG" /></li>
+                                <li><img width="500" height="390" src="img/pantara/16.JPG" /></li>
+                                <li><img width="500" height="390" src="img/pantara/20151109-143440-largejpg.jpg" /></li>
+                                <li><img width="500" height="390" src="img/pantara/27.JPG" /></li>
+                                <li><img width="500" height="390" src="img/pantara/50.JPG" /></li>
+                                <li><img width="500" height="390" src="img/pantara/6.jpg" /></li>
+                                <li><img width="500" height="390" src="img/pantara/62.JPG" /></li>
+                                <li><img width="500" height="390" src="img/pantara/cottage-pulau-pantara.jpg" /></li>
+                                <li><img width="500" height="390" src="img/pantara/gb22.2.jpg" /></li>
+                                <li><img width="500" height="390" src="img/pantara/gb22.jpg" /></li>
+                                <li><img width="500" height="390" src="img/pantara/pulau-pantara-resort.jpg" /></li>
+                                <li><img width="500" height="390" src="img/pantara/pulau-pantara.jpg" /></li>
+                                <li><img width="500" height="390" src="img/pantara/rth.jpg" /></li>
+                                <li><img width="500" height="390" src="img/pantara/rthr.jpg" /></li>
 
                             </ul>
                         </div>

@@ -120,8 +120,24 @@
                         <!--start flexslider-->
                         <div class="flexslider flex-slider " id="myslide">
                             <ul class="slides">
-                                <li><img alt="" src="img/single-project/slider/big/img1.jpg" /></li>
-                                <li><img alt="" src="img/single-project/slider/big/img2.jpg" /></li>
+                                <li><img width="500" height="390" src="img/kotok/IMG-20160121-WA0027.jpg" /></li>
+                                <li><img width="500" height="390" src="img/kotok/IMG-20160121-WA0028.jpg" /></li>
+                                <li><img width="500" height="390" src="img/kotok/IMG-20160121-WA0029.jpg" /></li>
+                                <li><img width="500" height="390" src="img/kotok/IMG-20160121-WA0030.jpg" /></li>
+                                <li><img width="500" height="390" src="img/kotok/IMG-20160121-WA0031.jpg" /></li>
+                                <li><img width="500" height="390" src="img/kotok/IMG-20160121-WA0032.jpg" /></li>
+                                <li><img width="500" height="390" src="img/kotok/IMG-20160121-WA0033.jpg" /></li>
+                                <li><img width="500" height="390" src="img/kotok/IMG-20160121-WA0034.jpg" /></li>
+                                <li><img width="500" height="390" src="img/kotok/IMG-20160121-WA0035.jpg" /></li>
+                                <li><img width="500" height="390" src="img/kotok/IMG-20160121-WA0036.jpg" /></li>
+                                <li><img width="500" height="390" src="img/kotok/IMG-20160121-WA0037.jpg" /></li>
+                                <li><img width="500" height="390" src="img/kotok/IMG-20160121-WA0038.jpg" /></li>
+                                <li><img width="500" height="390" src="img/kotok/IMG-20160121-WA0039.jpg" /></li>
+                                <li><img width="500" height="390" src="img/kotok/IMG-20160121-WA0040.jpg" /></li>
+                                <li><img width="500" height="390" src="img/kotok/IMG-20160121-WA0041.jpg" /></li>
+                                <li><img width="500" height="390" src="img/kotok/IMG-20160121-WA0042.jpg" /></li>
+
+
 
                             </ul>
                         </div>

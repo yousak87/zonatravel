@@ -121,8 +121,24 @@
                         <!--start flexslider-->
                         <div class="flexslider flex-slider " id="myslide">
                             <ul class="slides">
-                                <li><img alt="" src="img/single-project/slider/big/img1.jpg" /></li>
-                                <li><img alt="" src="img/single-project/slider/big/img2.jpg" /></li>
+                                <li><img width="500" height="390" src="img/pelangi/BOUGENVILLE OUTSIDE.jpg" /></li>
+                                <li><img width="500" height="390" src="img/pelangi/Cottages-Bougenville.jpg" /></li>
+                                <li><img width="500" height="390" src="img/pelangi/EDELWEIS INSIDE.jpg" /></li>
+                                <li><img width="500" height="390" src="img/pelangi/Edelweis.jpg" /></li>
+                                <li><img width="500" height="390" src="img/pelangi/JASMINE INSIDE.jpg" /></li>
+                                <li><img width="500" height="390" src="img/pelangi/P1000752.JPG" /></li>
+                                <li><img width="500" height="390" src="img/pelangi/P1000761.JPG" /></li>
+                                <li><img width="500" height="390" src="img/pelangi/P1000785.JPG" /></li>
+                                <li><img width="500" height="390" src="img/pelangi/Tulip.jpg" /></li>
+                                <li><img width="500" height="390" src="img/pelangi/dfgddfg.jpg" /></li>
+                                <li><img width="500" height="390" src="img/pelangi/jt.jpg" /></li>
+                                <li><img width="500" height="390" src="img/pelangi/paket-wisata-pulau-pelangi-3.jpg" /></li>
+                                <li><img width="500" height="390" src="img/pelangi/pelangi-island-resort.jpg" /></li>
+                                <li><img width="500" height="390" src="img/pelangi/sdfsdsf.jpg" /></li>
+                                <li><img width="500" height="390" src="img/pelangi/tyt.jpg" /></li>
+
+
+
 
                             </ul>
                         </div>

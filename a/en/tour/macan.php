@@ -114,8 +114,22 @@
                         <!--start flexslider-->
                         <div class="flexslider flex-slider " id="myslide">
                             <ul class="slides">
-                                <li><img alt="" src="img/single-project/slider/big/img1.jpg" /></li>
-                                <li><img alt="" src="img/single-project/slider/big/img2.jpg" /></li>
+                                <li><img width="500" height="390" src="img/macan/4c7649_2207d5f08bd24bc7b10e498392b6043b.jpg" /></li>
+                                <li><img width="500" height="390" src="img/macan/4c7649_2eb3b1934e574baaa465bb5ab634cc81.jpg" /></li>
+                                <li><img width="500" height="390" src="img/macan/4c7649_5473c7c70e0d461ca1715c944a240d74.jpg" /></li>
+                                <li><img width="500" height="390" src="img/macan/4c7649_7c279a87f2854781bbb89a8df30b3848.jpg" /></li>
+                                <li><img width="500" height="390" src="img/macan/4c7649_7f616f76ade947ef9e69d9e9e8b23649.jpg" /></li>
+                                <li><img width="500" height="390" src="img/macan/4c7649_d8579fe64c24447f9844d146df369dea.jpg" /></li>
+                                <li><img width="500" height="390" src="img/macan/4c7649_f466e08fc86f4bd9814144e1bc648844.jpg" /></li>
+                                <li><img width="500" height="390" src="img/macan/pulau-macan-coral-hut.jpg" /></li>
+                                <li><img width="500" height="390" src="img/macan/pulau-macan-driftwood-1-hut.jpg" /></li>
+                                <li><img width="500" height="390" src="img/macan/pulau-macan-driftwood-2-hut.jpg" /></li>
+                                <li><img width="500" height="390" src="img/macan/pulau-macan-eco-cabin.jpg" /></li>
+                                <li><img width="500" height="390" src="img/macan/pulau-macan-island-hut.jpg" /></li>
+                                <li><img width="500" height="390" src="img/macan/pulau-macan-sunset-hut.jpg" /></li>
+                                <li><img width="500" height="390" src="img/macan/pulau-macan.jpg" /></li>
+
+
 
                             </ul>
                         </div>

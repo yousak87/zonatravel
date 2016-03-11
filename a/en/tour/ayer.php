@@ -141,7 +141,7 @@
 
 
                     <table>
-                        <tr><td style="background-color: #FFE09C;font-family: BernardoModaSemibold;color: black;font-size: 18px;">ONE DAY TOUR FOR ADULT / CHILD : </td><td style="font-weight: bold;font-family: dream;color: white;font-size: 18px;"> &nbsp; Rp.350.000 / PERSON</td></tr>
+                        <tr><td style="background-color: #FFE09C;font-family: BernardoModaSemibold;color: black;font-size: 18px;">ONE DAY TOUR FOR ADULT / CHILD : </td><td style="font-weight: bold;font-family: dream;color: white;font-size: 18px;"> &nbsp; Rp.360.000 / PERSON</td></tr>
                     </table>
                     <table>
                         <tr><td style="font-weight: bold;font-family: dream;color: white;font-size: 18px;">PRICE INCLUDE: </td><td>Transportasi Speedboat Marina Ancol - Pulau Ayer (PP), Asuransi Transportasi Jasa Raharja, Welcome Drink, Makan Siang 1x, Tax & Service 21 %</td></tr>

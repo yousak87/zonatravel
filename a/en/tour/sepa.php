@@ -123,8 +123,22 @@
                         <!--start flexslider-->
                         <div class="flexslider flex-slider " id="myslide">
                             <ul class="slides">
-                                <li><img alt="" src="img/single-project/slider/big/img1.jpg" /></li>
-                                <li><img alt="" src="img/single-project/slider/big/img2.jpg" /></li>
+                                <li><img width="500" height="390" src="img/sepa/108.JPG" /></li>
+                                <li><img width="500" height="390" src="img/sepa/13.JPG" /></li>
+                                <li><img width="500" height="390" src="img/sepa/139.JPG" /></li>
+                                <li><img width="500" height="390" src="img/sepa/20520133.jpg" /></li>
+                                <li><img width="500" height="390" src="img/sepa/20520292.jpg" /></li>
+                                <li><img width="500" height="390" src="img/sepa/20520847.jpg" /></li>
+                                <li><img width="500" height="390" src="img/sepa/28.jpg" /></li>
+                                <li><img width="500" height="390" src="img/sepa/34.JPG" /></li>
+                                <li><img width="500" height="390" src="img/sepa/72.JPG" /></li>
+                                <li><img width="500" height="390" src="img/sepa/87.jpg" /></li>
+                                <li><img width="500" height="390" src="img/sepa/91.JPG" /></li>
+                                <li><img width="500" height="390" src="img/sepa/ada.jpg" /></li>
+                                <li><img width="500" height="390" src="img/sepa/awda (2).jpg" /></li>
+
+
+
 
                             </ul>
                         </div>
