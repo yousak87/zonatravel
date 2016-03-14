@@ -284,7 +284,7 @@
                 </div>
                 <div class="grid_8 blue fade-right animate1">
 
-                    <table id="wp-calendar" style="font-family: dream;" >
+                    <table id="wp-calendar" style="font-family: dream;" border="1">
                         <div class="valueprice" align="center">
                             <p><span class="currency" style="font-family: cen;">RUNDOWN </span></p>
 
@@ -323,8 +323,7 @@
                             <td><li style="color: #FFE09C;"><font color="white">09.00-13.00 
                             </font></li></td>
                         <td align="left"><p style="font-size: 15px;font-family: dream"><font color="white">  Chek in Homestay, Menikmati Welcome Drink , kemudian Acara bebas  atau bersepeda explore lingkungan Pulau Pari,
-                                Sholat (bagi yang menjalankanya) istirahat, Dilanjutkan dengan
-                                menikmati hidangan Makan siang yang telah di sediakan. </font></p>
+                                </font></p>
                         </td>
                         </tr>
                         <tr >

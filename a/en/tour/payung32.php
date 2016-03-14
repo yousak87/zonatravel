@@ -173,7 +173,7 @@
                     <iframe width="550" height="370" src="https://www.youtube.com/embed/WE7WsnuLvPs" frameborder="0" allowfullscreen></iframe>
                 </div>
                 <!--end info project-->
-                <div class="grid_6 green fade-right animate1">
+                <div class="grid_4 green fade-right animate1">
                     <div id="calendar_wrap">
 
                         <table id="wp-calendar" style="font-family: dream">
@@ -238,9 +238,6 @@
                         <br> &nbsp;
 
                     </div>
-
-                </div>
-                <div class="grid_6 green fade-right animate1">
                     <div id="calendar_wrap">
 
                         <table id="wp-calendar" >
@@ -281,6 +278,15 @@
                             </tbody>
                         </table>
                     </div>
+                </div>
+                <div class="grid_8 green fade-right animate1">
+                    <div class="valueprice" align="center">
+                        <p><span class="currency" style="font-family: cen;">RUNDOWN </span></p>
+
+                    </div>
+
+                    <div class="triangle"></div>
+
 
                 </div>
 

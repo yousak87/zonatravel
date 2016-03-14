@@ -130,7 +130,6 @@
                                 <li><img width="500" height="390" src="img/putri/IMG-20160121-WA0061.jpg" /></li>
                                 <li><img width="500" height="390" src="img/putri/IMG-20160121-WA0062.jpg" /></li>
                                 <li><img width="500" height="390" src="img/putri/IMG-20160121-WA0063.jpg" /></li>
-                                <li><img width="500" height="390" src="img/putri/IMG-20160121-WA0063.jpg" /></li>
                                 <li><img width="500" height="390" src="img/putri/IMG-20160121-WA0064.jpg" /></li>
                                 <li><img width="500" height="390" src="img/putri/IMG-20160121-WA0065.jpg" /></li>
                                 <li><img width="500" height="390" src="img/putri/IMG-20160121-WA0066.jpg" /></li>
@@ -259,8 +258,7 @@
 
                     <span style="font-weight: bold;font-family: dream;color: white;font-size: 16px;">Note :<br>
                         *) Tidak boleh membawa hewan peliharaan.<br>
-                        *) WD artinya Weekday<br>
-                        *) WE artinya Weekend
+
 
                     </span>
 

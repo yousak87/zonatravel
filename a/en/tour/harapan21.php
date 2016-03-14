@@ -138,6 +138,15 @@
                                 <li><img width="500" height="450" alt="" src="img/pulau/harapan/8.jpg" /></li>
                                 <li><img width="500" height="450" alt="" src="img/pulau/harapan/9.jpg" /></li>
                                 <li><img width="500" height="450" alt="" src="img/pulau/harapan/10.jpg" /></li>
+                                <li><img width="500" height="450" alt="" src="img/pulau/harapan/11.jpg" /></li>
+                                <li><img width="500" height="450" alt="" src="img/pulau/harapan/12.jpg" /></li>
+                                <li><img width="500" height="450" alt="" src="img/pulau/harapan/13.jpg" /></li>
+                                <li><img width="500" height="450" alt="" src="img/pulau/harapan/14.jpg" /></li>
+                                <li><img width="500" height="450" alt="" src="img/pulau/harapan/15.jpg" /></li>
+                                <li><img width="500" height="450" alt="" src="img/pulau/harapan/16.jpg" /></li>
+                                <li><img width="500" height="450" alt="" src="img/pulau/harapan/17.jpg" /></li>
+                                <li><img width="500" height="450" alt="" src="img/pulau/harapan/18.jpg" /></li>
+                                <li><img width="500" height="450" alt="" src="img/pulau/harapan/19.jpg" /></li>
 
                             </ul>
                         </div>

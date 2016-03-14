@@ -137,6 +137,15 @@
                                 <li><img width="500" height="450" alt="" src="img/pulau/harapan/8.jpg" /></li>
                                 <li><img width="500" height="450" alt="" src="img/pulau/harapan/9.jpg" /></li>
                                 <li><img width="500" height="450" alt="" src="img/pulau/harapan/10.jpg" /></li>
+                                <li><img width="500" height="450" alt="" src="img/pulau/harapan/11.jpg" /></li>
+                                <li><img width="500" height="450" alt="" src="img/pulau/harapan/12.jpg" /></li>
+                                <li><img width="500" height="450" alt="" src="img/pulau/harapan/13.jpg" /></li>
+                                <li><img width="500" height="450" alt="" src="img/pulau/harapan/14.jpg" /></li>
+                                <li><img width="500" height="450" alt="" src="img/pulau/harapan/15.jpg" /></li>
+                                <li><img width="500" height="450" alt="" src="img/pulau/harapan/16.jpg" /></li>
+                                <li><img width="500" height="450" alt="" src="img/pulau/harapan/17.jpg" /></li>
+                                <li><img width="500" height="450" alt="" src="img/pulau/harapan/18.jpg" /></li>
+                                <li><img width="500" height="450" alt="" src="img/pulau/harapan/19.jpg" /></li>
 
                             </ul>
                         </div>
@@ -347,7 +356,7 @@
                         <tr >
                             <td>  <li style="color: #FFE09C;"><font color="white"> 12.45-18.00 
                             </font></li></td>
-                        <td align="left"><p style="font-size: 15px;font-family: dream"><font color="white">   Persiapan Snorkeling, perjalanan dengan kapal tradisional menuju Pulau Bulat untuk briefing acara snorkeling, selanjutnya berangkat untuk menikmati keindahan terumbu karang serta foto dibawah laut di Spot Pulau Kayu angin genteng dan PulauMacan, dilanjutkan jelajah pulau ke Pulau gusung Dolphin dan menikmati sunset di Pulau gusung perak. </font></p>
+                        <td align="left"><p style="font-size: 15px;font-family: dream"><font color="white">   Persiapan Snorkeling, perjalanan dengan kapal tradisional menuju Pulau Bulat untuk briefing acara snorkeling, selanjutnya berangkat untuk menikmati keindahan terumbu karang serta foto dibawah laut di Spot Pulau Kayu angin genteng dan PulauMacan, dilanjutkan jelajah pulau ke Pulau Dolphin dan menikmati sunset di Pulau perak. </font></p>
                         </td>
                         </tr>
                         <tr >

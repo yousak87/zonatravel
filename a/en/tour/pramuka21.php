@@ -136,6 +136,8 @@
                                 <li><img width="500" height="450" alt="" src="img/pulau/pramuka/7.jpg" /></li>
                                 <li><img width="500" height="450" alt="" src="img/pulau/pramuka/8.jpg" /></li>
                                 <li><img width="500" height="450" alt="" src="img/pulau/pramuka/9.jpg" /></li>
+                                <li><img width="500" height="450" alt="" src="img/pulau/pramuka/10.jpg" /></li>
+
 
 
 

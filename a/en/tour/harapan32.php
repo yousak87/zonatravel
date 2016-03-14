@@ -126,6 +126,16 @@
                         <!--start flexslider-->
                         <div class="flexslider flex-slider " id="myslide">
                             <ul class="slides">
+                                <li><img width="500" height="450" alt="" src="img/pulau/harapan/1.jpg" /></li>
+                                <li><img width="500" height="450" alt="" src="img/pulau/harapan/2.jpg" /></li>
+                                <li><img width="500" height="450" alt="" src="img/pulau/harapan/3.jpg" /></li>
+                                <li><img width="500" height="450" alt="" src="img/pulau/harapan/4.jpg" /></li>
+                                <li><img width="500" height="450" alt="" src="img/pulau/harapan/5.jpg" /></li>
+                                <li><img width="500" height="450" alt="" src="img/pulau/harapan/6.jpg" /></li>
+                                <li><img width="500" height="450" alt="" src="img/pulau/harapan/7.jpg" /></li>
+                                <li><img width="500" height="450" alt="" src="img/pulau/harapan/8.jpg" /></li>
+                                <li><img width="500" height="450" alt="" src="img/pulau/harapan/9.jpg" /></li>
+                                <li><img width="500" height="450" alt="" src="img/pulau/harapan/10.jpg" /></li>
                                 <li><img width="500" height="450" alt="" src="img/pulau/harapan/11.jpg" /></li>
                                 <li><img width="500" height="450" alt="" src="img/pulau/harapan/12.jpg" /></li>
                                 <li><img width="500" height="450" alt="" src="img/pulau/harapan/13.jpg" /></li>
@@ -135,7 +145,6 @@
                                 <li><img width="500" height="450" alt="" src="img/pulau/harapan/17.jpg" /></li>
                                 <li><img width="500" height="450" alt="" src="img/pulau/harapan/18.jpg" /></li>
                                 <li><img width="500" height="450" alt="" src="img/pulau/harapan/19.jpg" /></li>
-                                <li><img width="500" height="450" alt="" src="img/pulau/harapan/10.jpg" /></li>
 
                             </ul>
                         </div>
@@ -386,7 +395,7 @@
                         <tr >
                             <td> <li style="color: #FFE09C;"><font color="white">09.00-17.30
                             </font></li></td>
-                        <td align="left"> <p style="font-size: 15px;font-family: dream"><font color="white">elajah Pulau (ke Pulau Bira, Pulau Panjang, Pulau Gosong Perak, Pulau Bintang, dan penangkaran Penyu) </font></p>
+                        <td align="left"> <p style="font-size: 15px;font-family: dream"><font color="white">Jelajah Pulau (ke Pulau Bira, Pulau Panjang, Pulau Gosong Perak, Pulau Bintang, dan penangkaran Penyu) </font></p>
                         </td>
                         </tr>
                         <tr >

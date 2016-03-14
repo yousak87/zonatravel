@@ -238,9 +238,6 @@
                         <br> &nbsp;
 
                     </div>
-
-                </div>
-                <div class="grid_6 green fade-right animate1">
                     <div id="calendar_wrap">
 
                         <table id="wp-calendar" >
@@ -281,6 +278,14 @@
                             </tbody>
                         </table>
                     </div>
+                </div>
+                <div class="grid_6 green fade-right animate1">
+                    <div class="valueprice" align="center">
+                        <p><span class="currency" style="font-family: cen;">RUNDOWN </span></p>
+
+                    </div>
+
+                    <div class="triangle"></div>
 
                 </div>
 

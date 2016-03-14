@@ -265,8 +265,7 @@
 
                     <span style="font-weight: bold;font-family: dream;color: white;font-size: 16px;">Note :<br>
                         *) Tidak boleh membawa hewan peliharaan.<br>
-                        *) WD artinya Weekday<br>
-                        *) WE artinya Weekend
+               
 
                     </span>
 
