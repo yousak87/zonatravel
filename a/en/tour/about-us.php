@@ -196,49 +196,49 @@
 
                 <div class="grid_3">
                     <div class="imgclient fade-left animate1">
-                        <img alt="" src="img/clients/client1.png">    
+                        <img alt="" src="img/clients/1.png">    
                     </div>
                 </div>
 
                 <div class="grid_3">
                     <div class="imgclient fade-left animate2">
-                        <img alt="" src="img/clients/client2.png">     
+                        <img alt="" src="img/clients/2.png">     
                     </div>
                 </div>
 
                 <div class="grid_3">
                     <div class="imgclient fade-left animate3">
-                        <img alt="" src="img/clients/client3.png">    
+                        <img alt="" src="img/clients/3.png">    
                     </div>
                 </div>
 
                 <div class="grid_3">
                     <div class="imgclient fade-left animate4">
-                        <img alt="" src="img/clients/client4.png">        
+                        <img alt="" src="img/clients/4.png">        
                     </div>
                 </div>
 
                 <div class="grid_3">
                     <div class="imgclient fade-left animate1">
-                        <img alt="" src="img/clients/client1.png">    
+                        <img alt="" src="img/clients/5.png">    
                     </div>
                 </div>
 
                 <div class="grid_3">
                     <div class="imgclient fade-left animate2">
-                        <img alt="" src="img/clients/client2.png">     
+                        <img alt="" src="img/clients/6.png">     
                     </div>
                 </div>
 
                 <div class="grid_3">
                     <div class="imgclient fade-left animate3">
-                        <img alt="" src="img/clients/client3.png">    
+                        <img alt="" src="img/clients/7.png">    
                     </div>
                 </div>
 
                 <div class="grid_3">
                     <div class="imgclient fade-left animate4">
-                        <img alt="" src="img/clients/client4.png">        
+                        <img alt="" src="img/clients/8.png">        
                     </div>
                 </div>
 
