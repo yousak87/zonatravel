@@ -179,7 +179,7 @@
                         Berikut beberapa testimonial yang telah menggunakan jasa sakura travel :</p>
 
                     <br><br>
-                    <form action="team.html">
+                    <form action="team.php">
                         <button class="buttonBlink">CLICK TO FULL TESTIMONIAL</button></form>
                 </div>
 
