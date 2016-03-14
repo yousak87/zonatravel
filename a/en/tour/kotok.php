@@ -244,22 +244,22 @@
                         <tr>
                             <td>WeekDay From Marina Ancol &nbsp;</td>
                             <td>:&nbsp;</td>
-                            <td>09.00 am</td>
+                            <td>09.00 Pagi</td>
                         </tr>
                         <tr>
                             <td>Weekday From Pulau Kotok &nbsp;</td>
                             <td>:&nbsp;</td>
-                            <td>04.00 pm</td>
+                            <td>16.00 Sore</td>
                         </tr>
                         <tr>
                             <td>Weekend from Marina Ancol &nbsp;</td>
                             <td>:&nbsp;</td>
-                            <td>09.00 am</td>
+                            <td>09.00 Pagi</td>
                         </tr>
                         <tr>
                             <td>Weekend From Pulau Kotok &nbsp;</td>
                             <td>:&nbsp;</td>
-                            <td>14.00 pm & 02.00 pm</td>
+                            <td>14.00 Siang</td>
                         </tr>
 
                     </table><br>

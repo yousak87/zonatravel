@@ -227,12 +227,12 @@
                         <tr>
                             <td>Dari Marina Ancol &nbsp;</td>
                             <td>:&nbsp;</td>
-                            <td>08.30 am</td>
+                            <td>08.30 Pagi</td>
                         </tr>
                         <tr>
                             <td>Dari Pulau Pantara &nbsp;</td>
                             <td>:&nbsp;</td>
-                            <td>01.30 pm</td>
+                            <td>13.30 Siang</td>
                         </tr>
 
 

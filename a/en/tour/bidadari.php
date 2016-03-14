@@ -241,12 +241,12 @@
                         <tr>
                             <td>Dari Marina Ancol &nbsp;</td>
                             <td>:&nbsp;</td>
-                            <td>10.00 am</td>
+                            <td>10.00 Pagi</td>
                         </tr>
                         <tr>
                             <td>WeekDay From Pulau Bidadari &nbsp;</td>
                             <td>:&nbsp;</td>
-                            <td>18.00 pm</td>
+                            <td>18.00 Sore</td>
                         </tr>
 
 

@@ -240,22 +240,22 @@
                         <tr>
                             <td>WeekDay From Marina Ancol &nbsp;</td>
                             <td>:&nbsp;</td>
-                            <td>09.00 am</td>
+                            <td>09.00 Pagi</td>
                         </tr>
                         <tr>
                             <td>WeekDay From Pulau Ayer &nbsp;</td>
                             <td>:&nbsp;</td>
-                            <td>02.00 pm</td>
+                            <td>14.00 Siang</td>
                         </tr>
                         <tr>
                             <td>WeekEnd From Marina Ancol &nbsp;</td>
                             <td>:&nbsp;</td>
-                            <td>09.00 am</td>
+                            <td>09.00 Pagi</td>
                         </tr>
                         <tr>
                             <td>WeekEnd From Pulau Ayer &nbsp;</td>
                             <td>:&nbsp;</td>
-                            <td>14.00 pm & 02.00 pm</td>
+                            <td>14.00 Siang</td>
                         </tr>
 
                     </table><br>

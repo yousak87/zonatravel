@@ -230,12 +230,12 @@
                         <tr>
                             <td>Dari Marina Ancol &nbsp;</td>
                             <td>:&nbsp;</td>
-                            <td>08.00 am</td>
+                            <td>08.00 Pagi</td>
                         </tr>
                         <tr>
                             <td>Dari Pulau Macan &nbsp;</td>
                             <td>:&nbsp;</td>
-                            <td>14.00 pm</td>
+                            <td>14.00 Siang</td>
                         </tr>
 
 

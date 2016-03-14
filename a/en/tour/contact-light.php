@@ -189,8 +189,17 @@
                             <!--start flexslider-->
                             <div class="flexslider flex-slider " id="myslide">
                                 <ul class="slides">
-                                    <li><img alt="" src="img/single-project/slider/big/img1.jpg" /></li>
-                                    <li><img alt="" src="img/single-project/slider/big/img2.jpg" /></li>
+                                    <li><img alt="" src="img/testi/Cherry Christy.jpg" /></li>
+                                    <li><img alt="" src="img/testi/Denny Yao.jpg" /></li>
+                                    <li><img alt="" src="img/testi/Devika Anatasya.jpg" /></li>
+                                    <li><img alt="" src="img/testi/Dinanti Pandu.jpg" /></li>
+                                    <li><img alt="" src="img/testi/Emilly Young.jpg" /></li>
+                                    <li><img alt="" src="img/testi/Hendrik Siahan.jpg" /></li>
+                                    <li><img alt="" src="img/testi/Jilly Wang.jpg" /></li>
+                                    <li><img alt="" src="img/testi/Lisa Saidbun.jpg" /></li>
+                                    <li><img alt="" src="img/testi/Melissa Augustine .jpg" /></li>
+                                    <li><img alt="" src="img/testi/stevanie orlando.jpg" /></li>
+
 
                                 </ul>
                             </div>
