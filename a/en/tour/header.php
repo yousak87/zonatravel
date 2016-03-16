@@ -70,7 +70,7 @@ const HEADER = '<header id="navigationmenu" class="fade-down animate1 navigation
 
                         <li>
 
-                            <a href="#"><strong>CHARTERBOOT</strong></a>
+                            <a href="#"><strong>CHARTER BOATS</strong></a>
                             <ul style=" font-family: dream;font-size: 14px;">
                                 <li><b><a href="black.php">BLACK PEARL</a></b></li>
                                 <li><b><a href="ktidung.php">TIDUNG EXPRESS</a></b></li>
@@ -86,6 +86,7 @@ const HEADER = '<header id="navigationmenu" class="fade-down animate1 navigation
                                 <li><b><a href="michael.php">MICHAEL 1 - 5</a></b></li>
                                 <li><b><a href="little.php">LITTLE STAR</a></b></li>
                                 <li><b><a href="white.php">WHITE DREAM</a></b></li>
+                                <li><b><a href="lumba.php">LUMBA-LUMBA 1-2</a></b></li>
                             </ul>
 
                         </li>
@@ -203,7 +204,7 @@ const KAPAL='<ul>
                                     <a href="black.php"><img width="200" height="200" alt="" class="imgdestinationsingleproject" src="img/kapal/black.jpg"></a>
 
                                     <div class="titledaydestinationsingleproject">
-                                        <p class="titledestinationsingleproject"><a href="black.php" style="font-family: dream;font-weight: bold;">BLACK PEARL</a></p>
+                                        <p class="titledestinationsingleproject"><a href="black.php" style="font-size: 15px;font-family: dream;font-weight: bold;">BLACK PEARL</a></p>
 
                                     </div> 
 
@@ -221,7 +222,7 @@ const KAPAL='<ul>
                                     <a href="ktidung.php"><img width="200" height="200" alt="" class="imgdestinationsingleproject" src="img/kapal/tidung.jpg"></a>
 
                                     <div class="titledaydestinationsingleproject">
-                                        <p class="titledestinationsingleproject"><a href="ktidung.php" style="font-family: dream;font-weight: bold;">TIDUNG EXPRESS</a></p>
+                                        <p class="titledestinationsingleproject"><a href="ktidung.php" style="font-size: 15px;font-family: dream;font-weight: bold;">TIDUNG EXPRESS</a></p>
 
                                     </div> 
 
@@ -239,7 +240,7 @@ const KAPAL='<ul>
                                     <a href="predator.php"><img width="200" height="200" alt="" class="imgdestinationsingleproject" src="img/kapal/predator.jpg"></a>
 
                                     <div class="titledaydestinationsingleproject">
-                                        <p class="titledestinationsingleproject"><a href="predator.php" style="font-family: dream;font-weight: bold;">PREDATOR 1 - 4</a></p>
+                                        <p class="titledestinationsingleproject"><a href="predator.php" style="font-size: 15px;font-family: dream;font-weight: bold;">PREDATOR 1 - 4</a></p>
 
                                     </div> 
 
@@ -257,7 +258,7 @@ const KAPAL='<ul>
                                     <a href="tasyabi.php"><img width="200" height="200" alt="" class="imgdestinationsingleproject" src="img/kapal/tasyabi.jpg"></a>
 
                                     <div class="titledaydestinationsingleproject">
-                                        <p class="titledestinationsingleproject"><a href="tasyabi.php" style="font-family: dream;font-weight: bold;">TASYABI CRUISE/PRAMUKA2</a></p>
+                                        <p class="titledestinationsingleproject"><a href="tasyabi.php" style="font-size: 15px;font-family: dream;font-weight: bold;">TASYABI CRUISE/PRAMUKA 2</a></p>
 
                                     </div> 
 
@@ -275,7 +276,7 @@ const KAPAL='<ul>
                                     <a href="vincent.php"><img width="200" height="200" alt="" class="imgdestinationsingleproject" src="img/kapal/vincent.jpg"></a>
 
                                     <div class="titledaydestinationsingleproject">
-                                        <p class="titledestinationsingleproject"><a href="vincent.php" style="font-family: dream;font-weight: bold;">VINCENT 1 - 3</a></p>
+                                        <p class="titledestinationsingleproject"><a href="vincent.php" style="font-size: 15px;font-family: dream;font-weight: bold;">VINCENT 1 - 3</a></p>
 
                                     </div> 
 
@@ -293,7 +294,7 @@ const KAPAL='<ul>
                                     <a href="kpramuka.php"><img width="200" height="200" alt="" class="imgdestinationsingleproject" src="img/kapal/pramuka.jpg"></a>
 
                                     <div class="titledaydestinationsingleproject">
-                                        <p class="titledestinationsingleproject"><a href="kpramuka.php" style="font-family: dream;font-weight: bold;">PRAMUKA EXPRESS 1</a></p>
+                                        <p class="titledestinationsingleproject"><a href="kpramuka.php" style="font-size: 15px;font-family: dream;font-weight: bold;">PRAMUKA EXPRESS 1</a></p>
 
                                     </div> 
 
@@ -311,7 +312,7 @@ const KAPAL='<ul>
                                     <a href="zevolution.php"><img width="200" height="200" alt="" class="imgdestinationsingleproject" src="img/kapal/zevolution.jpg"></a>
 
                                     <div class="titledaydestinationsingleproject">
-                                        <p class="titledestinationsingleproject"><a href="zevolution.php" style="font-family: dream;font-weight: bold;">ZEVOLUTION 1 - 10</a></p>
+                                        <p class="titledestinationsingleproject"><a href="zevolution.php" style="font-size: 15px;font-family: dream;font-weight: bold;">ZEVOLUTION 1 - 10</a></p>
 
                                     </div> 
 
@@ -329,7 +330,7 @@ const KAPAL='<ul>
                                     <a href="concord.php"><img width="200" height="200" alt="" class="imgdestinationsingleproject" src="img/kapal/concord.jpg"></a>
 
                                     <div class="titledaydestinationsingleproject">
-                                        <p class="titledestinationsingleproject"><a href="concord.php" style="font-family: dream;font-weight: bold;">CONCORD 1 - 2</a></p>
+                                        <p class="titledestinationsingleproject"><a href="concord.php" style="font-size: 15px;font-family: dream;font-weight: bold;">CONCORD 1 - 2</a></p>
 
                                     </div> 
 
@@ -347,7 +348,7 @@ const KAPAL='<ul>
                                     <a href="marina.php"><img width="200" height="200" alt="" class="imgdestinationsingleproject" src="img/kapal/marina.jpg"></a>
 
                                     <div class="titledaydestinationsingleproject">
-                                        <p class="titledestinationsingleproject"><a href="marina.php" style="font-family: dream;font-weight: bold;">MARINA EXPRESS</a></p>
+                                        <p class="titledestinationsingleproject"><a href="marina.php" style="font-size: 15px;font-family: dream;font-weight: bold;">MARINA EXPRESS</a></p>
 
                                     </div> 
 
@@ -365,7 +366,7 @@ const KAPAL='<ul>
                                     <a href="miss.php"><img width="200" height="200" alt="" class="imgdestinationsingleproject" src="img/kapal/miss.jpg"></a>
 
                                     <div class="titledaydestinationsingleproject">
-                                        <p class="titledestinationsingleproject"><a href="miss.php" style="font-family: dream;font-weight: bold;">MISS LEE</a></p>
+                                        <p class="titledestinationsingleproject"><a href="miss.php" style="font-size: 15px;font-family: dream;font-weight: bold;">MISS LEE</a></p>
 
                                     </div> 
 
@@ -383,7 +384,7 @@ const KAPAL='<ul>
                                     <a href="stingray.php"><img width="200" height="200" alt="" class="imgdestinationsingleproject" src="img/kapal/stingray.jpg"></a>
 
                                     <div class="titledaydestinationsingleproject">
-                                        <p class="titledestinationsingleproject"><a href="stingray.php" style="font-family: dream;font-weight: bold;">STINGRAY 1 - 2</a></p>
+                                        <p class="titledestinationsingleproject"><a href="stingray.php" style="font-size: 15px;font-family: dream;font-weight: bold;">STINGRAY 1 - 2</a></p>
 
                                     </div> 
 
@@ -401,7 +402,7 @@ const KAPAL='<ul>
                                     <a href="michael.php"><img width="200" height="200" alt="" class="imgdestinationsingleproject" src="img/kapal/michael.jpg"></a>
 
                                     <div class="titledaydestinationsingleproject">
-                                        <p class="titledestinationsingleproject"><a href="michael.php" style="font-family: dream;font-weight: bold;">MICHAEL 1 - 5</a></p>
+                                        <p class="titledestinationsingleproject"><a href="michael.php" style="font-size: 15px;font-family: dream;font-weight: bold;">MICHAEL 1 - 5</a></p>
 
                                     </div> 
 
@@ -419,7 +420,7 @@ const KAPAL='<ul>
                                     <a href="little.php"><img width="200" height="200" alt="" class="imgdestinationsingleproject" src="img/kapal/star.jpg"></a>
 
                                     <div class="titledaydestinationsingleproject">
-                                        <p class="titledestinationsingleproject"><a href="little.php" style="font-family: dream;font-weight: bold;">LITTLE STAR</a></p>
+                                        <p class="titledestinationsingleproject"><a href="little.php" style="font-size: 15px;font-family: dream;font-weight: bold;">LITTLE STAR</a></p>
 
                                     </div> 
 
@@ -437,7 +438,25 @@ const KAPAL='<ul>
                                     <a href="white.php"><img width="200" height="200" alt="" class="imgdestinationsingleproject" src="img/kapal/white.jpg"></a>
 
                                     <div class="titledaydestinationsingleproject">
-                                        <p class="titledestinationsingleproject"><a href="white.php" style="font-family: dream;font-weight: bold;">WHITE DREAM</a></p>
+                                        <p class="titledestinationsingleproject"><a href="white.php" style="font-size: 15px;font-family: dream;font-weight: bold;">WHITE DREAM</a></p>
+
+                                    </div> 
+
+
+
+                                </div>
+                                <!--end first destination-->
+
+                            </li>
+                            <li>
+
+                                <!--start first destination-->
+                                <div class="destinationsingleproject single-carousel blue">
+
+                                    <a href="lumba.php"><img width="200" height="200" alt="" class="imgdestinationsingleproject" src="img/kapal/lumba.jpg"></a>
+
+                                    <div class="titledaydestinationsingleproject">
+                                        <p class="titledestinationsingleproject"><a href="lumba.php" style="font-size: 15px;font-family: dream;font-weight: bold;">LUMBA-LUMBA 1-2</a></p>
 
                                     </div> 
 

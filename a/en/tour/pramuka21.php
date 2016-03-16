@@ -312,15 +312,22 @@
                         <tbody align="center">
 
                             <tr >
-                                <td><li style="color: #FFE09C;"><font color="white">06.00-selesai 
+                                <td><li style="color: #FFE09C;"><font color="white">06.00-07.00 
                             </font></li></td>
-                        <td align="left"><p style="font-size: 15px;font-family: dream"><font color="white">Meeting point di Kali Adem (Muara Angke) dijemput untuk ke kapal</font></p>
+                        <td align="left" width="80%" <p style="font-size: 15px;font-family: dream"><font color="white">Meeting point di Kali Adem (Muara Angke) dijemput untuk ke kapal</font></p>
                         </td>
                         </tr>
                         <tr >
-                            <td><li style="color: #FFE09C;"><font color="white">09.30-selesai 
+                            <td><li style="color: #FFE09C;"><font color="white">07.00-09.30 
                             </font></li></td>
-                        <td align="left"><p style="font-size: 15px;font-family: dream"><font color="white">Sampai di Pulau Pramuka</font></p>
+                        <td align="left"><p style="font-size: 15px;font-family: dream"><font color="white">Kapal berangkat menuju Pulau Pramuka
+</font></p>
+                        </td>
+                        </tr>
+                        <tr >
+                            <td><li style="color: #FFE09C;"><font color="white">09.30 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            </font></li></td>
+                        <td align="left"><p style="font-size: 15px;font-family: dream"><font color="white">Tiba di Pulau Pramuka</font></p>
                         </td>
                         </tr>
                         <tr >
@@ -347,7 +354,7 @@
                         </td>
                         </tr>
                         <tr >
-                            <td>  <li style="color: #FFE09C;"><font color="white"> 20.00-22.00 
+                            <td>  <li style="color: #FFE09C;"><font color="white"> 19.30-22.00 
                             </font></li></td>
                         <td align="left"><p style="font-size: 15px;font-family: dream"><font color="white">BBQ time, acara bebas</font></p>
                         </td>
@@ -375,20 +382,26 @@
                         </td>
                         </tr>
                         <tr >
-                            <td> <li style="color: #FFE09C;"><font color="white">07.30-11.00  
+                            <td> <li style="color: #FFE09C;"><font color="white">07.30-10.00  
                             </font></li></td>
-                        <td align="left"> <p style="font-size: 15px;font-family: dream"><font color="white">Penangkaran penyu, Pulau Karya, penangkaran hiu, Nusa kramba , eksplor Pulau Pramuka, acara bebas</font></p>
+                        <td align="left"> <p style="font-size: 15px;font-family: dream"><font color="white">Penangkaran penyu, Pulau Karya, Nusa kramba (penangkaran hiu), eksplor Pulau Pramuka, acara bebas</font></p>
                         </td>
                         </tr>
                         <tr >
-                            <td> <li style="color: #FFE09C;"><font color="white">11.00-12.30  
+                            <td> <li style="color: #FFE09C;"><font color="white">10.00-11.30  
                             </font></li></td>
                         <td align="left"> <p style="font-size: 15px;font-family: dream"><font color="white">Mandi, beres-beres dan persiapan pulang
                                 </font></p>
                         </td>
                         </tr>
                         <tr >
-                            <td><li style="color: #FFE09C;"><font color="white">12.30-selesai  
+                            <td><li style="color: #FFE09C;"><font color="white">11.30-12.00  
+                            </font></li></td>
+                        <td align="left"> <p style="font-size: 15px;font-family: dream"><font color="white">Menuju dermaga Pulau Pramuka</font></p>
+                        </td>
+                        </tr>
+                        <tr >
+                            <td><li style="color: #FFE09C;"><font color="white">12.00-selesai  
                             </font></li></td>
                         <td align="left"> <p style="font-size: 15px;font-family: dream"><font color="white">Kembali ke Jakarta </font></p>
                         </td>

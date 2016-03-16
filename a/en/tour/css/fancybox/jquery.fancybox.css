@@ -26,7 +26,7 @@
 
 .fancybox-skin {
 	position: relative;
-	background: white;
+	background: #000;
 	color: #444;
 	text-shadow: none;
 	-webkit-border-radius: 4px;
@@ -271,4 +271,8 @@
 		background-image: url('fancybox_loading%402x.gif');
 		background-size: 24px 24px; /*The size of the normal image, half the size of the hi-res image*/
 	}
+}
+a:hover{
+	
+  text-decoration:none;
 }

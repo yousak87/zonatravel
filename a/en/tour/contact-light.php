@@ -102,8 +102,8 @@
 
                             OFFICE ONLINE (09:00 - 19:00)<br>
                             <br>
-                            OFFICE-1  : 021-99556018<br>
-                            OFFICE-2  : 021-5412314 
+                            OFFICE-1  : -<br>
+                            OFFICE-2  : - 
 
 
                         </h2>
@@ -159,7 +159,7 @@
                             <br>
                             <h1 style="color: #FFD800;font-family: BernardoModaSemibold">RESERVASI</h1>
                             <img src="vector-logo-bca-small.png">
-                            <img src="vector-logo-bni-small.png">
+                            
                             <img src="vector-logo-mandiri-small-old.png">
                         </div>	
                     </div> 
@@ -189,16 +189,16 @@
                             <!--start flexslider-->
                             <div class="flexslider flex-slider " id="myslide">
                                 <ul class="slides">
-                                    <li><img alt="" src="img/testi/Cherry Christy.jpg" /></li>
-                                    <li><img alt="" src="img/testi/Denny Yao.jpg" /></li>
-                                    <li><img alt="" src="img/testi/Devika Anatasya.jpg" /></li>
-                                    <li><img alt="" src="img/testi/Dinanti Pandu.jpg" /></li>
-                                    <li><img alt="" src="img/testi/Emilly Young.jpg" /></li>
-                                    <li><img alt="" src="img/testi/Hendrik Siahan.jpg" /></li>
-                                    <li><img alt="" src="img/testi/Jilly Wang.jpg" /></li>
-                                    <li><img alt="" src="img/testi/Lisa Saidbun.jpg" /></li>
-                                    <li><img alt="" src="img/testi/Melissa Augustine .jpg" /></li>
-                                    <li><img alt="" src="img/testi/stevanie orlando.jpg" /></li>
+                                    <li><img width="500" height="500" alt="" src="img/testi/Cherry Christy.jpg" /></li>
+                                    <li><img width="500" height="500" alt="" src="img/testi/Denny Yao.jpg" /></li>
+                                    <li><img width="500" height="500" alt="" src="img/testi/Devika Anatasya.jpg" /></li>
+                                    <li><img width="500" height="500" alt="" src="img/testi/Dinanti Pandu.jpg" /></li>
+                                    <li><img width="500" height="500"alt="" src="img/testi/Emilly Young.jpg" /></li>
+                                    <li><img width="500" height="500" alt="" src="img/testi/Hendrik Siahan.jpg" /></li>
+                                    <li><img width="500" height="500" alt="" src="img/testi/Jilly Wang.jpg" /></li>
+                                    <li><img width="500" height="500" alt="" src="img/testi/Lisa Saidbun.jpg" /></li>
+                                    <li><img width="500" height="500" alt="" src="img/testi/Melissa Augustine .jpg" /></li>
+                                    <li><img width="500" height="500" alt="" src="img/testi/stevanie orlando.jpg" /></li>
 
 
                                 </ul>
@@ -224,7 +224,7 @@
                             <span style="font-family: dream;">
                                 Account BCA      	: 627.509.1981 ( A/N. Edward Hakim )<br>
                                 Account Mandiri	: 118.00.0774702.4 ( A/N. Edward Hakim )<br>
-                                Account BRI     	: 2045.01.000065565 ( A/N. Edward Hakim )<br>
+                                
 
                             </span><br>
 

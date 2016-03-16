@@ -92,7 +92,7 @@
         </div>
         <!--end right search-->
         <section class="header-page fade-up">
-            <div class="bounce-in animate4"><h2 class="header-pagetitle" style="font-family: BernardoModaSemibold;">CHARTER BOAT</h2></div>
+            <div class="bounce-in animate4"><h2 class="header-pagetitle" style="font-family: BernardoModaSemibold;">CHARTER BOATS</h2></div>
         </section>
 
 
@@ -134,44 +134,44 @@
 
                 <div class="grid_6 green fade-right animate1" >
 
-                    <h1 class="titlesinglepost" style="font-family: BernardoModaSemibold; color: #ffee00;margin: 0px">TIDUNG EXPRESS</h1>
+                    <h1 class="titlesinglepost" style="font-family: dream; color: #ffee00;margin: 0px">TIDUNG EXPRESS</h1>
                     <h1>&nbsp;</h1>
 
                     <table>
                         <tr > 
                             <td><h1 style="font-size: 24px;color: white;font-family: dream;">Ayer / Bidadari &nbsp;</h1></td>
                             <td><h1 style="font-size: 24px;color: white;font-family: dream;">:</h1></td>
-                            <td><h1 style="font-size: 24px;color: white;font-family: dream;">Rp.7.000.000</h1></td>
+                            <td><h1 style="font-size: 24px;color: white;font-family: dream;">Rp.&nbsp;7.000.000</h1></td>
                         </tr>
                         <tr>
                             <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">Untung Jawa &nbsp;</h1></td>
                             <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">:</h1></td>
-                            <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">Rp.14.000.000</h1></td>
+                            <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">Rp.&nbsp;14.000.000</h1></td>
                         </tr>
                         <tr>
                             <td><h1 style="font-size: 24px;color: white;font-family: dream;">Pari &nbsp;</h1></td>
                             <td><h1 style="font-size: 24px;color: white;font-family: dream;">:</h1></td>
-                            <td><h1 style="font-size: 24px;color: white;font-family: dream;">Rp.20.000.000</h1></td>
+                            <td><h1 style="font-size: 24px;color: white;font-family: dream;">Rp.&nbsp;20.000.000</h1></td>
                         </tr>
                         <tr>
                             <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">Tidung / Pramuka &nbsp;</h1></td>
                             <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">:</h1></td>
-                            <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">Rp.21.000.000</h1></td>
+                            <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">Rp.&nbsp;21.000.000</h1></td>
                         </tr>
                         <tr>
                             <td><h1 style="font-size: 24px;color: white;font-family: dream;">Harapan / Kelapa &nbsp;</h1></td>
                             <td><h1 style="font-size: 24px;color: white;font-family: dream;">:</h1></td>
-                            <td><h1 style="font-size: 24px;color: white;font-family: dream;">Rp.22.500.000</h1></td>
+                            <td><h1 style="font-size: 24px;color: white;font-family: dream;">Rp.&nbsp;22.500.000</h1></td>
                         </tr>
                         <tr>
                             <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">Putri / Sepa</h1></td>
                             <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">:</h1></td>
-                            <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">Rp.24.300.000</h1></td>
+                            <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">Rp.&nbsp;24.000.000</h1></td>
                         </tr>
                         <tr>
                             <td><h1 style="font-size: 24px;color: white;font-family: dream;">Pantara</h1></td>
                             <td><h1 style="font-size: 24px;color: white;font-family: dream;">:</h1></td>
-                            <td><h1 style="font-size: 24px;color: white;font-family: dream;">Rp.29.000.000</h1></td>
+                            <td><h1 style="font-size: 24px;color: white;font-family: dream;">Rp.&nbsp;29.000.000</h1></td>
                         </tr>
                         
                     </table>
@@ -183,7 +183,7 @@
 
 
 
-                    <h1 class="titlesinglepost" style="font-size: 24px;font-family: dream;color:white;margin: 0px">Spesifikasi : &nbsp;</b> 85 Penumpang,5x250HP Suzuki - AC, Toilet, Home Theater
+                    <h1 class="titlesinglepost" style="font-size: 24px;font-family: dream;color:white;margin: 0px">Spesifikasi : &nbsp;</b> 85 Penumpang,5x200HP Suzuki - AC, Toilet, Home Theater
                     </h1>
 
                 </div>

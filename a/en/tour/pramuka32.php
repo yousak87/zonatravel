@@ -311,15 +311,22 @@
                         <tbody align="center">
 
                             <tr >
-                                <td><li style="color: #FFE09C;"><font color="white">06.00-selesai 
+                                <td><li style="color: #FFE09C;"><font color="white">06.00 
                             </font></li></td>
                         <td align="left"><p style="font-size: 15px;font-family: dream"><font color="white">Meeting Point di Kali Adem (Muara Angke), di jemput untuk ke kapal</font></p>
                         </td>
                         </tr>
                         <tr >
-                            <td><li style="color: #FFE09C;"><font color="white">09.30-selesai 
+                            <td><li style="color: #FFE09C;"><font color="white">07.00-09.30
                             </font></li></td>
-                        <td align="left"><p style="font-size: 15px;font-family: dream"><font color="white">Sampai di Pulau Pramuka
+                        <td align="left" width="80%" ><p style="font-size: 15px;font-family: dream"><font color="white">Kapal berangkat menuju Pulau Pramuka
+                                </font></p>
+                        </td>
+                        </tr>
+                        <tr >
+                            <td><li style="color: #FFE09C;"><font color="white">09.30
+                            </font></li></td>
+                        <td align="left"><p style="font-size: 15px;font-family: dream"><font color="white">Tiba di Pulau Pramuka 
                                 </font></p>
                         </td>
                         </tr>
@@ -337,7 +344,7 @@
                         <tr >
                             <td> <li style="color: #FFE09C;"><font color="white"> 16.00-18.30
                             </font></li></td>
-                        <td align="left"><p style="font-size: 15px;font-family: dream"><font color="white">Eksplor Pulau Pramuka, Sambil bermain Watersport Banana Boat, kemudian hunting sunset</font></p>
+                        <td align="left"><p style="font-size: 15px;font-family: dream"><font color="white">Eksplor Pulau Pramuka, kemudian hunting sunset</font></p>
                         </td>
                         </tr>
                         <tr >
@@ -380,7 +387,7 @@
                         <tr >
                             <td> <li style="color: #FFE09C;"><font color="white">07.00-13.00
                             </font></li></td>
-                        <td align="left"> <p style="font-size: 15px;font-family: dream"><font color="white">Opsi rute snorkeling pertama yakni Snorkeling dan wisata ke Pulau Semak Daun, Ayer, Soft Coral, Semak daun, Nusa kramba / penangkaran hiu dan bandeng. </font></p>
+                        <td align="left"> <p style="font-size: 15px;font-family: dream"><font color="white">Persiapan Snorkeling, perjalanan dengan kapal tradisional menuju Semak daun untuk briefing acara snorkeling dan wisata ke Pulau Semak Daun, Ayer, Soft Coral, Semak daun, Nusa kramba / penangkaran hiu dan bandeng. </font></p>
                         </td>
                         </tr>
                         <tr >

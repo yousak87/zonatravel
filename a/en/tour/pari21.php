@@ -284,7 +284,7 @@
                 </div>
                 <div class="grid_8 blue fade-right animate1">
 
-                    <table id="wp-calendar" style="font-family: dream;" border="1">
+                    <table id="wp-calendar" style="font-family: dream;">
                         <div class="valueprice" align="center">
                             <p><span class="currency" style="font-family: cen;">RUNDOWN </span></p>
 
@@ -328,7 +328,7 @@
                         </tr>
                         <tr >
                             <td> <li style="color: #FFE09C;"><font color="white">13.00-17.00 </font></li></td>
-                        <td align="left"> <p style="font-size: 15px;font-family: dream"><font color="white">Persiapan Snorkeling, perjalanan dengan kapal tradisional menuju
+                        <td align="left" width="80%" > <p style="font-size: 15px;font-family: dream"><font color="white">Persiapan Snorkeling, perjalanan dengan kapal tradisional menuju
                                 spot Bintang Rama untuk acara snorkeling dan menikmati
                                 keindahan terumbu karang serta foto dibawah laut, dilanjutkan dengan
                                 jelajah ke pulau Tikus dan APL Pulau Pari untuk snorkeling.</font></p> 

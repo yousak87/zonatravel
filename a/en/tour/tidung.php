@@ -336,7 +336,7 @@
                         <tr >
                             <td>  <li style="color: #FFE09C;"><font color="white">10.00-12.45
                             </font></li></td>
-                        <td align="left"><p style="font-size: 15px;font-family: dream"><font color="white">  Chek in Homestay, Menikmati Welcome Drink, Acara bebas  atau explore lingkungan Pulau Pari, Sholat (bagi yang menjalankanya)
+                        <td align="left" width="80%" ><p style="font-size: 15px;font-family: dream"><font color="white">  Chek in Homestay, Menikmati Welcome Drink, Acara bebas  atau explore lingkungan Pulau Pari, Sholat (bagi yang menjalankanya)
                                 istirahat, Dilanjutkan dengan menikmati hidangan Makan siang yang telah di sediakan. </font></p>
                         </td>
                         </tr>

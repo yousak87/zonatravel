@@ -4,7 +4,9 @@
 <!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
 <!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
 
-    <?= HEADER ?>
+       <?php
+    include './header.php';
+    ?>
     <head>
 
         <meta charset="utf-8">  
@@ -51,168 +53,7 @@
 
         <!--end left menu open-->
         <!--start header-->
-        <header id="navigationmenu" class="fade-down animate1 navigationmenudark">
-
-
-            <!--start container-->
-            <div class="container" style="font-family: BernardoModaSemibold; font-size: 10px;padding: 0px;float: right;">
-
-                <!--start navigation-->
-                <div class="grid_12 gridnavigation">
-
-                    <img style="margin-left:-50px ;" class="logo fade-up animate4" src="../logo.png">
-                    <!--start navigation-->
-                    <ul class="sf-menu" id="nav">
-
-                        <li>
-
-                            <a href="../index.php"><strong>HOME</strong></a>        
-                        </li>
-
-                        <li>
-
-                            <a href="#"><strong>DESTINATION</strong></a>
-                            <ul style="font-family: dream;font-size: 14px;">
-                                <li>
-                                    <a href="#"><b>THOUSAND ISLAND</b></a>
-                                    <ul>
-                                        <li><a href="#"><b>PULAU RESORT</b></a>
-                                            <ul>
-                                                <li><b><a href="ayer.php">PULAU AYER</a></b></li>
-                                                <li><b><a href="bidadari.php">PULAU BIDADARI</a></b></li>
-                                                <li><b><a href="kotok.php">PULAU KOTOK</a></b></li>
-
-                                                <li><b><a href="macan.php">PULAU MACAN</a></b></li>
-                                                <li><b><a href="pantara.php">PULAU PANTARA</a></b></li>
-                                                <li><b><a href="pelangi.php">PULAU PELANGI</a></b></li>
-                                                <li><b><a href="putri.php">PULAU PUTRI</a></b></li>
-                                                <li><b><a href="sepa.php">PULAU SEPA</a></b></li>
-                                            </ul></li>
-                                        <li>
-                                            <a href="#"><b>PULAU PENDUDUK</b></a>
-                                            <ul>
-                                                <li><b><a href="harapan.php">PULAU HARAPAN</a></b></li>
-                                                <li><b><a href="pari.php">PULAU PARI</a></b></li>
-                                                <li><b><a href="tidung.php">PULAU TIDUNG</a></b></li>
-                                                <li><b><a href="pramuka.php">PULAU PRAMUKA</a></b></li>
-                                                <li><b><a href="payung.php">PULAU PAYUNG</a></b></li>
-
-                                            </ul>
-                                        </li>
-                                    </ul>
-
-                                </li>
-                                <li>
-                                    <a class="fancybox"  rel="gallery1" href="coming.jpg"><b>LOCAL DESTINATION INDONESIA</b></a>
-
-
-
-                                </li>
-
-                                <li>
-                                    <a class="fancybox"  rel="gallery1" href="coming.jpg"><b>INTERNATIONAL DESTINATION</b></a>
-
-
-
-                                </li>
-
-                            </ul>
-                        </li>
-
-                        <li>
-
-                            <a href="#"><strong>CHARTERBOOT</strong></a>
-                            <ul style=" font-family: dream;font-size: 14px;">
-                                <li><b><a href="boat.php">BLACK PEARL</a></b></li>
-                                <li><b><a href="boat.php">TIDUNG EXPRESS</a></b></li>
-                                <li><b><a href="boat.php">PREDATOR 1 - 4</a></b></li>
-                                <li><b><a href="boat.php">TASYABI CRUISE / PRAMUKA EXPRESS 2</a></b></li>
-                                <li><b><a href="boat.php">VINCENT 1 - 3</a></b></li>
-                                <li><b><a href="boat.php">PRAMUKA EXPRESS 1</a></b></li>
-                                <li><b><a href="boat.php">ZEVOLUTION 1 - 10</a></b></li>
-                                <li><b><a href="boat.php">CONCORD 1 - 2</a></b></li>
-                                <li><b><a href="boat.php">MARINA EXPRESS</a></b></li>
-                                <li><b><a href="boat.php">MISS LEE</a></b></li>
-                                <li><b><a href="boat.php">STINGRAY 1 - 2</a></b></li>
-                                <li><b><a href="boat.php">MICHAEL 1 - 5</a></b></li>
-                                <li><b><a href="boat.php">LITTLE STAR</a></b></li>
-                                <li><b><a href="boat.php">WHITE DREAM</a></b></li>
-                            </ul>
-
-                        </li>
-
-                        <li>
-
-                            <a href="about-us.php"><strong>COMPARISON</strong></a>
-
-                        </li>
-                        <li>
-
-                            <a href="team.php"><strong>TESTIMONIAL</strong></a>
-                        </li>
-                        <li>
-
-                            <a href="#"><strong>FAQ</strong></a>
-                            <ul style="font-family: dream;font-size: 14px;">
-                                <li>
-                                    <a href="faq.php"><b>THOUSAND ISLAND</b></a>
-
-
-
-                                </li>
-                                <li>
-                                    <a class="fancybox"  rel="gallery1" href="coming.jpg"><b>LOCAL DESTINATION INDONESIA</b></a>
-
-
-
-                                </li>
-
-                                <li>
-                                    <a class="fancybox"  rel="gallery1" href="coming.jpg"><b>INTERNATIONAL DESTINATION</b></a>
-
-
-
-                                </li>
-
-                            </ul>
-                        </li>
-                        <li>
-
-                            <a href="contact-light.php"><strong>CONTACTS</strong></a>
-                        </li>
-                        <li>
-
-                            <a href="#"><strong>BAHASA</strong></a>
-                            <ul style="font-family: dream;font-size: 14px;">
-                                <li>
-                                    <a href="#"><b>INDONESIA</b></a>
-
-
-
-                                </li>
-                                <li>
-                                    <a class="fancybox"  rel="gallery1" href="coming.jpg"><b>ENGLISH</b></a>
-
-
-
-                                </li>
-
-                            </ul>
-                        </li>
-
-
-                    </ul>   
-                    <!--end navigationmenu-->	     
-
-                </div>
-                <!--end navigation-->
-
-            </div>
-            <!--end container-->
-
-
-
-        </header>
+        <?=HEADER?>
         <!--end header-->
 
         <!--start right search-->
@@ -469,18 +310,30 @@
                         <tbody align="center">
 
                             <tr >
-                                <td><li style="color: #FFE09C;"><font color="white">07.30-selesai 
+                                <td><li style="color: #FFE09C;"><font color="white">07.30-08.00 
                             </font></li></td>
                         <td align="left"><p style="font-size: 15px;font-family: dream"><font color="white">Meeting Point di Marina Ancol, peserta di jemput untuk ke kapal</font></p>
                         </td>
                         </tr>
-                        <tr >
-                            <td><li style="color: #FFE09C;"><font color="white">10.00-selesai 
+                         <tr >
+                                <td><li style="color: #FFE09C;"><font color="white">08.00-08.15 
                             </font></li></td>
-                        <td align="left"><p style="font-size: 15px;font-family: dream"><font color="white">Sampai di Pulau Pramuka
-                                </font></p>
+                        <td align="left"><p style="font-size: 15px;font-family: dream"><font color="white">Para peserta akan di jemput dan di antar menuju kapal speedboat</font></p>
                         </td>
                         </tr>
+                        <tr >
+                                <td><li style="color: #FFE09C;"><font color="white">08.15-08.30 
+                            </font></li></td>
+                        <td align="left"><p style="font-size: 15px;font-family: dream"><font color="white">Persiapan untuk perjalanan laut</font></p>
+                        </td>
+                        </tr>
+                        <tr >
+                                <td><li style="color: #FFE09C;"><font color="white">09.45-10.00 
+                            </font></li></td>
+                        <td align="left"><p style="font-size: 15px;font-family: dream"><font color="white">Tiba di dermaga Pulau Pramuka </font></p>
+                        </td>
+                        </tr>
+                        
                         <tr >
                             <td><li style="color: #FFE09C;"><font color="white">10.00-13.00 
                             </font></li></td>
@@ -495,7 +348,8 @@
                         <tr >
                             <td> <li style="color: #FFE09C;"><font color="white"> 16.00-18.30
                             </font></li></td>
-                        <td align="left"><p style="font-size: 15px;font-family: dream"><font color="white">Eksplor Pulau Pramuka, Sambil bermain Watersport Banana Boat, kemudian hunting sunset</font></p>
+                        <td align="left"><p style="font-size: 15px;font-family: dream"><font color="white">Eksplor Pulau Pramuka, kemudian hunting sunset
+</font></p>
                         </td>
                         </tr>
                         <tr >
@@ -538,7 +392,7 @@
                         <tr >
                             <td> <li style="color: #FFE09C;"><font color="white">07.00-13.00
                             </font></li></td>
-                        <td align="left"> <p style="font-size: 15px;font-family: dream"><font color="white">Opsi rute snorkeling pertama yakni Snorkeling dan wisata ke Pulau Semak Daun, Ayer, Soft Coral, Semak daun, Nusa kramba / penangkaran hiu dan bandeng. </font></p>
+                        <td align="left" width="80%" > <p style="font-size: 15px;font-family: dream"><font color="white">Persiapan Snorkeling, perjalanan dengan kapal tradisional menuju Semak daun untuk briefing acara snorkeling dan wisata ke Pulau Semak Daun, Ayer, Soft Coral, Semak daun, Nusa</font></p>
                         </td>
                         </tr>
                         <tr >
@@ -608,7 +462,7 @@
                         <td align="left"> <p style="font-size: 15px;font-family: dream"><font color="white">Mandi dan Packing untuk persiapan pulang ke Jakarta</font></p>
                         </td></tr>
                         <tr >
-                            <td> <li style="color: #FFE09C;"><font color="white">15.00-16.00
+                            <td> <li style="color: #FFE09C;"><font color="white">14.30-16.00
                             </font></li></td>
                         <td align="left"> <p style="font-size: 15px;font-family: dream"><font color="white">Perjalanan menuju Marina Ancol dan acara selesai</font></p>
                         </td></tr>    

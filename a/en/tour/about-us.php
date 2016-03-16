@@ -108,18 +108,18 @@
 
                 <div class="grid_6 blue fade-left animate1" style="text-align: justify;text-justify: inter-word;"><p style="font-family: dream;">
 
-                        <font size="14">Zona Travel</font> kami dirikan untuk memberi kemudahan kepada Anda dalam mencari informasi dan merencanakan sebuah liburan yang Anda inginkan. Yang dimana kami telah di percayakan dalam bekerjasama pemasaran resort – resort di Kepulauan Seribu, antara lain : Pulau Ayer Resort, Pulau Bidadari Resort, Pulau Macan Resort, Pulau Pantara Resort, Pulau Putri Resort, Pulau Sepa Resort, Pulau Pelangi Resort, Pulau Kotok Resort. Serta juga Pulau Penduduk, yakni Pulau Tidung, Pulau Pramuka, Pulau Harapan, Pulau Pari dan Pulau Payung.
+                        <b>Zona Travel</b> kami dirikan untuk memberi kemudahan kepada Anda dalam mencari informasi dan merencanakan sebuah liburan yang Anda inginkan. Yang dimana kami telah di percayakan dalam bekerjasama pemasaran resort – resort di Kepulauan Seribu, antara lain : Pulau Ayer Resort, Pulau Bidadari Resort, Pulau Macan Resort, Pulau Pantara Resort, Pulau Putri Resort, Pulau Sepa Resort, Pulau Pelangi Resort, Pulau Kotok Resort. Serta juga Pulau Penduduk, yakni Pulau Tidung, Pulau Pramuka, Pulau Harapan, Pulau Pari dan Pulau Payung.
                     </p><br>
                     <p  style="font-family: dream;">
                         Berbagai pengalaman membuat kami mengerti bagaimana cara menikmati arti sebuah liburan yang menakjubkan, dan itulah yang kami berikan untuk Anda. Dedikasi kami adalah untuk kesenangan Anda, Sehingga kami memberikan kemudahan kepada Anda dalam mencari informasi dan merencanakan sebuah liburan yang Anda inginkan dengan sempurna.
-                    </p><br><p  style="font-family: dream;">
-                        Bad Comment atau komentar buruk dari pelanggan travel wisata lain dengan harga yang sangat jauh dari pasaran yang sering kami temukan, maka Anda bersiaplah untuk :</p><br>
+                    </p><br>
 
                     <br><br>
                 </div>
                 <div class="grid_6 blue fade-right animate1">
 
-
+<p  style="font-family: dream;">
+                        Bad Comment atau komentar buruk dari pelanggan travel wisata lain dengan harga yang sangat jauh dari pasaran yang sering kami temukan, maka Anda bersiaplah untuk :</p><br>
                     <!--start accordion-->
                     <div class="accordion accordionlight">
 

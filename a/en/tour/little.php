@@ -92,7 +92,7 @@
         </div>
         <!--end right search-->
         <section class="header-page fade-up">
-            <div class="bounce-in animate4"><h2 class="header-pagetitle" style="font-family: BernardoModaSemibold;">CHARTER BOAT</h2></div>
+            <div class="bounce-in animate4"><h2 class="header-pagetitle" style="font-family: BernardoModaSemibold;">CHARTER BOATS</h2></div>
         </section>
 
 
@@ -141,42 +141,42 @@
                         <tr > 
                             <td><h1 style="font-size: 24px;color: white;font-family: dream;">Ayer / Bidadari &nbsp;</h1></td>
                             <td><h1 style="font-size: 24px;color: white;font-family: dream;">:</h1></td>
-                            <td><h1 style="font-size: 24px;color: white;font-family: dream;">Rp.1.470.000</h1></td>
+                            <td><h1 style="font-size: 24px;color: white;font-family: dream;">Rp.&nbsp;1.470.000</h1></td>
                         </tr>
                         <tr>
                             <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">Untung Jawa &nbsp;</h1></td>
                             <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">:</h1></td>
-                            <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">Rp.2.100.000</h1></td>
+                            <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">Rp.&nbsp;2.100.000</h1></td>
                         </tr>
                         <tr>
                             <td><h1 style="font-size: 24px;color: white;font-family: dream;">Pari &nbsp;</h1></td>
                             <td><h1 style="font-size: 24px;color: white;font-family: dream;">:</h1></td>
-                            <td><h1 style="font-size: 24px;color: white;font-family: dream;">Rp.2.625.000</h1></td>
+                            <td><h1 style="font-size: 24px;color: white;font-family: dream;">Rp.&nbsp;2.625.000</h1></td>
                         </tr>
                         <tr>
                             <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">Tidung / Pramuka &nbsp;</h1></td>
                             <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">:</h1></td>
-                            <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">Rp.3.150.000</h1></td>
+                            <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">Rp.&nbsp;3.150.000</h1></td>
                         </tr>
                         <tr>
                             <td><h1 style="font-size: 24px;color: white;font-family: dream;">Harapan / Kelapa &nbsp;</h1></td>
                             <td><h1 style="font-size: 24px;color: white;font-family: dream;">:</h1></td>
-                            <td><h1 style="font-size: 24px;color: white;font-family: dream;">Rp.3.500.000</h1></td>
+                            <td><h1 style="font-size: 24px;color: white;font-family: dream;">Rp.&nbsp;3.500.000</h1></td>
                         </tr>
                         <tr>
                             <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">Putri / Sepa</h1></td>
                             <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">:</h1></td>
-                            <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">Rp.3.675.000</h1></td>
+                            <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">Rp.&nbsp;3.675.000</h1></td>
                         </tr>
                         <tr>
                             <td><h1 style="font-size: 24px;color: white;font-family: dream;">Pantara</h1></td>
                             <td><h1 style="font-size: 24px;color: white;font-family: dream;">:</h1></td>
-                            <td><h1 style="font-size: 24px;color: white;font-family: dream;">Rp.4.200.000</h1></td>
+                            <td><h1 style="font-size: 24px;color: white;font-family: dream;">Rp.&nbsp;4.200.000</h1></td>
                         </tr>
                         <tr>
                             <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">Paket Mancing</h1></td>
                             <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">:</h1></td>
-                            <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">Rp.5.250.000</h1></td>
+                            <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">Rp.&nbsp;5.250.000</h1></td>
                         </tr>
                     </table>
 

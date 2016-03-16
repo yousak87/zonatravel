@@ -349,14 +349,14 @@
                         <tr >
                             <td>  <li style="color: #FFE09C;"><font color="white">11.00-12.45
                             </font></li></td>
-                        <td align="left"><p style="font-size: 15px;font-family: dream"><font color="white">  Chek in Homestay, Menikmati Welcome Drink, Acara bebas  atau explore lingkungan Pulau Harapan, Sholat (bagi yang menjalankanya)
+                        <td align="left" width="80%" ><p style="font-size: 15px;font-family: dream"><font color="white">  Chek in Homestay, Menikmati Welcome Drink, Acara bebas  atau explore lingkungan Pulau Harapan, Sholat (bagi yang menjalankanya)
                                 istirahat, Dilanjutkan dengan menikmati hidangan Makan siang yang telah di sediakan. </font></p>
                         </td>
                         </tr>
                         <tr >
                             <td>  <li style="color: #FFE09C;"><font color="white"> 12.45-18.00 
                             </font></li></td>
-                        <td align="left"><p style="font-size: 15px;font-family: dream"><font color="white">   Persiapan Snorkeling, perjalanan dengan kapal tradisional menuju Pulau Bulat untuk briefing acara snorkeling, selanjutnya berangkat untuk menikmati keindahan terumbu karang serta foto dibawah laut di Spot Pulau Kayu angin genteng dan PulauMacan, dilanjutkan jelajah pulau ke Pulau Dolphin dan menikmati sunset di Pulau perak. </font></p>
+                        <td align="left" width="80%" ><p style="font-size: 15px;font-family: dream"><font color="white">   Persiapan Snorkeling, perjalanan dengan kapal tradisional menuju Pulau Bulat untuk briefing acara snorkeling, selanjutnya berangkat untuk menikmati keindahan terumbu karang serta foto dibawah laut di Spot Pulau Kayu angin genteng dan PulauMacan, dilanjutkan jelajah pulau ke Pulau Dolphin dan menikmati sunset di Pulau perak. </font></p>
                         </td>
                         </tr>
                         <tr >

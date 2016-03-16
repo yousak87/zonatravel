@@ -342,20 +342,20 @@
                         <tr >
                             <td>  <li style="color: #FFE09C;"><font color="white">10.00-12.45
                             </font></li></td>
-                        <td align="left"><p style="font-size: 15px;font-family: dream"><font color="white">  Chek in Homestay, Menikmati Welcome Drink, Acara bebas  atau explore lingkungan Pulau Pramuka, Sholat (bagi yang menjalankanya)
+                        <td align="left" width="80%" ><p style="font-size: 15px;font-family: dream"><font color="white">  Chek in Homestay, Menikmati Welcome Drink, Acara bebas  atau explore lingkungan Pulau Pramuka, Sholat (bagi yang menjalankanya)
                                 istirahat, Dilanjutkan dengan menikmati hidangan Makan siang yang telah di sediakan. </font></p>
                         </td>
                         </tr>
                         <tr >
-                            <td>  <li style="color: #FFE09C;"><font color="white"> 12.45-17.00 
+                            <td>  <li style="color: #FFE09C;"><font color="white"> 12.45-17.30 
                             </font></li></td>
                         <td align="left"><p style="font-size: 15px;font-family: dream"><font color="white"> Persiapan Snorkeling, perjalanan dengan kapal tradisional menuju Semak daun untuk briefing acara snorkeling, selanjutnya berangkat untuk menikmati keindahan terumbu karang serta foto dibawah laut di Pulau Air dan Soft Coral, dilanjutkan ke Warug apung dan Nusa keramba (Penangkaran Hiu) dan menikmati sunset.</font></p>
                         </td>
                         </tr>
                         <tr >
-                            <td>  <li style="color: #FFE09C;"><font color="white">17.00-18.15 
+                            <td>  <li style="color: #FFE09C;"><font color="white">17.30-18.15 
                             </font></li></td>
-                        <td align="left"><p style="font-size: 15px;font-family: dream"><font color="white">Kembali ke Pulau pramuka dan bermain Watersport Banana Boat</font></p>
+                        <td align="left"><p style="font-size: 15px;font-family: dream"><font color="white">Kembali ke Pulau pramuka</font></p>
                         </td>
                         </tr>
                         <tr >
@@ -365,7 +365,7 @@
                         </td>
                         </tr>
                         <tr >
-                            <td>  <li style="color: #FFE09C;"><font color="white"> 20.15-23.15
+                            <td>  <li style="color: #FFE09C;"><font color="white"> 20.00-23.15
                             </font></li></td>
                         <td align="left"><p style="font-size: 15px;font-family: dream"><font color="white"> Acara Barberque Ikan, Cumi, Kedong-kedong (Seafood) di Pantai dan Acara Bebas</font></p>
                         </td>
@@ -397,20 +397,20 @@
                         </td>
                         </tr>
                         <tr >
-                            <td> <li style="color: #FFE09C;"><font color="white">11.30-13.00  
+                            <td> <li style="color: #FFE09C;"><font color="white">11.00-13.00  
                             </font></li></td>
                         <td align="left"> <p style="font-size: 15px;font-family: dream"><font color="white">Menikmati hidangan Makan siang yang telah di sediakan  dan Istirahat
                                 </font></p>
                         </td>
                         </tr>
                         <tr >
-                            <td><li style="color: #FFE09C;"><font color="white">13.30-14.30  
+                            <td><li style="color: #FFE09C;"><font color="white">13.00-14.30  
                             </font></li></td>
                         <td align="left"> <p style="font-size: 15px;font-family: dream"><font color="white">Mandi dan Packing untuk persiapan pulang ke Jakarta </font></p>
                         </td>
                         </tr>
                         <tr >
-                            <td><li style="color: #FFE09C;"><font color="white">15.00-16.00  
+                            <td><li style="color: #FFE09C;"><font color="white">14.30-16.00  
                             </font></li></td>
                         <td align="left"> <p style="font-size: 15px;font-family: dream"><font color="white">Perjalanan menuju Marina Ancol Dan Acara Selesai</font></p>
                         </td>
