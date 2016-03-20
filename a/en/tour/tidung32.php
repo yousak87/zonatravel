@@ -109,7 +109,7 @@
                     <!--start title and price-->
                     <div class="titlesingleproject">
 
-                        <h4 style="font-family: cen;">PAKET SPEEDBOAT PULAU TIDUNG 3 HARI 2 MALAM</h4>
+                        <h4 style="font-family: cen;">PAKET PULAU TIDUNG 3 HARI 2 MALAM</h4>
                     </div>
                     <!--end title and price-->
 
@@ -164,7 +164,7 @@
                 </div>
                 <div class="grid_6 green fade-right animate1">
 
-                    <iframe width="550" height="370" src="https://www.youtube.com/embed/WE7WsnuLvPs" frameborder="0" allowfullscreen></iframe>
+                    <iframe width="550" height="370" src="https://www.youtube.com/embed/UFb_VyJeSps" frameborder="0" allowfullscreen></iframe>
                 </div>
                 <!--end info project-->
                 <div class="grid_4 green fade-right animate1">
@@ -172,7 +172,7 @@
 
                         <table id="wp-calendar" style="font-family: dream">
                             <div class="valueprice">
-                                <p><span class="currency" style="font-family: cen;">PAKET SPEEDBOAT 3 HARI 1 MALAM</span></p>
+                                <p><span class="currency" style="font-family: cen;">PAKET 3 HARI 2 MALAM</span></p>
 
                             </div>
 
@@ -208,7 +208,7 @@
                             </tr>
                             <tr >
                                 <td><li style="color: #FFE09C;"><font color="white">8 orang</li></font></td>
-                            <td><font color="white">Rp. 520.00.000/orang</li></font></td>
+                            <td><font color="white">Rp. 520.000/orang</li></font></td>
                             </tr>
                             <tr >
                                 <td><li style="color: #FFE09C;"><font color="white">7 orang</li></font></td>
@@ -363,7 +363,7 @@
                         </td>
                         </tr>
                         <tr >
-                            <td> <li style="color: #FFE09C;"><font color="white">09.00-17.00
+                            <td style="vertical-align: top;"> <li style="color: #FFE09C;"><font color="white">09.00-17.00
                             </font></li></td>
                         <td align="left"> <p style="font-size: 15px;font-family: dream"><font color="white">Kegiatan snorkeling ke Pulau Payung, Pulau Payung Kecil , Pulau Tidung Kecil dan berkunjung ke pulau lain</font></p>
                         </td>
@@ -487,10 +487,10 @@
                                 <!--start first destination-->
                                 <div class="destinationsingleproject single-carousel blue">
 
-                                    <a href="harapan.php"><img alt="" class="imgdestinationsingleproject" src="img/pulau/harapan/7.jpg"></a>
+                                    <a href="harapan21.php"><img alt="" class="imgdestinationsingleproject" src="img/pulau/harapan/7.jpg"></a>
 
                                     <div class="titledaydestinationsingleproject">
-                                        <p class="titledestinationsingleproject"><a href="harapan.php" style="font-family: dream;font-weight: bold;">PULAU HARAPAN</a></p>
+                                        <p class="titledestinationsingleproject"><a href="harapan21.php" style="font-family: dream;font-weight: bold;">PULAU HARAPAN</a></p>
 
                                     </div> 
 

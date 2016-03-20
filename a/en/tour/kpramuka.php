@@ -166,7 +166,7 @@
                         <tr>
                             <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">Putri / Sepa</h1></td>
                             <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">:</h1></td>
-                            <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">Rp.&nbsp;36.300.000</h1></td>
+                            <td><h1 style="font-size: 24px;color: #FFE09C;;font-family: dream;">Rp.&nbsp;36.000.000</h1></td>
                         </tr>
                         <tr>
                             <td><h1 style="font-size: 24px;color: white;font-family: dream;">Pantara</h1></td>

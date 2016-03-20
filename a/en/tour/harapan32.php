@@ -182,7 +182,7 @@
                 </div>
                 <div class="grid_6 green fade-right animate1">
 
-                    <iframe width="550" height="370" src="https://www.youtube.com/embed/WE7WsnuLvPs" frameborder="0" allowfullscreen></iframe>
+                    <iframe width="550" height="370" src="https://www.youtube.com/embed/UFb_VyJeSps" frameborder="0" allowfullscreen></iframe>
                 </div>
                 <!--end info project-->
                 <div class="grid_4 green fade-right animate1">
@@ -190,7 +190,7 @@
 
                         <table id="wp-calendar" style="font-family: dream">
                             <div class="valueprice">
-                                <p><span class="currency" style="font-family: cen;">PAKET 3 HARI 1 MALAM</span></p>
+                                <p><span class="currency" style="font-family: cen;">PAKET 3 HARI 2 MALAM</span></p>
 
                             </div>
 
@@ -340,7 +340,7 @@
                         </td>
                         </tr>
                         <tr >
-                            <td> <li style="color: #FFE09C;"><font color="white"> 12.30-17.30
+                            <td style="vertical-align: top;"> <li style="color: #FFE09C;"><font color="white"> 12.30-17.30
                             </font></li></td>
                         <td align="left"><p style="font-size: 15px;font-family: dream"><font color="white"> Kegiatan snorkling (ke Pulau Kayu Angin Genteng, Pulau Macan, Pulau Bulat, Pulau Perak, dan pulau sekitar)</font></p>
                         </td>
@@ -393,7 +393,7 @@
                         </td>
                         </tr>
                         <tr >
-                            <td> <li style="color: #FFE09C;"><font color="white">09.00-17.30
+                            <td style="vertical-align: top;"> <li style="color: #FFE09C;"><font color="white">09.00-17.30
                             </font></li></td>
                         <td align="left"> <p style="font-size: 15px;font-family: dream"><font color="white">Jelajah Pulau (ke Pulau Bira, Pulau Panjang, Pulau Gosong Perak, Pulau Bintang, dan penangkaran Penyu) </font></p>
                         </td>

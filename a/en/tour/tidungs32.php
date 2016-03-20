@@ -172,7 +172,7 @@
                 </div>
                 <div class="grid_6 green fade-right animate1">
 
-                    <iframe width="550" height="370" src="https://www.youtube.com/embed/WE7WsnuLvPs" frameborder="0" allowfullscreen></iframe>
+                    <iframe width="550" height="370" src="https://www.youtube.com/embed/UFb_VyJeSps" frameborder="0" allowfullscreen></iframe>
                 </div>
                 <!--end info project-->
                 <div class="grid_4 green fade-right animate1">
@@ -180,7 +180,7 @@
 
                         <table id="wp-calendar" style="font-family: dream">
                             <div class="valueprice">
-                                <p><span class="currency" style="font-family: cen;">PAKET SPEEDBOAT 3 HARI 1 MALAM</span></p>
+                                <p><span class="currency" style="font-family: cen;">PAKET SPEEDBOAT 3 HARI 2 MALAM</span></p>
 
                             </div>
 
@@ -208,31 +208,31 @@
                             </tr>
                             <tr >
                                 <td><li style="color: #FFE09C;"><font color="white">10 - 20 orang</li></font></td>
-                            <td><font color="white">Rp. 850.000/orang</li></font></td>
+                            <td><font color="white">Rp. 890.000/orang</li></font></td>
                             </tr>
                             <tr >
                                 <td><li style="color: #FFE09C;"><font color="white">9 orang</li></font></td>
-                            <td><font color="white">Rp. 870.000/orang</li></font></td>
-                            </tr>
-                            <tr >
-                                <td><li style="color: #FFE09C;"><font color="white">8 orang</li></font></td>
-                            <td><font color="white">Rp. 890.00.000/orang</li></font></td>
-                            </tr>
-                            <tr >
-                                <td><li style="color: #FFE09C;"><font color="white">7 orang</li></font></td>
                             <td><font color="white">Rp. 910.000/orang</li></font></td>
                             </tr>
                             <tr >
-                                <td><li style="color: #FFE09C;"><font color="white">6 orang</li></font></td>
+                                <td><li style="color: #FFE09C;"><font color="white">8 orang</li></font></td>
                             <td><font color="white">Rp. 940.000/orang</li></font></td>
                             </tr>
                             <tr >
+                                <td><li style="color: #FFE09C;"><font color="white">7 orang</li></font></td>
+                            <td><font color="white">Rp. 960.000/orang</li></font></td>
+                            </tr>
+                            <tr >
+                                <td><li style="color: #FFE09C;"><font color="white">6 orang</li></font></td>
+                            <td><font color="white">Rp. 980.000/orang</li></font></td>
+                            </tr>
+                            <tr >
                                 <td><li style="color: #FFE09C;"><font color="white">5 orang</li></font></td>
-                            <td><font color="white">Rp. 1.030.000/orang</li></font></td>
+                            <td><font color="white">Rp. 1.020.000/orang</li></font></td>
                             </tr>
                             <tr >
                                 <td><li style="color: #FFE09C;"><font color="white">4 orang</li></font></td>
-                            <td>Rp. 1.150.000/orang</li></font></td>
+                            <td>Rp. 1.130.000/orang</li></font></td>
                             </tr>
                             </tbody>
                         </table>
@@ -336,7 +336,7 @@
                         </td>
                         </tr>
                         <tr >
-                            <td>  <li style="color: #FFE09C;"><font color="white">10.00-12.45
+                            <td style="vertical-align: top;"  <li style="color: #FFE09C;"><font color="white">10.00-12.45
                             </font></li></td>
                         <td align="left" width="80%" ><p style="font-size: 15px;font-family: dream"><font color="white">Chek in Homestay, Menikmati Welcome Drink, Acara bebas  atau bersepeda explore lingkungan Pulau Tidung, Sholat (bagi yang menjalankanya)
                                 istirahat, Dilanjutkan dengan menikmati hidangan Makan siang yang telah di sediakan.
@@ -357,7 +357,7 @@
                         </td>
                         </tr>
                         <tr >
-                            <td>  <li style="color: #FFE09C;"><font color="white"> 16.45-18.00
+                            <td style="vertical-align: top;">  <li style="color: #FFE09C;"><font color="white"> 16.45-18.00
                             </font></li></td>
                         <td align="left"><p style="font-size: 15px;font-family: dream"><font color="white"> Mandi, Istirahat dan diilanjutkan dengan menikmati hidangan Makan malam yang telah di sediakan
                                 </font></p>
@@ -397,7 +397,7 @@
                         </td>
                         </tr>
                         <tr >
-                            <td> <li style="color: #FFE09C;"><font color="white">09.00-17.00
+                            <td style="vertical-align: top;"> <li style="color: #FFE09C;"><font color="white">09.00-17.00
                             </font></li></td>
                         <td align="left"> <p style="font-size: 15px;font-family: dream"><font color="white">Kegiatan snorkeling ke Pulau Payung, Pulau Payung Kecil , Pulau Tidung Kecil dan berkunjung ke pulau lain</font></p>
                         </td>
@@ -444,7 +444,7 @@
                         </td>
                         </tr>
                         <tr >
-                            <td> <li style="color: #FFE09C;"><font color="white">08.00-11.00
+                            <td style="vertical-align: top;"> <li style="color: #FFE09C;"><font color="white">08.00-11.00
 
                             </font></li></td>
                         <td align="left"><p style="font-size: 15px;font-family: dream"><font color="white">Menyusuri Jembatan Cinta dan Explore Pulau Tidung Kecil sekaligus foto dan melihat kondisi pulau yang tidak berpenghuni yang ditumbuhi tanaman endemik maupun hutan bakau yang ada disekitar  pulau</font></p>
@@ -530,10 +530,10 @@
                                 <!--start first destination-->
                                 <div class="destinationsingleproject single-carousel blue">
 
-                                    <a href="harapan.php"><img alt="" class="imgdestinationsingleproject" src="img/pulau/harapan/7.jpg"></a>
+                                    <a href="harapan21.php"><img alt="" class="imgdestinationsingleproject" src="img/pulau/harapan/7.jpg"></a>
 
                                     <div class="titledaydestinationsingleproject">
-                                        <p class="titledestinationsingleproject"><a href="harapan.php" style="font-family: dream;font-weight: bold;">PULAU HARAPAN</a></p>
+                                        <p class="titledestinationsingleproject"><a href="harapan21.php" style="font-family: dream;font-weight: bold;">PULAU HARAPAN</a></p>
 
                                     </div> 
 

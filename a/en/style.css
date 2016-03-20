@@ -427,3 +427,27 @@ header select{
 .tg .tg-tskx{background-color:#FFE09C;color:#000000;vertical-align:top}
 .tg .tg-ds4c{background-color:#000000;color:#ffffff;vertical-align:top}
 /*end hover effect*/
+
+
+
+.buttonBlink {
+  -webkit-animation: glowing 1500ms infinite;
+  -moz-animation: glowing 1500ms infinite;
+  -o-animation: glowing 1500ms infinite;
+  animation: glowing 1500ms infinite;
+}
+
+.buttonBlink {
+    background-color: #f83530;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  border: none;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Arial;
+  font-size: 20px;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+}

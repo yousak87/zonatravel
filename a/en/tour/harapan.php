@@ -98,7 +98,7 @@
                                 <a href="harapan32.php" title="Paket  Pulau Harapan 3 Hari 2 Malam">Paket  Pulau Harapan 3 Hari 2 Malam</a>
                             </li>
                             <li class="cat-item cat-item-1 current-cat">
-                                <a href="harapan.php" title="detail Paket Speedboat Pulau Harapan 2 Hari 1 Malam">Paket Speedboat Pulau Harapan 2 Hari 1 Malam</a>
+                                <a href="harapan21.php" title="detail Paket Speedboat Pulau Harapan 2 Hari 1 Malam">Paket Speedboat Pulau Harapan 2 Hari 1 Malam</a>
                             </li>
                             <li class="cat-item cat-item-1 current-cat">
                                 <a href="harapans32.php" title="detail Paket Speedboat Pulau Harapan 3 Hari 2 Malam">Paket Speedboat Pulau Harapan 3 Hari 2 Malam</a>
@@ -183,7 +183,7 @@
                 </div>
                 <div class="grid_6 green fade-right animate1">
 
-                    <iframe width="550" height="370" src="https://www.youtube.com/embed/WE7WsnuLvPs" frameborder="0" allowfullscreen></iframe>
+                    <iframe width="550" height="370" src="https://www.youtube.com/embed/UFb_VyJeSps" frameborder="0" allowfullscreen></iframe>
                 </div>
                 <!--end info project-->
                 <div class="grid_4 green fade-right animate1">
@@ -347,14 +347,14 @@
                         </td>
                         </tr>
                         <tr >
-                            <td>  <li style="color: #FFE09C;"><font color="white">11.00-12.45
+                            <td style="vertical-align: top;">  <li style="color: #FFE09C;"><font color="white">11.00-12.45
                             </font></li></td>
                         <td align="left" width="80%" ><p style="font-size: 15px;font-family: dream"><font color="white">  Chek in Homestay, Menikmati Welcome Drink, Acara bebas  atau explore lingkungan Pulau Harapan, Sholat (bagi yang menjalankanya)
                                 istirahat, Dilanjutkan dengan menikmati hidangan Makan siang yang telah di sediakan. </font></p>
                         </td>
                         </tr>
                         <tr >
-                            <td>  <li style="color: #FFE09C;"><font color="white"> 12.45-18.00 
+                            <td style="vertical-align: top;">  <li style="color: #FFE09C;"><font color="white"> 12.45-18.00 
                             </font></li></td>
                         <td align="left" width="80%" ><p style="font-size: 15px;font-family: dream"><font color="white">   Persiapan Snorkeling, perjalanan dengan kapal tradisional menuju Pulau Bulat untuk briefing acara snorkeling, selanjutnya berangkat untuk menikmati keindahan terumbu karang serta foto dibawah laut di Spot Pulau Kayu angin genteng dan PulauMacan, dilanjutkan jelajah pulau ke Pulau Dolphin dan menikmati sunset di Pulau perak. </font></p>
                         </td>
@@ -483,10 +483,10 @@
                                 <!--start first destination-->
                                 <div class="destinationsingleproject single-carousel blue">
 
-                                    <a href="harapan.php"><img alt="" class="imgdestinationsingleproject" src="img/pulau/harapan/7.jpg"></a>
+                                    <a href="harapan21.php"><img alt="" class="imgdestinationsingleproject" src="img/pulau/harapan/7.jpg"></a>
 
                                     <div class="titledaydestinationsingleproject">
-                                        <p class="titledestinationsingleproject"><a href="harapan.php" style="font-family: dream;font-weight: bold;">PULAU HARAPAN</a></p>
+                                        <p class="titledestinationsingleproject"><a href="harapan21.php" style="font-family: dream;font-weight: bold;">PULAU HARAPAN</a></p>
 
                                     </div> 
 

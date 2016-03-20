@@ -173,7 +173,7 @@
                 </div>
                 <div class="grid_6 green fade-right animate1">
 
-                    <iframe width="550" height="370" src="https://www.youtube.com/embed/WE7WsnuLvPs" frameborder="0" allowfullscreen></iframe>
+                    <iframe width="550" height="370" src="https://www.youtube.com/embed/KkZAlc3DNBA" frameborder="0" allowfullscreen></iframe>
                 </div>
                 <!--end info project-->
                 <div class="grid_4 green fade-right animate1">
@@ -334,14 +334,14 @@
                         </td>
                         </tr>
                         <tr >
-                            <td>  <li style="color: #FFE09C;"><font color="white">10.00-12.45
+                            <td style="vertical-align: top;">  <li style="color: #FFE09C;"><font color="white">10.00-12.45
                             </font></li></td>
                         <td align="left" width="80%" ><p style="font-size: 15px;font-family: dream"><font color="white">  Chek in Homestay, Menikmati Welcome Drink, Acara bebas  atau explore lingkungan Pulau Pari, Sholat (bagi yang menjalankanya)
                                 istirahat, Dilanjutkan dengan menikmati hidangan Makan siang yang telah di sediakan. </font></p>
                         </td>
                         </tr>
                         <tr >
-                            <td>  <li style="color: #FFE09C;"><font color="white"> 12.45-17.00 
+                            <td style="vertical-align: top;">  <li style="color: #FFE09C;"><font color="white"> 12.45-17.00 
                             </font></li></td>
                         <td align="left" width="80%" ><p style="font-size: 15px;font-family: dream"><font color="white"> Persiapan Snorkeling, perjalanan dengan kapal tradisional menuju spot Bintang Rama untuk acara snorkeling dan menikmati keindahan terumbu karang serta foto dibawah laut, dilanjutkan dengan jelajah ke pulau Tikus dan APL Pulau Pari untuk snorkeling. </font></p>
                         </td>
@@ -353,7 +353,7 @@
                         </td>
                         </tr>
                         <tr >
-                            <td>  <li style="color: #FFE09C;"><font color="white"> 18.15-20.00
+                            <td style="vertical-align: top;">  <li style="color: #FFE09C;"><font color="white"> 18.15-20.00
                             </font></li></td>
                         <td align="left"><p style="font-size: 15px;font-family: dream"><font color="white">  Mandi, Istirahat dan diilanjutkan dengan menikmati hidangan Makan malam yang telah di sediakan. </font></p>
                         </td>
@@ -385,7 +385,7 @@
                         </td>
                         </tr>
                         <tr >
-                            <td> <li style="color: #FFE09C;"><font color="white">08.00-11.00  
+                            <td style="vertical-align: top;"> <li style="color: #FFE09C;"><font color="white">08.00-11.00  
                             </font></li></td>
                         <td align="left"> <p style="font-size: 15px;font-family: dream"><font color="white">Bersepeda menuju Pantai Pasir Perawan, eksplor pulau dan menuju LIPI (Lembaga Penelitian Biota Laut)</font></p>
                         </td>
@@ -471,10 +471,10 @@
                                 <!--start first destination-->
                                 <div class="destinationsingleproject single-carousel blue">
 
-                                    <a href="harapan.php"><img alt="" class="imgdestinationsingleproject" src="img/pulau/harapan/7.jpg"></a>
+                                    <a href="harapan21.php"><img alt="" class="imgdestinationsingleproject" src="img/pulau/harapan/7.jpg"></a>
 
                                     <div class="titledaydestinationsingleproject">
-                                        <p class="titledestinationsingleproject"><a href="harapan.php" style="font-family: dream;font-weight: bold;">PULAU HARAPAN</a></p>
+                                        <p class="titledestinationsingleproject"><a href="harapan21.php" style="font-family: dream;font-weight: bold;">PULAU HARAPAN</a></p>
 
                                     </div> 
 

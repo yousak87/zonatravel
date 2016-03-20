@@ -173,7 +173,7 @@
                 </div>
                 <div class="grid_6 green fade-right animate1">
 
-                    <iframe width="550" height="370" src="https://www.youtube.com/embed/WE7WsnuLvPs" frameborder="0" allowfullscreen></iframe>
+                    <iframe width="550" height="370" src="https://www.youtube.com/embed/KkZAlc3DNBA" frameborder="0" allowfullscreen></iframe>
                 </div>
                 <!--end info project-->
                 <div class="grid_4 green fade-right animate1">
@@ -320,14 +320,14 @@
                         </td>
                         </tr>
                         <tr >
-                            <td><li style="color: #FFE09C;"><font color="white">09.00-13.00 
+                            <td style="vertical-align: top;"><li style="color: #FFE09C;"><font color="white">09.00-13.00 
                             </font></li></td>
                         <td align="left"><p style="font-size: 15px;font-family: dream"><font color="white">  Chek in Homestay, Menikmati Welcome Drink , kemudian Acara bebas  atau bersepeda explore lingkungan Pulau Pari,
                                 </font></p>
                         </td>
                         </tr>
                         <tr >
-                            <td> <li style="color: #FFE09C;"><font color="white">13.00-17.00 </font></li></td>
+                            <td style="vertical-align: top;"> <li style="color: #FFE09C;"><font color="white">13.00-17.00 </font></li></td>
                         <td align="left" width="80%" > <p style="font-size: 15px;font-family: dream"><font color="white">Persiapan Snorkeling, perjalanan dengan kapal tradisional menuju
                                 spot Bintang Rama untuk acara snorkeling dan menikmati
                                 keindahan terumbu karang serta foto dibawah laut, dilanjutkan dengan
@@ -341,7 +341,7 @@
                         </td>
                         </tr>
                         <tr >
-                            <td>  <li style="color: #FFE09C;"><font color="white">19.00-20.00
+                            <td style="vertical-align: top;">  <li style="color: #FFE09C;"><font color="white">19.00-20.00
                             </font></li></td>
                         <td align="left"><p style="font-size: 15px;font-family: dream"><font color="white">Mandi, Istirahat dan diilanjutkan dengan menikmati
                                 hidangan Makan malam yang telah di sediakan.
@@ -377,7 +377,7 @@
                         </td>
                         </tr>
                         <tr >
-                            <td> <li style="color: #FFE09C;"><font color="white">08.00-10.00  
+                            <td style="vertical-align: top;"> <li style="color: #FFE09C;"><font color="white">08.00-10.00  
                             </font></li></td>
                         <td align="left"> <p style="font-size: 15px;font-family: dream"><font color="white">Bersepeda menuju Pantai Pasir Perawan dan Pantai Kresek, eksplor pulau
                                 dan menuju LIPI (Lembaga Penelitian Biota Laut)</font></p>
@@ -459,10 +459,10 @@
                                 <!--start first destination-->
                                 <div class="destinationsingleproject single-carousel blue">
 
-                                    <a href="harapan.php"><img alt="" class="imgdestinationsingleproject" src="img/pulau/harapan/7.jpg"></a>
+                                    <a href="harapan21.php"><img alt="" class="imgdestinationsingleproject" src="img/pulau/harapan/7.jpg"></a>
 
                                     <div class="titledaydestinationsingleproject">
-                                        <p class="titledestinationsingleproject"><a href="harapan.php" style="font-family: dream;font-weight: bold;">PULAU HARAPAN</a></p>
+                                        <p class="titledestinationsingleproject"><a href="harapan21.php" style="font-family: dream;font-weight: bold;">PULAU HARAPAN</a></p>
 
                                     </div> 
 

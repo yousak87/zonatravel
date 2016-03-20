@@ -103,7 +103,7 @@
 
                 <div class="grid_6 green fade-right animate1">
 
-                    <iframe width="100%" height="390px" src="https://www.youtube.com/embed/WE7WsnuLvPs" frameborder="0" allowfullscreen></iframe>
+                    <iframe width="100%" height="390px" src="https://www.youtube.com/embed/UFb_VyJeSps" frameborder="0" allowfullscreen></iframe>
                 </div>
                 <!--start flexslider gallery-->
                 <div class="grid_6 green fade-left animate1">

@@ -96,7 +96,7 @@
 
                 <div class="grid_6 green fade-right animate1">
 
-                    <iframe width="100%" height="390px" src="https://www.youtube.com/embed/WE7WsnuLvPs" frameborder="0" allowfullscreen></iframe>
+                    <iframe width="100%" height="390px" src="https://www.youtube.com/embed/ESmAMr-u7U4" frameborder="0" allowfullscreen></iframe>
                 </div>
                 <!--start flexslider gallery-->
                 <div class="grid_6 green fade-left animate1">
@@ -163,9 +163,8 @@
                     <table>
                         <tr><td style="background-color: #FFE09C;font-family: BernardoModaSemibold;color: black;font-size: 18px;">ONE DAY TOUR FOR ADULT / CHILD : </td><td style="font-weight: bold;font-family: dream;color: white;font-size: 18px;"> &nbsp; Rp.900.000 / PERSON</td></tr>
                     </table>
-                    <table>
-                        <tr><td style="font-weight: bold;font-family: dream;color: white;font-size: 18px;">PRICE INCLUDE: </td><td>Transportasi Speedboat Marina Ancol - Pulau Macan (PP),  Asuransi Transportasi Jasa Raharja, Welcome Drink, Makan Siang 1x, Snorkeling, Canoe,  Tax & Service 21%
-                            </td></tr>
+                    <table style="width:100%;font-weight: bold;font-family: dream;color: white;font-size: 16px;">
+                        <tr><td width="150px" style="vertical-align: text-top">PRICE INCLUDE : </td><td>Transportasi Speedboat Marina Ancol - Pulau Macan (PP),  Asuransi Transportasi Jasa Raharja, Welcome Drink, Makan Siang 1x, Snorkeling, Canoe,  Tax & Service 21%</td></tr>
                     </table>
                     <br>
                     <h4 style="font-weight: bold;font-family: cen;color: yellow;font-size: 18px;">PAKET 2 HARI 1 MALAM</h4>

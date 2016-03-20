@@ -117,7 +117,7 @@
                     <!--start title and price-->
                     <div class="titlesingleproject">
 
-                        <h4 style="font-family: cen;">PAKET SPEEDBOAT PULAU PRAMUKA 3 HARI 2 MALAM</h4>
+                        <h4 style="font-family: cen;">PAKET PULAU PRAMUKA 3 HARI 2 MALAM</h4>
                     </div>
                     <!--end title and price-->
 
@@ -176,7 +176,7 @@
                 </div>
                 <div class="grid_6 green fade-right animate1">
 
-                    <iframe width="550" height="370" src="https://www.youtube.com/embed/WE7WsnuLvPs" frameborder="0" allowfullscreen></iframe>
+                    <iframe width="550" height="370" src="https://www.youtube.com/embed/afgG1oJe9-s" frameborder="0" allowfullscreen></iframe>
                 </div>
                 <!--end info project-->
                 <div class="grid_4 green fade-right animate1">
@@ -184,7 +184,7 @@
 
                         <table id="wp-calendar" style="font-family: dream">
                             <div class="valueprice">
-                                <p><span class="currency" style="font-family: cen;">PAKET SPEEDBOAT 3 HARI 1 MALAM</span></p>
+                                <p><span class="currency" style="font-family: cen;">PAKET 3 HARI 2 MALAM</span></p>
 
                             </div>
 
@@ -220,7 +220,7 @@
                             </tr>
                             <tr >
                                 <td><li style="color: #FFE09C;"><font color="white">8 orang</li></font></td>
-                            <td><font color="white">Rp. 540.00.000/orang</li></font></td>
+                            <td><font color="white">Rp. 540.000/orang</li></font></td>
                             </tr>
                             <tr >
                                 <td><li style="color: #FFE09C;"><font color="white">7 orang</li></font></td>
@@ -311,7 +311,7 @@
                         <tbody align="center">
 
                             <tr >
-                                <td><li style="color: #FFE09C;"><font color="white">06.00 
+                                <td><li style="color: #FFE09C;"><font color="white">06.00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                             </font></li></td>
                         <td align="left"><p style="font-size: 15px;font-family: dream"><font color="white">Meeting Point di Kali Adem (Muara Angke), di jemput untuk ke kapal</font></p>
                         </td>
@@ -324,7 +324,7 @@
                         </td>
                         </tr>
                         <tr >
-                            <td><li style="color: #FFE09C;"><font color="white">09.30
+                            <td><li style="color: #FFE09C;"><font color="white">09.30 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                             </font></li></td>
                         <td align="left"><p style="font-size: 15px;font-family: dream"><font color="white">Tiba di Pulau Pramuka 
                                 </font></p>
@@ -385,7 +385,7 @@
                         </td>
                         </tr>
                         <tr >
-                            <td> <li style="color: #FFE09C;"><font color="white">07.00-13.00
+                            <td style="vertical-align: top;"> <li style="color: #FFE09C;"><font color="white">07.00-13.00
                             </font></li></td>
                         <td align="left"> <p style="font-size: 15px;font-family: dream"><font color="white">Persiapan Snorkeling, perjalanan dengan kapal tradisional menuju Semak daun untuk briefing acara snorkeling dan wisata ke Pulau Semak Daun, Ayer, Soft Coral, Semak daun, Nusa kramba / penangkaran hiu dan bandeng. </font></p>
                         </td>
@@ -454,7 +454,7 @@
                         <tr >
                             <td> <li style="color: #FFE09C;"><font color="white">11.30-12.00
                             </font></li></td>
-                        <td align="left"> <p style="font-size: 15px;font-family: dream"><font color="white">Menuju dermaga</font></p>
+                        <td align="left"> <p style="font-size: 15px;font-family: dream"><font color="white">Menuju Dermaga Pulau Pramuka</font></p>
                         </td></tr>
                         <tr >
                             <td> <li style="color: #FFE09C;"><font color="white">12.00-selesai
@@ -523,10 +523,10 @@
                                 <!--start first destination-->
                                 <div class="destinationsingleproject single-carousel blue">
 
-                                    <a href="harapan.php"><img alt="" class="imgdestinationsingleproject" src="img/pulau/harapan/7.jpg"></a>
+                                    <a href="harapan21.php"><img alt="" class="imgdestinationsingleproject" src="img/pulau/harapan/7.jpg"></a>
 
                                     <div class="titledaydestinationsingleproject">
-                                        <p class="titledestinationsingleproject"><a href="harapan.php" style="font-family: dream;font-weight: bold;">PULAU HARAPAN</a></p>
+                                        <p class="titledestinationsingleproject"><a href="harapan21.php" style="font-family: dream;font-weight: bold;">PULAU HARAPAN</a></p>
 
                                     </div> 
 

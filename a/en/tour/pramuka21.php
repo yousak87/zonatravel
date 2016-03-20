@@ -177,7 +177,7 @@
                 </div>
                 <div class="grid_6 green fade-right animate1">
 
-                    <iframe width="550" height="370" src="https://www.youtube.com/embed/WE7WsnuLvPs" frameborder="0" allowfullscreen></iframe>
+                    <iframe width="550" height="370" src="https://www.youtube.com/embed/afgG1oJe9-s" frameborder="0" allowfullscreen></iframe>
                 </div>
                 <!--end info project-->
                 <div class="grid_4 green fade-right animate1">
@@ -312,7 +312,7 @@
                         <tbody align="center">
 
                             <tr >
-                                <td><li style="color: #FFE09C;"><font color="white">06.00-07.00 
+                                <td><li style="color: #FFE09C;"><font color="white">06.00 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                             </font></li></td>
                         <td align="left" width="80%" <p style="font-size: 15px;font-family: dream"><font color="white">Meeting point di Kali Adem (Muara Angke) dijemput untuk ke kapal</font></p>
                         </td>
@@ -337,8 +337,8 @@
                         </td>
                         </tr>
                         <tr >
-                            <td> <li style="color: #FFE09C;"><font color="white">11.30-17.00 </font></li></td>
-                        <td align="left"> <p style="font-size: 15px;font-family: dream"><font color="white">Opsi rute snorkeling pertama yakni Snorkeling dan wisata ke Pulau Semak Daun, Ayer, Soft Coral, Semak daun, Nusa kramba / penangkaran hiu dan bandeng.</font></p> 
+                            <td  style="vertical-align: top;"> <li style="color: #FFE09C;"><font color="white">11.30-17.00 </font></li></td>
+                        <td align="left"> <p style="font-size: 15px;font-family: dream"><font color="white">Persiapan Snorkeling, perjalanan dengan kapal tradisional menuju Semak daun untuk briefing acara snorkeling dan wisata ke Pulau Semak Daun, Ayer, Soft Coral, Semak daun, Nusa kramba (penangkaran hiu) dan bandeng.</font></p> 
                         </td>
                         </tr>
                         <tr >
@@ -382,7 +382,7 @@
                         </td>
                         </tr>
                         <tr >
-                            <td> <li style="color: #FFE09C;"><font color="white">07.30-10.00  
+                            <td style="vertical-align: top;"> <li style="color: #FFE09C;"><font color="white">07.30-10.00  
                             </font></li></td>
                         <td align="left"> <p style="font-size: 15px;font-family: dream"><font color="white">Penangkaran penyu, Pulau Karya, Nusa kramba (penangkaran hiu), eksplor Pulau Pramuka, acara bebas</font></p>
                         </td>
@@ -469,10 +469,10 @@
                                 <!--start first destination-->
                                 <div class="destinationsingleproject single-carousel blue">
 
-                                    <a href="harapan.php"><img alt="" class="imgdestinationsingleproject" src="img/pulau/harapan/7.jpg"></a>
+                                    <a href="harapan21.php"><img alt="" class="imgdestinationsingleproject" src="img/pulau/harapan/7.jpg"></a>
 
                                     <div class="titledaydestinationsingleproject">
-                                        <p class="titledestinationsingleproject"><a href="harapan.php" style="font-family: dream;font-weight: bold;">PULAU HARAPAN</a></p>
+                                        <p class="titledestinationsingleproject"><a href="harapan21.php" style="font-family: dream;font-weight: bold;">PULAU HARAPAN</a></p>
 
                                     </div> 
 

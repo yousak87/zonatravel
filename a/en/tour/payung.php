@@ -117,7 +117,7 @@
                     <!--start title and price-->
                     <div class="titlesingleproject">
 
-                        <h4 style="font-family: cen;">PAKET PULAU SPEEDBOAT PAYUNG 2 HARI 1 MALAM</h4>
+                        <h4 style="font-family: cen;">PAKET SPEEDBOAT PULAU PAYUNG 2 HARI 1 MALAM</h4>
                     </div>
                     <!--end title and price-->
 
@@ -170,10 +170,10 @@
                 </div>
                 <div class="grid_6 green fade-right animate1">
 
-                    <iframe width="550" height="370" src="https://www.youtube.com/embed/WE7WsnuLvPs" frameborder="0" allowfullscreen></iframe>
+                    <iframe width="550" height="370" src="https://www.youtube.com/embed/UFb_VyJeSps" frameborder="0" allowfullscreen></iframe>
                 </div>
                 <!--end info project-->
-                <div class="grid_6 green fade-right animate1">
+                <div class="grid_4 green fade-right animate1">
                     <div id="calendar_wrap">
 
                         <table id="wp-calendar" style="font-family: dream">
@@ -279,7 +279,7 @@
                         </table>
                     </div>
                 </div>
-                <div class="grid_6 green fade-right animate1">
+                <div class="grid_8 green fade-right animate1">
                     <div class="valueprice" align="center">
                         <p><span class="currency" style="font-family: cen;">RUNDOWN </span></p>
 
@@ -313,10 +313,10 @@
                                 <!--start first destination-->
                                 <div class="destinationsingleproject single-carousel blue">
 
-                                    <a href="harapan.php"><img alt="" class="imgdestinationsingleproject" src="img/pulau/harapan/7.jpg"></a>
+                                    <a href="harapan21.php"><img alt="" class="imgdestinationsingleproject" src="img/pulau/harapan/7.jpg"></a>
 
                                     <div class="titledaydestinationsingleproject">
-                                        <p class="titledestinationsingleproject"><a href="harapan.php" style="font-family: dream;font-weight: bold;">PULAU HARAPAN</a></p>
+                                        <p class="titledestinationsingleproject"><a href="harapan21.php" style="font-family: dream;font-weight: bold;">PULAU HARAPAN</a></p>
 
                                     </div> 
 

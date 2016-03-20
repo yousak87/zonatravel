@@ -105,7 +105,7 @@
 
                 <div class="grid_6 green fade-right animate1">
 
-                    <iframe width="100%" height="390px" src="https://www.youtube.com/embed/WE7WsnuLvPs" frameborder="0" allowfullscreen></iframe>
+                    <iframe width="100%" height="390px" src="https://www.youtube.com/embed/UFb_VyJeSps" frameborder="0" allowfullscreen></iframe>
                 </div>
                 <!--start flexslider gallery-->
                 <div class="grid_6 green fade-left animate1">
@@ -176,8 +176,10 @@
                         <tr><td style="background-color: #FFE09C;font-family: BernardoModaSemibold;color: black;font-size: 18px;">ONE DAY TOUR FOR ADULT / CHILD : </td><td style="font-weight: bold;font-family: dream;color: white;font-size: 18px;"> &nbsp; Rp 950.000 / ORANG
                             </td></tr>
                     </table>
-                    <table>
-                        <tr><td style="font-weight: bold;font-family: dream;color: white;font-size: 18px;">PRICE INCLUDE: </td><td>Transportasi Speedoat Marina Ancol – Sepa island (PP), Welcome drink, Makan Siang, Tax & Service 21%
+                     <table style="width:100%;font-weight: bold;font-family: dream;color: white;font-size: 16px;">
+                        <tr><td width="150px" style="vertical-align: text-top">PRICE INCLUDE : </td><td>Transportasi Speedoat Marina Ancol – Sepa island (PP), Welcome drink, Makan Siang, Tax & Service 21%
+
+
                             </td></tr>
                     </table>
                     <br>

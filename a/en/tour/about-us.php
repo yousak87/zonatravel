@@ -108,7 +108,7 @@
 
                 <div class="grid_6 blue fade-left animate1" style="text-align: justify;text-justify: inter-word;"><p style="font-family: dream;">
 
-                        <b>Zona Travel</b> kami dirikan untuk memberi kemudahan kepada Anda dalam mencari informasi dan merencanakan sebuah liburan yang Anda inginkan. Yang dimana kami telah di percayakan dalam bekerjasama pemasaran resort – resort di Kepulauan Seribu, antara lain : Pulau Ayer Resort, Pulau Bidadari Resort, Pulau Macan Resort, Pulau Pantara Resort, Pulau Putri Resort, Pulau Sepa Resort, Pulau Pelangi Resort, Pulau Kotok Resort. Serta juga Pulau Penduduk, yakni Pulau Tidung, Pulau Pramuka, Pulau Harapan, Pulau Pari dan Pulau Payung.
+                        <b>Zona Travel Asia</b> kami dirikan untuk memberi kemudahan kepada Anda dalam mencari informasi dan merencanakan sebuah liburan yang Anda inginkan. Yang dimana kami telah di percayakan dalam bekerjasama pemasaran resort – resort di Kepulauan Seribu, antara lain : Pulau Ayer Resort, Pulau Bidadari Resort, Pulau Macan Resort, Pulau Pantara Resort, Pulau Putri Resort, Pulau Sepa Resort, Pulau Pelangi Resort, Pulau Kotok Resort. Serta juga Pulau Penduduk, yakni Pulau Tidung, Pulau Pramuka, Pulau Harapan, Pulau Pari dan Pulau Payung.
                     </p><br>
                     <p  style="font-family: dream;">
                         Berbagai pengalaman membuat kami mengerti bagaimana cara menikmati arti sebuah liburan yang menakjubkan, dan itulah yang kami berikan untuk Anda. Dedikasi kami adalah untuk kesenangan Anda, Sehingga kami memberikan kemudahan kepada Anda dalam mencari informasi dan merencanakan sebuah liburan yang Anda inginkan dengan sempurna.
@@ -173,10 +173,10 @@
 
 
 
-                <div class="grid_12 blue fade-left animate1"><h1 style="font-size: 20px;font-family: BernardoModaSemibold;color: white">THE BEST OF ZONATRAVEL.ASIA TRAVEL AGENCY</h1><br>
-                    <p style="font-family: dream;">Sakuratravel.asia Indonesia menjamin! anda tidak akan mendapatkan pelayanan mengecewakan seperti itu bila menggunakan jasa travel kami. Kami berusaha untuk menjadi The Best Tour And Travel Agency yang mampu memenuhi ekspektasi dari seluruh pelanggan kami karena itu kami berikan penawaran dan pelayanan yang teristimewa.
+                <div class="grid_12 blue fade-left animate1"><h1 style="font-size: 20px;font-family: BernardoModaSemibold;color: white">THE BEST OF ZONA TRAVEL ASIA TRAVEL AGENCY</h1><br>
+                    <p style="font-family: dream;">Zona Travel Asia Indonesia menjamin anda tidak akan mendapatkan pelayanan mengecewakan seperti itu bila menggunakan jasa travel kami. Kami berusaha untuk menjadi The Best Tour And Travel Agency yang mampu memenuhi ekspektasi dari seluruh pelanggan kami karena itu kami berikan penawaran dan pelayanan yang teristimewa.
 
-                        Berikut beberapa testimonial yang telah menggunakan jasa sakura travel :</p>
+                        Berikut beberapa testimonial yang telah menggunakan jasa Zona Travel Asia :</p>
 
                     <br><br>
                     <form action="team.php">
@@ -196,7 +196,7 @@
 
                 <div class="grid_3">
                     <div class="imgclient fade-left animate1">
-                        <img alt="" src="img/clients/1.png">    
+                        <img alt="" src="img/clients/medi.jpg">    
                     </div>
                 </div>
 

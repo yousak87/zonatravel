@@ -173,7 +173,7 @@
                 </div>
                 <div class="grid_6 green fade-right animate1">
 
-                    <iframe width="550" height="370" src="https://www.youtube.com/embed/WE7WsnuLvPs" frameborder="0" allowfullscreen></iframe>
+                    <iframe width="550" height="370" src="https://www.youtube.com/embed/KkZAlc3DNBA" frameborder="0" allowfullscreen></iframe>
                 </div>
                 <!--end info project-->
                 <div class="grid_4 green fade-right animate1">
@@ -181,7 +181,7 @@
 
                         <table id="wp-calendar" style="font-family: dream">
                             <div class="valueprice">
-                                <p><span class="currency" style="font-family: cen;">PAKET 3 HARI 1 MALAM</span></p>
+                                <p><span class="currency" style="font-family: cen;">PAKET 3 HARI 2 MALAM</span></p>
 
                             </div>
 
@@ -217,7 +217,7 @@
                             </tr>
                             <tr >
                                 <td><li style="color: #FFE09C;"><font color="white">8 orang</li></font></td>
-                            <td><font color="white">Rp. 560.00.000/orang</li></font></td>
+                            <td><font color="white">Rp. 560.000/orang</li></font></td>
                             </tr>
                             <tr >
                                 <td><li style="color: #FFE09C;"><font color="white">7 orang</li></font></td>
@@ -322,7 +322,7 @@
                         </td>
                         </tr>
                         <tr >
-                            <td><li style="color: #FFE09C;"><font color="white">09.00-13.00 
+                            <td style="vertical-align: top;"><li style="color: #FFE09C;"><font color="white">09.00-13.00 
                             </font></li></td>
                         <td align="left" width="80%" ><p style="font-size: 15px;font-family: dream"><font color="white">Check in Homestay, Menikmati Welcome Drink, Acara bebas  atau
                                 bersepeda explore lingkungan Pulau Pari, Sholat (bagi yang menjalankan).
@@ -392,7 +392,7 @@
                         </td>
                         </tr>
                         <tr >
-                            <td> <li style="color: #FFE09C;"><font color="white">08.30-14.00
+                            <td style="vertical-align: top;"> <li style="color: #FFE09C;"><font color="white">08.30-14.00
                             </font></li></td>
                         <td align="left"> <p style="font-size: 15px;font-family: dream"><font color="white">Persiapan Snorkeling, perjalanan dengan kapal tradisional menuju
                                 spot Bintang Rama untuk acara snorkeling dan menikmati
@@ -402,20 +402,20 @@
                         </td>
                         </tr>
                         <tr >
-                            <td> <li style="color: #FFE09C;"><font color="white">14.00-16.00
+                            <td style="vertical-align: top;"> <li style="color: #FFE09C;"><font color="white">14.00-16.00
                             </font></li></td>
                         <td align="left"> <p style="font-size: 15px;font-family: dream"><font color="white">Kembali ke penginapan dan makan siang yang telah disediakan
                                 di masing-masing homestay </font></p>
                         </td>
                         </tr>
                         <tr >
-                            <td><li style="color: #FFE09C;"><font color="white">17.00-18.00 
+                            <td style="vertical-align: top;"><li style="color: #FFE09C;"><font color="white">17.00-18.00 
                             </font></li></td>
                         <td align="left"> <p style="font-size: 15px;font-family: dream"><font color="white">Hunting foto sunset di Pantai pasir perawan atau di LIPI</font></p>
                         </td>
                         </tr>
                         <tr >
-                            <td><li style="color: #FFE09C;"><font color="white">18.00-19.00
+                            <td style="vertical-align: top;"><li style="color: #FFE09C;"><font color="white">18.00-19.00
                             </font></li></td>
                         <td align="left"> <p style="font-size: 15px;font-family: dream"><font color="white">Kembali ke penginapan untuk bersiap-siap menyantap hidangan
                                 makan malam yang telah di sediakan</font></p>
@@ -438,7 +438,7 @@
                         </thead>
                         <tbody align="center">
                             <tr >
-                                <td >  <li style="color: #FFE09C;"><font color="white">05.30-07.45
+                                <td style="vertical-align: top;">  <li style="color: #FFE09C;"><font color="white">05.30-07.45
                             </font></li></td>
                         <td align="left"><p style="font-size: 15px;font-family: dream"><font color="white"> Bangun pagi, Bersepeda meng-explore Pulau Pari, Bermain Volley
                                 di Pantai pasir perawan dan menikmati sunrise di Bukit Matahari.</font></p>
@@ -526,10 +526,10 @@
                                 <!--start first destination-->
                                 <div class="destinationsingleproject single-carousel blue">
 
-                                    <a href="harapan.php"><img alt="" class="imgdestinationsingleproject" src="img/pulau/harapan/7.jpg"></a>
+                                    <a href="harapan21.php"><img alt="" class="imgdestinationsingleproject" src="img/pulau/harapan/7.jpg"></a>
 
                                     <div class="titledaydestinationsingleproject">
-                                        <p class="titledestinationsingleproject"><a href="harapan.php" style="font-family: dream;font-weight: bold;">PULAU HARAPAN</a></p>
+                                        <p class="titledestinationsingleproject"><a href="harapan21.php" style="font-family: dream;font-weight: bold;">PULAU HARAPAN</a></p>
 
                                     </div> 
 

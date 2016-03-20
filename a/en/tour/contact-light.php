@@ -159,8 +159,9 @@
                             <br>
                             <h1 style="color: #FFD800;font-family: BernardoModaSemibold">RESERVASI</h1>
                             <img src="vector-logo-bca-small.png">
-                            
+                             <img src="vector-logo-bni-small.png">
                             <img src="vector-logo-mandiri-small-old.png">
+                           
                         </div>	
                     </div> 
                     <!--end tag-->        
@@ -223,8 +224,8 @@
                             <br>
                             <span style="font-family: dream;">
                                 Account BCA      	: 627.509.1981 ( A/N. Edward Hakim )<br>
-                                Account Mandiri	: 118.00.0774702.4 ( A/N. Edward Hakim )<br>
-                                
+                                Account Mandiri	&nbsp;: 118.00.0774702.4 ( A/N. Edward Hakim )<br>
+                                Account BNI	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 0434105068 ( A/N. Edward Hakim )<br>
 
                             </span><br>
 
@@ -256,22 +257,22 @@
                             <li>Perlengkapan lain yang Anda rasa perlu.</li>
                         </ul>
                         <span style="font-family: dream;">
-                            * Info lebih lanjut bagi yang ingin mengikuti perjalanan dengan jasa kami dengan jumlah peserta lebih dari paket atau gathering perusahaan, harap menghubungi pihak Zona Travel untuk penawaran harga spesial.</span>
+                            * Info lebih lanjut bagi yang ingin mengikuti perjalanan dengan jasa kami dengan jumlah peserta lebih dari paket atau gathering perusahaan, harap menghubungi pihak Zona Travel Asia untuk penawaran harga spesial.</span>
                         <br><br>
                         <table style="font-family: dream;">
                             <tr>
                                 <td>Kantor Pusat</td>
                                 <td>&nbsp; : &nbsp;</td>
-                                <td>Perum. Citra Garden 1 Ext . Blok AF 1 . No 40
-                                    Kalideres - Jakarta Barat</td>
+                                <td>Mall Taman Palem, Lt.2, No : B5
+                                    Cengkareng Timur - Jakarta Barat</td>
                             </tr>
                             <tr>
-                            <tr>
-                                <td>Kantor Cabang</td>
+                                <td>Email</td>
                                 <td>&nbsp; : &nbsp;</td>
-                                <td>Jl. Haji Halid  Rt/Rw. 02/04, No. 35 Pulau Pari,
-                                    Kepulauan Seribu - Indonesia</td>
+                                <td>zonatravelasia888@gmail.com</td>
                             </tr>
+                            
+                            
 
                         </table>
                         <br>
@@ -281,7 +282,7 @@
 
                         <span style="font-family: BernardoModaSemibold; font-weight: bold;">TUNGGU APALAGI ??? SEGERA HUBUNGI KAMI!!!</span><br>
 
-                        <span style="font-family: dream;">Hubungi kami untuk keterangan lebih lanjut mengenai service sakura travel. Dengan senang hati kami akan melayani kebutuhan anda.</span>
+                        <span style="font-family: dream;">Hubungi kami untuk keterangan lebih lanjut mengenai service Zona Travel Asia. Dengan senang hati kami akan melayani kebutuhan anda.</span>
 
 
 

@@ -1980,6 +1980,29 @@ a.rslides_nav.rslides1_nav.prev {
 
     text-shadow: 2px 1px 1px #090101;
 }
+
+
+.text3{
+    position: absolute;
+    font-style: bold;
+    bottom: 300px;
+    z-index: 100;
+    width: 500px;
+    text-align: justify;
+    left:400px;
+    height: 100px;
+    line-height: 20px;
+    color:#FFFFFF;
+    text-shadow: 2px 1px 1px #090101;
+    overflow: visible;
+    transition: all 0.3s;
+}
+.judul3{
+    color: #FFFFFF;
+    font-size: 50px;
+
+    text-shadow: 2px 1px 1px #090101;
+}
 /* //////////////////////////////////////////////////////////////////////
 //  03 - SECTION 9
 //////////////////////////////////////////////////////////////////////*/

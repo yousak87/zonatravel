@@ -99,7 +99,7 @@
                                 <a href="harapan32.php" title="Paket  Pulau Harapan 3 Hari 2 Malam">Paket  Pulau Harapan 3 Hari 2 Malam</a>
                             </li>
                             <li class="cat-item cat-item-1 current-cat">
-                                <a href="harapan.php" title="detail Paket Speedboat Pulau Harapan 2 Hari 1 Malam">Paket Speedboat Pulau Harapan 2 Hari 1 Malam</a>
+                                <a href="harapan21.php" title="detail Paket Speedboat Pulau Harapan 2 Hari 1 Malam">Paket Speedboat Pulau Harapan 2 Hari 1 Malam</a>
                             </li>
                             <li class="cat-item cat-item-1 current-cat">
                                 <a href="harapans32.php" title="detail Paket Speedboat Pulau Harapan 3 Hari 2 Malam">Paket Speedboat Pulau Harapan 3 Hari 2 Malam</a>
@@ -184,7 +184,7 @@
                 </div>
                 <div class="grid_6 green fade-right animate1">
 
-                    <iframe width="550" height="370" src="https://www.youtube.com/embed/WE7WsnuLvPs" frameborder="0" allowfullscreen></iframe>
+                    <iframe width="550" height="370" src="https://www.youtube.com/embed/UFb_VyJeSps" frameborder="0" allowfullscreen></iframe>
                 </div>
                 <!--end info project-->
                 <div class="grid_4 green fade-right animate1">
@@ -343,7 +343,7 @@
                         </td>
                         </tr>
                         <tr >
-                            <td> <li style="color: #FFE09C;"><font color="white"> 12.30-17.30
+                            <td style="vertical-align: top;"> <li style="color: #FFE09C;"><font color="white"> 12.30-17.30
                             </font></li></td>
                         <td align="left"><p style="font-size: 15px;font-family: dream"><font color="white">Kegiatan snorkling (ke Pulau Kayu Angin Genteng, Pulau Macan, Pulau Bulat, Pulau Perak, Pulau Bintang, dan pulau sekitar)</font></p>
                         </td>
@@ -480,10 +480,10 @@
                                 <!--start first destination-->
                                 <div class="destinationsingleproject single-carousel blue">
 
-                                    <a href="harapan.php"><img alt="" class="imgdestinationsingleproject" src="img/pulau/harapan/7.jpg"></a>
+                                    <a href="harapan21.php"><img alt="" class="imgdestinationsingleproject" src="img/pulau/harapan/7.jpg"></a>
 
                                     <div class="titledaydestinationsingleproject">
-                                        <p class="titledestinationsingleproject"><a href="harapan.php" style="font-family: dream;font-weight: bold;">PULAU HARAPAN</a></p>
+                                        <p class="titledestinationsingleproject"><a href="harapan21.php" style="font-family: dream;font-weight: bold;">PULAU HARAPAN</a></p>
 
                                     </div> 
 

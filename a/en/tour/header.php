@@ -171,8 +171,9 @@ const FOOTER = '<footer id="footer">
             <div class="container clearfix">
                 <center><img src="../logo.png"></center>
                 <div class="column-left">
-                    <h3 style="font-family: BernardoModaSemibold;color:white;">OFFICE</h3>
-                    <p style="font-family: dream;color:white;">Address: Broadway Road 234 - 35127<br />Phone: +001 3072341187<br />Mail: info@lovetravel.com</p>
+                    <h3 style="font-family: BernardoModaSemibold;color:white;">KANTOR</h3>
+                    <p style="font-family: dream;color:white;">Mall Taman Palem, <br> Lt.2, No : B5 <br>
+                                    Cengkareng Timur - Jakarta Barat</p>
 
                 </div>
 
